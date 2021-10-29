@@ -6,7 +6,7 @@
 
 <h1 align="center"> A Lonely Comet - An Anime Blog </h1>
 
-<h3 align="center"> Some wibus come from fairy tales. </h3>
+<h3 align="center"> Some wibus come from the fairy tales. </h3>
 
 <p align="center">
   <a href="https://github.com/meokisama/meokisama.github.io/blob/develop/LICENSE">
