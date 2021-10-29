@@ -22,6 +22,13 @@
 
 A static blog of some wibu/s come from fairy tales. Converted to static from Wordpress.
 
+## Logo
+
+<p align="center">
+  <a href="https://meoki.net/alonelycomet">
+    <img src="logo/512.png" width='200px'/>
+  </a>
+</p>
 
 ## Find me around the web 🌎:
 
