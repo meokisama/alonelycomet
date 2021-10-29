@@ -113,7 +113,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/blog\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="/alonelycomet/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"f36a1b983d"};
+var userProfileL10n = {"user_id":"0","nonce":"b0732cf6b5"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
