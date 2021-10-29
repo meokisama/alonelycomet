@@ -28,7 +28,11 @@ var LWA = {"ajaxurl":"\/wp-admin\/admin-ajax.php"};
 <link rel="stylesheet" id="apsl-frontend-css-css" href="/alonelycomet/wp-content/plugins/accesspress-social-login-lite/css/frontend.css?ver=3.4.7" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="/alonelycomet/wp-content/uploads/2021/10/cropped-Comet-1-32x32.png" sizes="32x32">
+<link rel="icon" href="/alonelycomet/wp-content/uploads/2021/10/cropped-Comet-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/alonelycomet/wp-content/uploads/2021/10/cropped-Comet-1-180x180.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2021/10/cropped-Comet-1-270x270.png">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-vi">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
