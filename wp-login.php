@@ -28,10 +28,10 @@ var LWA = {"ajaxurl":"\/wp-admin\/admin-ajax.php"};
 <link rel="stylesheet" id="apsl-frontend-css-css" href="/alonelycomet/wp-content/plugins/accesspress-social-login-lite/css/frontend.css?ver=3.4.7" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-	<link rel="icon" href="/alonelycomet/wp-content/uploads/2021/10/cropped-Comet-1-32x32.png" sizes="32x32">
-<link rel="icon" href="/alonelycomet/wp-content/uploads/2021/10/cropped-Comet-1-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="/alonelycomet/wp-content/uploads/2021/10/cropped-Comet-1-180x180.png">
-<meta name="msapplication-TileImage" content="/wp-content/uploads/2021/10/cropped-Comet-1-270x270.png">
+	<link rel="icon" href="/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png" sizes="32x32">
+<link rel="icon" href="/alonelycomet/wp-content/uploads/2021/10/cropped-512-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/alonelycomet/wp-content/uploads/2021/10/cropped-512-180x180.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2021/10/cropped-512-270x270.png">
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-vi">
 	<script type="text/javascript">
@@ -113,7 +113,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/blog\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="/alonelycomet/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"b0732cf6b5"};
+var userProfileL10n = {"user_id":"0","nonce":"eba3d34cc0"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
