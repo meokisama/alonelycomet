@@ -32,7 +32,7 @@ A static blog of some wibu/s come from fairy tales. Converted to static from Wor
 
 ## Demo
 
-![demo.png](logo/demo.png)
+![demo.png](logo/demo.jpg)
 
 ## Find me around the web 🌎:
 
