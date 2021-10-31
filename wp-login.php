@@ -3,7 +3,7 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Đăng nhập &lsaquo; A Lonely Comet &#8212; WordPress</title>
-	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
+	<meta name="robots" content="noindex, follow">
 <link rel="dns-prefetch" href="//s.w.org">
 <script type="text/javascript" src="/alonelycomet/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script type="text/javascript" src="/alonelycomet/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -113,7 +113,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/blog\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="/alonelycomet/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"eba3d34cc0"};
+var userProfileL10n = {"user_id":"0","nonce":"9e40ab6766"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
