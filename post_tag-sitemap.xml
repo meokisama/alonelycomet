@@ -2,15 +2,23 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/alonelycomet/tag/anime/</loc>
-		<lastmod>2021-10-31T06:44:14+00:00</lastmod>
+		<lastmod>2021-10-31T17:54:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/alonelycomet/tag/concept/</loc>
+		<lastmod>2021-10-31T16:56:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/alonelycomet/tag/kyoani/</loc>
+		<lastmod>2021-10-31T15:08:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/alonelycomet/tag/manga/</loc>
-		<lastmod>2021-10-30T06:07:35+00:00</lastmod>
+		<lastmod>2021-10-31T17:54:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/alonelycomet/tag/novel/</loc>
-		<lastmod>2021-10-30T08:07:55+00:00</lastmod>
+		<lastmod>2021-10-31T17:54:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/alonelycomet/tag/oneshot/</loc>
@@ -18,11 +26,15 @@
 	</url>
 	<url>
 		<loc>/alonelycomet/tag/producer/</loc>
-		<lastmod>2021-10-31T06:44:14+00:00</lastmod>
+		<lastmod>2021-10-31T15:01:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/alonelycomet/tag/ranking/</loc>
+		<lastmod>2021-10-31T16:12:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/alonelycomet/tag/sharing/</loc>
-		<lastmod>2021-10-30T06:33:18+00:00</lastmod>
+		<lastmod>2021-10-31T17:54:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/alonelycomet/tag/wallpaper/</loc>
