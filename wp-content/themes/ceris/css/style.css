@@ -6284,7 +6284,7 @@ select.form-control:focus {
 
 @font-face {
     font-family: 'mdicon';
-    src: url("/alonelycomet/wp-content/themes/ceris/fonts/mdicon.ttf?sx8kbt") format("truetype"), url("/alonelycomet/wp-content/themes/ceris/fonts/mdicon.woff?sx8kbt") format("woff"), url("/alonelycomet/wp-content/themes/ceris/fonts/mdicon.svg?sx8kbt#mdicon") format("svg");
+    src: url("https://meoki.net/alonelycomet/wp-content/themes/ceris/fonts/mdicon.ttf?sx8kbt") format("truetype"), url("https://meoki.net/alonelycomet/wp-content/themes/ceris/fonts/mdicon.woff?sx8kbt") format("woff"), url("https://meoki.net/alonelycomet/wp-content/themes/ceris/fonts/mdicon.svg?sx8kbt#mdicon") format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -6311,9 +6311,9 @@ select.form-control:focus {
 
 @font-face {
     font-family: 'mdicon';
-    src: url('/alonelycomet/wp-content/themes/ceris/fonts/mdicon.ttf?1qswia') format('truetype'),
-    url('/alonelycomet/wp-content/themes/ceris/fonts/mdicon.woff?1qswia') format('woff'),
-    url('/alonelycomet/wp-content/themes/ceris/fonts/mdicon.svg?1qswia#mdicon') format('svg');
+    src: url('https://meoki.net/alonelycomet/wp-content/themes/ceris/fonts/mdicon.ttf?1qswia') format('truetype'),
+    url('https://meoki.net/alonelycomet/wp-content/themes/ceris/fonts/mdicon.woff?1qswia') format('woff'),
+    url('https://meoki.net/alonelycomet/wp-content/themes/ceris/fonts/mdicon.svg?1qswia#mdicon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -45957,7 +45957,7 @@ a, a:hover{
         background-color: rgba(0,0,0,0.5);
         visibility: hidden;
         opacity: 0;
-        cursor: url('/alonelycomet/wp-content/themes/ceris/css/cancel.svg'), pointer;
+        cursor: url('https://meoki.net/alonelycomet/wp-content/themes/ceris/css/cancel.svg'), pointer;
         z-index: 999;
     }
     .open-sub-col{
@@ -48467,7 +48467,7 @@ a, a:hover{
             background-size: cover !important;
 }
 .ceris-about-module .about__inner{
-    background: url(/alonelycomet/wp-content/themes/ceris/images/bg-border.png) top left repeat;
+    background: url(https://meoki.net/alonelycomet/wp-content/themes/ceris/images/bg-border.png) top left repeat;
     padding: 10px;
     text-align: center;
 }

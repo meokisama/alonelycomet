@@ -9,10 +9,10 @@
 
 <channel>
 	<title>wallpaper &#8211; A Lonely Comet</title>
-	<atom:link href="/alonelycomet/tag/wallpaper/feed/" rel="self" type="application/rss+xml" />
-	<link>/alonelycomet</link>
+	<atom:link href="https://meoki.net/alonelycomet/tag/wallpaper/feed/" rel="self" type="application/rss+xml" />
+	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog</description>
-	<lastBuildDate>Sat, 30 Oct 2021 06:51:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Nov 2021 14:45:33 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,21 +21,22 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
+	<url>https://meoki.net/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
 	<title>wallpaper &#8211; A Lonely Comet</title>
-	<link>/alonelycomet</link>
+	<link>https://meoki.net/alonelycomet</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Nhật Hoạ Kỳ Thư – Nhị Quyển [Hoạ Thư]</title>
-		<link>/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/</link>
-					<comments>/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Mon, 25 Oct 2021 01:20:00 +0000</pubDate>
 				<category><![CDATA[Sharing]]></category>
 		<category><![CDATA[anime]]></category>
+		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
 		<guid isPermaLink="false">https://atbs.bk-ninja.com/suga/?p=136</guid>
 
@@ -124,7 +125,7 @@
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/meokisama/albums/72157714963581953" title="Anime Animated Wallpaper"><img loading="lazy" src="https://live.staticflickr.com/31337/50073656498_f5c101769f_z.jpg" width="640" height="480" alt="Anime Animated Wallpaper"></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

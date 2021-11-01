@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Watanabe &#8211; A Lonely Comet</title>
-	<atom:link href="/alonelycomet/author/watanabe/feed/" rel="self" type="application/rss+xml" />
-	<link>/alonelycomet</link>
+	<atom:link href="https://meoki.net/alonelycomet/author/watanabe/feed/" rel="self" type="application/rss+xml" />
+	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog</description>
 	<lastBuildDate>Sun, 31 Oct 2021 05:11:00 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
+	<url>https://meoki.net/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
 	<title>Watanabe &#8211; A Lonely Comet</title>
-	<link>/alonelycomet</link>
+	<link>https://meoki.net/alonelycomet</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Violet Evergarden Movie Review &#8211; Một góc nhìn khác</title>
-		<link>/alonelycomet/2020/12/09/violet-evergarden-movie-review-mot-goc-nhin-khac/</link>
-					<comments>/alonelycomet/2020/12/09/violet-evergarden-movie-review-mot-goc-nhin-khac/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2020/12/09/violet-evergarden-movie-review-mot-goc-nhin-khac/</link>
+					<comments>https://meoki.net/alonelycomet/2020/12/09/violet-evergarden-movie-review-mot-goc-nhin-khac/#respond</comments>
 		
 		<dc:creator><![CDATA[Watanabe]]></dc:creator>
 		<pubDate>Wed, 09 Dec 2020 05:05:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1551</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1551</guid>
 
 					<description><![CDATA[Violet loài hoa yêu quýĐẹp dịu dàng như đôi mắt emBằng ánh nhìn thật thà chung thủyXóa tan lòng ngờ vực nhỏ nhen. Một cái kết viên mãn cho câu chuyện đầy ắp cảm xúc. Một nỗ lực phi thường từ đội ngũ sản xuất anime tài năng bậc nhất Nhật Bản. Một viên kẹo sô-cô-la bittersweet tuyệt hảo dành cho các anime fan Việt Nam và thế giới, đặc biệt là những người luôn mong ngóng sự hồi phục của KyotoAnimation. Violet Evergarden là khúc ca du dương nhưng không kém phần da diết về tình yêu, sự chung [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -91,7 +91,7 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/214230890320040">https://facebook.com/alonelycomet/posts/214230890320040</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2020/12/09/violet-evergarden-movie-review-mot-goc-nhin-khac/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2020/12/09/violet-evergarden-movie-review-mot-goc-nhin-khac/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Anime Review &#8211; A Lonely Comet</title>
-	<atom:link href="/alonelycomet/category/review/feed/" rel="self" type="application/rss+xml" />
-	<link>/alonelycomet</link>
+	<atom:link href="https://meoki.net/alonelycomet/category/review/feed/" rel="self" type="application/rss+xml" />
+	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog</description>
 	<lastBuildDate>Sun, 31 Oct 2021 17:29:26 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
+	<url>https://meoki.net/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
 	<title>Anime Review &#8211; A Lonely Comet</title>
-	<link>/alonelycomet</link>
+	<link>https://meoki.net/alonelycomet</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Chủ Nghĩa Hiện Sinh (Existentialism) và Hư Vô (Nihilism) Trong Anime Manga</title>
-		<link>/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/</link>
-					<comments>/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Sun, 31 Oct 2021 10:19:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1754</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1754</guid>
 
 					<description><![CDATA[1. Nguồn gốc Cả chủ nghĩa hiện sinh và chủ nghĩa hư vô bắt nguồn từ một nhà triết học có bộ râu đầy ấn tượng, Friedrich Nietzsche. Ông có lẽ là 1 trong những nhà triết học nổi tiếng và gây tranh cãi nhiều nhất bởi vì những ý tưởng đầy tính đột phá của mình và cả việc ông thường xuyên bị người ta hiểu lầm, “misquoted”- bị trích dẫn lời nói sai lệch. Trong đó, câu nói nổi tiếng nhất của ông đó là “God is dead. God remains dead. And we have killed him”. Trong thời [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -183,15 +183,15 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/259984102808983">https://facebook.com/alonelycomet/posts/259984102808983</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sự Tương Quan Giữa Nhân Vật &#038; Cốt Truyện – Hyouka (Kem Đá)</title>
-		<link>/alonelycomet/2021/10/26/su-tuong-quan-giua-nhan-vat-cot-truyen-hyouka-kem-da/</link>
-					<comments>/alonelycomet/2021/10/26/su-tuong-quan-giua-nhan-vat-cot-truyen-hyouka-kem-da/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/26/su-tuong-quan-giua-nhan-vat-cot-truyen-hyouka-kem-da/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/26/su-tuong-quan-giua-nhan-vat-cot-truyen-hyouka-kem-da/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Tue, 26 Oct 2021 01:17:00 +0000</pubDate>
@@ -233,15 +233,15 @@
 <h6>Link bài viết gốc: <a href="https://www.facebook.com/alonelycomet/posts/256584656482261">https://facebook.com/alonelycomet/posts/256584656482261</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/26/su-tuong-quan-giua-nhan-vat-cot-truyen-hyouka-kem-da/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/26/su-tuong-quan-giua-nhan-vat-cot-truyen-hyouka-kem-da/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Slice of Life và Triết Lý Sống &#8220;Ichigo Ichie&#8221;</title>
-		<link>/alonelycomet/2021/10/25/slice-of-life-va-triet-ly-song-ichigo-ichie/</link>
-					<comments>/alonelycomet/2021/10/25/slice-of-life-va-triet-ly-song-ichigo-ichie/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/25/slice-of-life-va-triet-ly-song-ichigo-ichie/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/25/slice-of-life-va-triet-ly-song-ichigo-ichie/#respond</comments>
 		
 		<dc:creator><![CDATA[1q84]]></dc:creator>
 		<pubDate>Sun, 24 Oct 2021 21:03:00 +0000</pubDate>
@@ -298,15 +298,15 @@ GIỜ.</p>
 <h6>Link bài viết gốc : <a href="https://www.facebook.com/alonelycomet/posts/255934149880645">https://www.facebook.com/alonelycomet/posts/255934149880645</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/25/slice-of-life-va-triet-ly-song-ichigo-ichie/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/25/slice-of-life-va-triet-ly-song-ichigo-ichie/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Dẫn Dắt Bằng CỐT TRUYỆN Vs Dẫn Dắt Bằng NHÂN VẬT – Ta Đánh Giá Anime Như Thế Nào?</title>
-		<link>/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/</link>
-					<comments>/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Fri, 22 Oct 2021 01:11:00 +0000</pubDate>
@@ -349,21 +349,21 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 <h6><strong>Link bài viết gốc :</strong> <a href="https://www.facebook.com/alonelycomet/posts/256584656482261">https://facebook.com/alonelycomet/posts/</a><a href="https://www.facebook.com/alonelycomet/posts/253979246742802">253979246742802</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Các Yếu Tố Cấu Thành Nhân Vật Xuất Sắc</title>
-		<link>/alonelycomet/2021/10/11/cac-yeu-to-cau-thanh-nhan-vat-xuat-sac/</link>
-					<comments>/alonelycomet/2021/10/11/cac-yeu-to-cau-thanh-nhan-vat-xuat-sac/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/11/cac-yeu-to-cau-thanh-nhan-vat-xuat-sac/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/11/cac-yeu-to-cau-thanh-nhan-vat-xuat-sac/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Mon, 11 Oct 2021 05:26:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1555</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1555</guid>
 
 					<description><![CDATA[Thông thường, cốt truyện và bối cảnh là điều gây ấn tượng ban đầu trong một tác phẩm bất kì, nhưng chính nhân vật mới là phần cốt yếu lôi cuốn khán giả theo dõi trong một thời gian dài. Trong bài viết kì này mình sẽ mổ xẻ một số khía cạnh cấu thành nhân vật xuất sắc. . 1/ Phác họa một “bản mặt” khác của nhân vật. Ta sẽ tìm hiểu qua nhân vật Guts với biệt danh “Hắc Kiếm Sĩ” trong Berserk. Đôi nét về tác phẩm, đây có thể nói là một trong những kiệt [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -522,15 +522,15 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/246732370800823">https://facebook.com/alonelycomet/posts/246732370800823</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/11/cac-yeu-to-cau-thanh-nhan-vat-xuat-sac/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/11/cac-yeu-to-cau-thanh-nhan-vat-xuat-sac/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Kobayashi-san Chi no Maidragon S – Hoa Anh Đào &#038; Lời Tri Ân Đến Cố Đạo Diễn Yasuhiro Takemoto</title>
-		<link>/alonelycomet/2021/09/27/kobayashi-san-chi-no-maidragon-s-hoa-anh-dao-loi-tri-an-den-co-dao-dien-yasuhiro-takemoto/</link>
-					<comments>/alonelycomet/2021/09/27/kobayashi-san-chi-no-maidragon-s-hoa-anh-dao-loi-tri-an-den-co-dao-dien-yasuhiro-takemoto/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/09/27/kobayashi-san-chi-no-maidragon-s-hoa-anh-dao-loi-tri-an-den-co-dao-dien-yasuhiro-takemoto/</link>
+					<comments>https://meoki.net/alonelycomet/2021/09/27/kobayashi-san-chi-no-maidragon-s-hoa-anh-dao-loi-tri-an-den-co-dao-dien-yasuhiro-takemoto/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 20:26:00 +0000</pubDate>
@@ -567,22 +567,22 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 <h6>Link bài viết gốc: <a href="https://www.facebook.com/alonelycomet/posts/237187095088684">https://facebook.com/alonelycomet/posts/237187095088684</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/09/27/kobayashi-san-chi-no-maidragon-s-hoa-anh-dao-loi-tri-an-den-co-dao-dien-yasuhiro-takemoto/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/27/kobayashi-san-chi-no-maidragon-s-hoa-anh-dao-loi-tri-an-den-co-dao-dien-yasuhiro-takemoto/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Summer Anime 2021 &#8211; Final Ranking</title>
-		<link>/alonelycomet/2021/09/21/summer-anime-2021-final-ranking/</link>
-					<comments>/alonelycomet/2021/09/21/summer-anime-2021-final-ranking/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/09/21/summer-anime-2021-final-ranking/</link>
+					<comments>https://meoki.net/alonelycomet/2021/09/21/summer-anime-2021-final-ranking/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Tue, 21 Sep 2021 04:55:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[anime]]></category>
 		<category><![CDATA[ranking]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1547</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1547</guid>
 
 					<description><![CDATA[Còn một tuần nữa là kết thúc mùa Summer Anime 2021 nên đây là dịp tốt để mình làm luôn list tổng kết các anime trong mùa này  List mang tính chủ quan khá cao, đánh giá của mình cũng sẽ không thay đổi gì nhiều so với những gì các bộ đã thể hiện (nếu như còn 1-2 tập nữa mới kết thúc hẳn). Nhìn chung thì mùa Summer Anime 2021 tương đối “ổn”, có nhiều sự lựa chọn cho khán giả theo dõi. • Xanh lá cây: Đáng xem.• Xanh dương: Xem tốt, có thể bạn sẽ thích.• [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -590,7 +590,7 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1400" height="1497" src="/alonelycomet/wp-content/uploads/2021/10/summer-ranking.jpg" alt="" class="wp-image-1549"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1400" height="1497" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/10/summer-ranking.jpg" alt="" class="wp-image-1549"/></figure>
 
 
 
@@ -821,21 +821,21 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/233324028808324">https://facebook.com/alonelycomet/posts/233324028808324</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/09/21/summer-anime-2021-final-ranking/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/21/summer-anime-2021-final-ranking/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Heike Monogatari – Sự Trở Lại Đầy Ngoạn Mục Của Naoko Yamada .ft Science SARU</title>
-		<link>/alonelycomet/2021/09/16/heike-monogatari-su-tro-lai-day-ngoan-muc-cua-naoko-yamada-ft-science-saru/</link>
-					<comments>/alonelycomet/2021/09/16/heike-monogatari-su-tro-lai-day-ngoan-muc-cua-naoko-yamada-ft-science-saru/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/09/16/heike-monogatari-su-tro-lai-day-ngoan-muc-cua-naoko-yamada-ft-science-saru/</link>
+					<comments>https://meoki.net/alonelycomet/2021/09/16/heike-monogatari-su-tro-lai-day-ngoan-muc-cua-naoko-yamada-ft-science-saru/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Wed, 15 Sep 2021 17:00:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1746</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1746</guid>
 
 					<description><![CDATA[Ôi trời ơi, tác phẩm mà mình mong chờ nhất (bên cạnh Dragon Maid S) đã được lên sóng rồi! Và nó quá tuyệt vời luôn! Cho những bạn chưa biết thì Heike Monogatari được Naoko Yamada đạo diễn, cô là nữ đạo diễn tài năng đã rời Kyoto Animation cách đây không lâu (tin chính thức thì chỉ trong tháng trước, trên thực tế thì cô đã rời studio từ năm ngoái rồi), và được studio Science Saru thực hiện. Tác phẩm còn có sự góp mặt của những gương mặt quen thuộc đã cộng tác với Kyoto Animation [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -886,15 +886,15 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/229931059147621">https://facebook.com/alonelycomet/posts/229931059147621</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/09/16/heike-monogatari-su-tro-lai-day-ngoan-muc-cua-naoko-yamada-ft-science-saru/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/16/heike-monogatari-su-tro-lai-day-ngoan-muc-cua-naoko-yamada-ft-science-saru/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title> “Tớ Muốn Ăn Tụy Của Cậu” – Một Tác Phẩm Về Sự Sống</title>
-		<link>/alonelycomet/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/</link>
-					<comments>/alonelycomet/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/</link>
+					<comments>https://meoki.net/alonelycomet/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Tue, 14 Sep 2021 20:19:00 +0000</pubDate>
@@ -929,21 +929,21 @@ Thể loại: Drama, Slice of life, Romance.</p></blockquote>
 <h6>Link bài viết gốc: <a href="https://www.facebook.com/alonelycomet/posts/229293875878006">https://facebook.com/alonelycomet/posts/229293875878006</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Shouwa Genroku Rakugo Shinjuu &#8211; Nghệ Thuật Và Thị Trường Luôn Cần Song Hành Cùng Nhau</title>
-		<link>/alonelycomet/2021/09/13/shouwa-genroku-rakugo-shinjuu-nghe-thuat-va-thi-truong-luon-can-song-hanh-cung-nhau/</link>
-					<comments>/alonelycomet/2021/09/13/shouwa-genroku-rakugo-shinjuu-nghe-thuat-va-thi-truong-luon-can-song-hanh-cung-nhau/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/09/13/shouwa-genroku-rakugo-shinjuu-nghe-thuat-va-thi-truong-luon-can-song-hanh-cung-nhau/</link>
+					<comments>https://meoki.net/alonelycomet/2021/09/13/shouwa-genroku-rakugo-shinjuu-nghe-thuat-va-thi-truong-luon-can-song-hanh-cung-nhau/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Mon, 13 Sep 2021 05:31:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1558</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1558</guid>
 
 					<description><![CDATA[Rakugo Shinjuu (Tên đầy đủ là Shouwa Genroku Rakugo Shinjuu) là 1 bộ anime kể về cuộc đời của người nghệ sĩ tên là Kikuhiko của bộ môn sân khấu độc diễn truyền thống của Nhật là rakugo. Rakugo được hiểu đơn giản là nghệ thuật kể chuyện không những dùng lời nói mà còn cử chỉ, điệu bộ, biểu cảm trên gương mặt của người dẫn chuyện để khiến khán giả chú ý, nhập tâm vào câu chuyện. Bộ anime ra mắt vào năm 2016, 2017 đã giành được rất nhiều sự tán dương của cộng đồng và được [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -1038,7 +1038,7 @@ Thể loại: Drama, Slice of life, Romance.</p></blockquote>
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/228037779336949">https://facebook.com/alonelycomet/posts/228037779336949</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/09/13/shouwa-genroku-rakugo-shinjuu-nghe-thuat-va-thi-truong-luon-can-song-hanh-cung-nhau/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/13/shouwa-genroku-rakugo-shinjuu-nghe-thuat-va-thi-truong-luon-can-song-hanh-cung-nhau/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>producer &#8211; A Lonely Comet</title>
-	<atom:link href="/alonelycomet/tag/producer/feed/" rel="self" type="application/rss+xml" />
-	<link>/alonelycomet</link>
+	<atom:link href="https://meoki.net/alonelycomet/tag/producer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog</description>
-	<lastBuildDate>Sun, 31 Oct 2021 14:35:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Nov 2021 15:23:25 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
+	<url>https://meoki.net/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
 	<title>producer &#8211; A Lonely Comet</title>
-	<link>/alonelycomet</link>
+	<link>https://meoki.net/alonelycomet</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vì Sao WIT Studio Lại Từ Bỏ Attack On Titan?</title>
-		<link>/alonelycomet/2021/10/19/vi-sao-wit-studio-tu-bo-attack-on-titan/</link>
-					<comments>/alonelycomet/2021/10/19/vi-sao-wit-studio-tu-bo-attack-on-titan/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/19/vi-sao-wit-studio-tu-bo-attack-on-titan/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/19/vi-sao-wit-studio-tu-bo-attack-on-titan/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Tue, 19 Oct 2021 01:37:00 +0000</pubDate>
@@ -60,21 +60,67 @@
 <h6><strong>Link bài viết gốc :</strong>&nbsp;<a href="https://www.facebook.com/alonelycomet/posts/252063563601037">https://facebook.com/alonelycomet/posts/252063563601037</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/19/vi-sao-wit-studio-tu-bo-attack-on-titan/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/19/vi-sao-wit-studio-tu-bo-attack-on-titan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chia sẻ về quá trình sản xuất Takt op.Destiny &#8211; [Kì 1]</title>
+		<link>https://meoki.net/alonelycomet/2021/10/09/chia-se-ve-qua-trinh-san-xuat-takt-op-destiny-ki-1/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/09/chia-se-ve-qua-trinh-san-xuat-takt-op-destiny-ki-1/#respond</comments>
+		
+		<dc:creator><![CDATA[v4v]]></dc:creator>
+		<pubDate>Sat, 09 Oct 2021 15:20:00 +0000</pubDate>
+				<category><![CDATA[Fall Anime 2021]]></category>
+		<category><![CDATA[anime]]></category>
+		<category><![CDATA[producer]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1804</guid>
+
+					<description><![CDATA[Đây là tác phẩm mình khá hype ngay khi có thông tin Madhouse x Mappa đảm nhận sản xuất, nên mình sẽ theo sát quá trình thực hiện và cập nhật những thông tin thú vị đến các bạn. Trước nhất, tập 1 được thực hiện ở Madhouse. Sang tập 2, Reiko Nagasawa (thiết kế nhân vật, trưởng chỉ đạo hoạt họa) xác nhận Mappa sẽ thực hiện tập này. Có bạn thắc mắc hỏi rằng tại sao cả hai không làm chung một tập, thì đơn giản là việc phân chia số tập thực hiện, hoặc làm “xoay vòng” [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p>Đây là tác phẩm mình khá hype ngay khi có thông tin Madhouse x Mappa đảm nhận sản xuất, nên mình sẽ theo sát quá trình thực hiện và cập nhật những thông tin thú vị đến các bạn.</p></blockquote>
+
+
+
+<p>Trước nhất, tập 1 được thực hiện ở Madhouse. Sang tập 2, Reiko Nagasawa (thiết kế nhân vật, trưởng chỉ đạo hoạt họa) xác nhận Mappa sẽ thực hiện tập này. Có bạn thắc mắc hỏi rằng tại sao cả hai không làm chung một tập, thì đơn giản là việc phân chia số tập thực hiện, hoặc làm “xoay vòng” sẽ đảm bảo sự “thống nhất” của tập anime hơn là khi xẻ nhỏ nó ra và gửi đi nhiều nơi khác nhau.</p>
+
+
+
+<p>Một ví dụ nhỏ để bạn dễ hình dung. Hiện nay ít có studio nào (ngoài trừ KyoAni) có thể đảm nhận hết toàn bộ công đoạn trong sản xuất hoạt họa, Madhouse và Mappa cũng không phải ngoại lệ. Do đó một bộ anime bất kì, nếu chỉ mỗi một studio sản xuất chính, họ vẫn cần xẻ nhỏ công đoạn và gửi sang nhiều studio hỗ trợ khác nhau. Mặt khác, các studio “hỗ trợ” này thường đảm nhận nhiều dự án song song, một studio “hỗ trợ” chỉ có thể đảm nhận một phần nhỏ lượng công việc được giao, chính vì thế, sẽ cần nhiều studio “hỗ trợ” để đảm nhận cùng với một studio sản xuất chính. Các công đoạn, nhiều người làm, mỗi người làm chút chút, không khó để bạn hình dung chất lượng sẽ trồi sụt và khó quản lý đến mức nào.</p>
+
+
+
+<p>Việc Madhouse hợp tác với Mappa, nghĩa là, họ đã san sẻ bớt phần việc của dự án anime, cũng có nghĩa, họ sẽ ít lệ thuộc hơn vào các studio “hỗ trợ” nếu như so với chỉ một studio đảm nhận sản xuất chính. Bộ phận nhân sự “nhà” tham gia sản xuất đông hơn (thay vì quẳng khối lượng công việc cho các studio hỗ trợ), dẫn đến chất lượng chỉn chu và thống nhất hơn. Trên thực tế, Madhouse đã đảm nhận công đoạn “gia công” ở tập 1 bằng đội ngũ nhân sự nhà của riêng họ, lí do vì sao bạn thấy chất lượng hoạt họa hành động lại đẹp mắt và ổn định như thế.</p>
+
+
+
+<p>Mặt khác, Mappa tuy hiện nay nắm chiếc ghế ở ủy ban sản xuất của Takt.op Destiny, nhưng bản thân họ lại rất bận tay với nhiều dự án (Jujutsu Kaisen 0 Movie, Shingeki no Kyojin final 2nd-cour, Alice to Therese, Chainsaw Man …. ), cũng chính vì lẽ đó, họ ký hợp đồng với Madhouse để đảm nhận sản xuất chính và đặt trọn niềm tin vào Madhouse. Nói một cách khác, Mappa vẫn sẽ tham gia thực hiện takt.op Destiny, nhưng dàn nhân sự họ tham gia có quy mô nhỏ &#8211; vừa, Madhouse vẫn là studio “gánh chính” – trong năm nay sau Sonny Boy, Madhouse đang tập trung mọi nguồn lực cho Takt Op.Destiny. Đây là dự án hợp tác “có lợi đôi bên”, Mappa vớ được một món hời, còn Madhouse thì được dịp đánh bóng tên tuổi sau nhiều năm trôi nổi lềnh bềnh.</p>
+
+
+
+<p></p>
+
+
+
+<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/245012510972809" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/245012510972809">https://facebook.com/alonelycomet/posts/245012510972809</a></h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/09/chia-se-ve-qua-trinh-san-xuat-takt-op-destiny-ki-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WIT studio đã lỗ đến $4.5 triệu trong năm 2020</title>
-		<link>/alonelycomet/2021/10/08/wit-studio-da-lo-den-4-5-trieu-trong-nam-2020/</link>
-					<comments>/alonelycomet/2021/10/08/wit-studio-da-lo-den-4-5-trieu-trong-nam-2020/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/08/wit-studio-da-lo-den-4-5-trieu-trong-nam-2020/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/08/wit-studio-da-lo-den-4-5-trieu-trong-nam-2020/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Fri, 08 Oct 2021 14:29:00 +0000</pubDate>
 				<category><![CDATA[Anime Industry]]></category>
 		<category><![CDATA[producer]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1636</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1636</guid>
 
 					<description><![CDATA[Theo thông tin tài chính mới nhận được thì WIT studio đã lỗ đến $4.5 triệu trong năm ngoái. Cũng vì lẽ đó mà IG Port (cty mẹ) sẽ triển khai một dự án để &#8220;quản lý tình hình tài chính cho cty con&#8221;. Không như trước đây IG Port &#8220;thả lỏng&#8221; cho WIT muốn làm gì thì làm&#160;. Có khá nhiều lí do để giải thích cho sự thất thu này, một vài yếu tố có thể kể đến như tình hình dịch bệnh đã làm trì trệ bộ phần sản xuất của họ (mà đa phần những studio [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -109,15 +155,57 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/244216487719078">https://facebook.com/alonelycomet/posts/244216487719078</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/08/wit-studio-da-lo-den-4-5-trieu-trong-nam-2020/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/08/wit-studio-da-lo-den-4-5-trieu-trong-nam-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Takt Op. Destiny và Một Số Điều Lưu Ý</title>
+		<link>https://meoki.net/alonelycomet/2021/10/06/takt-op-destiny-va-mot-so-dieu-luu-y/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/06/takt-op-destiny-va-mot-so-dieu-luu-y/#respond</comments>
+		
+		<dc:creator><![CDATA[v4v]]></dc:creator>
+		<pubDate>Wed, 06 Oct 2021 15:01:00 +0000</pubDate>
+				<category><![CDATA[Fall Anime 2021]]></category>
+		<category><![CDATA[anime]]></category>
+		<category><![CDATA[producer]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1795</guid>
+
+					<description><![CDATA[Mình cũng không dự định làm cái post này đâu, mà cũng phải nhắc đi nhắc lại rằng Takt.op Destiny là một dự án MEDIA MIX, cốt để quảng cáo cho những gì liên quan đến thương hiệu “Takt.op Destiny”, mà game lẫn anime chỉ là một phần trong đó. Tuy nhiên phiên bản anime sẽ được tính là điểm xuất phát, là dấu ấn rất quan trọng và thiết yếu để quyết định sự thành công của cả thương hiệu này. Nên chuyện bạn nghĩ phiên bản anime cốt chỉ để quảng cáo cho game (đến bây giờ còn [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Mình cũng không dự định làm cái post này đâu, mà cũng phải nhắc đi nhắc lại rằng Takt.op Destiny là một dự án MEDIA MIX, cốt để quảng cáo cho những gì liên quan đến thương hiệu “Takt.op Destiny”, mà game lẫn anime chỉ là một phần trong đó. Tuy nhiên phiên bản anime sẽ được tính là điểm xuất phát, là dấu ấn rất quan trọng và thiết yếu để quyết định sự thành công của cả thương hiệu này. Nên chuyện bạn nghĩ phiên bản anime cốt chỉ để quảng cáo cho game (đến bây giờ còn chưa biết méo mó ra sao) mà không đoái hoài đến chất lượng là suy nghĩ hết sức sai lầm. Đó là cái thứ nhất.</p>
+
+
+
+<p>Điểm thứ 2, nếu bạn kiểm tra credit, thì bạn sẽ thấy 3 cái ghế ngồi chủ đạo trong ủy ban sản xuất là Bandai Namco Arts, DeNA và MAPPA. Đúng rồi đấy, MAPPA! Nếu như chỉ để quảng cáo cho tựa game và không quan tâm, thì cớ gì, tại sao, MAPPA lại đầu tư cho phiên bản anime, tại sao lại góp vốn để là một phần của ủy ban sản xuất? Vì họ TỰ TIN, rằng anime sẽ thành công lớn.</p>
+
+
+
+<p>Điểm thứ 3, tuy đây là dự án MAPPA đầu tư, là ủy ban sản xuất, nhưng họ lại giao cho Madhouse đảm nhận chính. Vì sao mình lại biết điều này? Khá đơn giản khi bạn biết đến Yuichiro Fukushi và Wataru Kawagoe lẫn vai trò của họ ở Madhouse / MAPPA. Nói ngắn gọn, Fukushi là NSX uy tín của Madhouse và đã góp mặt ở đa phần các dự án anime quan trọng của Madhouse trong thập kỷ vừa qua, trong khi Kawagoe chỉ mới đảm nhận có God of Highschool tại MAPPA. Như vậy cũng có nghĩa, MAPPA đã đặt trọn niềm tin của họ lên Madhouse trong bản chuyển thể lần này, cũng như là sẽ giúp đỡ, hỗ trợ lẫn san sẻ một phần công việc trong quá trình thực hiện tác phẩm. Và đối với Madhouse, takt op.Destiny cũng là dự án khá quan trọng giúp họ đánh bóng thêm tên tuổi vốn đang trên đà đi xuống trong những năm gần đây (kể từ 2020 cho đến hiện giờ thì Madhouse chỉ đảm nhận đúng 4 bộ anime truyền hình mà thôi, bao gồm cả takt op.Destiny). Nghĩa là, ngay cả uy tín của Madhouse cũng sẽ bị ảnh hưởng, nếu takt op.Destiny không thành công!</p>
+
+
+
+<p>Chốt lại, takt op.Destiny là sự đầu tư, tuy may rủi, nhưng cái sự may rủi này đã được những người trong ủy ban sản xuất giảm thiểu tối đa, và cả Madhouse lẫn MAPPA đều đang đánh cược với uy tín và nguồn vốn của họ trong dự án anime lần này. Thì bạn có thể chắc chắn rằng, họ không làm qua loa chỉ để quảng cáo cho con game nào đấy đến giờ còn chưa ai biết gameplay trông thế nào, mà sẽ dồn hết công sức, lẫn sự nhiệt huyết để khiến tác phẩm trở nên thành công. Danh tiếng và đồng tiền đầu tư của họ đang được đặt lên cán cân đấy các bạn à, đây không phải đơn thuần chỉ là dự án họ “được thuê” để làm.</p>
+
+
+
+<p></p>
+
+
+
+<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/243088811165179" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/243088811165179">https://facebook.com/alonelycomet/posts/243088811165179</a></h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/06/takt-op-destiny-va-mot-so-dieu-luu-y/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Animation Producer (Sản Xuất Hoạt Họa) và Vai Trò Trong Anime</title>
-		<link>/alonelycomet/2021/10/02/anime-producers-vai-tro-trong-anime/</link>
-					<comments>/alonelycomet/2021/10/02/anime-producers-vai-tro-trong-anime/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/02/anime-producers-vai-tro-trong-anime/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/02/anime-producers-vai-tro-trong-anime/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Sat, 02 Oct 2021 01:35:00 +0000</pubDate>
@@ -138,21 +226,21 @@
 <h6><strong>Link bài viết gốc :</strong> <a href="https://www.facebook.com/alonelycomet/posts/240415818099145">https://facebook.com/alonelycomet/posts/240415818099145</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/02/anime-producers-vai-tro-trong-anime/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/02/anime-producers-vai-tro-trong-anime/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WhiteFox (đã) đang có biến! Giấc mơ Re:Zero Season 3 ngày càng xa vời!</title>
-		<link>/alonelycomet/2021/09/30/whitefox-da-dang-co-bien-giac-mo-rezero-season-3-ngay-cang-xa-voi/</link>
-					<comments>/alonelycomet/2021/09/30/whitefox-da-dang-co-bien-giac-mo-rezero-season-3-ngay-cang-xa-voi/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/09/30/whitefox-da-dang-co-bien-giac-mo-rezero-season-3-ngay-cang-xa-voi/</link>
+					<comments>https://meoki.net/alonelycomet/2021/09/30/whitefox-da-dang-co-bien-giac-mo-rezero-season-3-ngay-cang-xa-voi/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Thu, 30 Sep 2021 14:24:00 +0000</pubDate>
 				<category><![CDATA[Anime Industry]]></category>
 		<category><![CDATA[producer]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1633</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1633</guid>
 
 					<description><![CDATA[Mới gần đây trong credit “Ganbare Douki-chan” đã xuất hiện cái tên “Tsunaki Yoshikawa”. Ông đã từng là “nhà sản xuất hoạt họa” (animation producer) lẫn “quản lý sản xuất” (production manager) của studio WhiteFox. Studio thực hiện “Ganbare Douki-chan” là Atelier Pontdarc. Và đây là studio “mới toanh” với ““Ganbare Douki-chan”” chính là tác phẩm đầu tay của họ. Ta có thể dễ dàng suy luận Atelier Pontdarc là studio do Yoshikawa thành lập nên hoặc có vai trò chủ chốt trong việc quản lí nhân sự, và điều này cũng chính thức xác nhận luôn là Yoshikawa đã [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -195,22 +283,22 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/239124421561618">https://facebook.com/alonelycomet/posts/239124421561618</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/09/30/whitefox-da-dang-co-bien-giac-mo-rezero-season-3-ngay-cang-xa-voi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/30/whitefox-da-dang-co-bien-giac-mo-rezero-season-3-ngay-cang-xa-voi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Một số điều thú vị về quá trình sản xuất của Kobayashi-san Chi no Maidragon S</title>
-		<link>/alonelycomet/2021/09/23/mot-so-dieu-thu-vi-ve-qua-trinh-san-xuat-cua-kobayashi-san-chi-no-maidragon-s/</link>
-					<comments>/alonelycomet/2021/09/23/mot-so-dieu-thu-vi-ve-qua-trinh-san-xuat-cua-kobayashi-san-chi-no-maidragon-s/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/09/23/mot-so-dieu-thu-vi-ve-qua-trinh-san-xuat-cua-kobayashi-san-chi-no-maidragon-s/</link>
+					<comments>https://meoki.net/alonelycomet/2021/09/23/mot-so-dieu-thu-vi-ve-qua-trinh-san-xuat-cua-kobayashi-san-chi-no-maidragon-s/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 14:18:00 +0000</pubDate>
 				<category><![CDATA[Anime Industry]]></category>
 		<category><![CDATA[kyoani]]></category>
 		<category><![CDATA[producer]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1630</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1630</guid>
 
 					<description><![CDATA[1/ Nhân sự của tập 12 (Maidragon S). Storyboard: Takuya Yamamura, Tatsuya IshiharaEpisode Director: IshiharaAnimation Director: Yuki TsunodaKey Animation: Taichi Ishidate, Maiko Hado, Kyohei Ando, Mei Isai, Shun Itokawa, Kunihiro Hane, Aoi Matsumoto, Yurika Ono Maidragon S là dự án cuối cùng mà Yuki Tsunoda thực hiện cùng đội ngũ có quy mô nhỏ &#8211; dưới tư cách là đạo diễn hoạt họa &#8211; ở Kyoto Animation, trước khi rời khỏi studio. Nếu xem xét lịch sử làm việc của Tsunoda, bạn sẽ thấy ông đã tham gia vào anime &#8220;Sk8 the Infinity&#8221; do Bones thực hiện vào đầu năm [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -277,22 +365,22 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/234722582001802">https://facebook.com/alonelycomet/posts/234722582001802</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/09/23/mot-so-dieu-thu-vi-ve-qua-trinh-san-xuat-cua-kobayashi-san-chi-no-maidragon-s/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/23/mot-so-dieu-thu-vi-ve-qua-trinh-san-xuat-cua-kobayashi-san-chi-no-maidragon-s/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Kyoto Animation &#8211; Cảm Ơn Vì Tất Cả!</title>
-		<link>/alonelycomet/2021/09/23/kyoto-animation-cam-on-vi-tat-ca/</link>
-					<comments>/alonelycomet/2021/09/23/kyoto-animation-cam-on-vi-tat-ca/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/09/23/kyoto-animation-cam-on-vi-tat-ca/</link>
+					<comments>https://meoki.net/alonelycomet/2021/09/23/kyoto-animation-cam-on-vi-tat-ca/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 14:13:00 +0000</pubDate>
 				<category><![CDATA[Anime Industry]]></category>
 		<category><![CDATA[kyoani]]></category>
 		<category><![CDATA[producer]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1627</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1627</guid>
 
 					<description><![CDATA[Tập cuối của Kobayashi-san Chi no Maidragon S đã khép lại, một tập tuyệt vời tràn đầy cảm xúc. Đây không phải là lời chia tay, mà là điểm khởi đầu đánh dấu chặng đường mới sau 2 năm vắng bóng trên sóng truyền hình. Maidragon S với mình như một món quà từ người bạn cũ thân thương, hàm chứa tất cả những gì mình đã thích, đã yêu về KyoAni. Đoạn cảnh cuối trong tác phẩm, các nhân vật tụ họp quây quần cùng nhau dưới những tán cây anh đào hồng thắm, những ngọn gió nhẹ nhàng [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -359,22 +447,22 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/234496652024395">https://facebook.com/alonelycomet/posts/234496652024395</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/09/23/kyoto-animation-cam-on-vi-tat-ca/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/23/kyoto-animation-cam-on-vi-tat-ca/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Kyoto Animation &#8211; Chất Art của Akiko Takase</title>
-		<link>/alonelycomet/2021/09/18/kyoto-animation-chat-art-cua-akiko-takase/</link>
-					<comments>/alonelycomet/2021/09/18/kyoto-animation-chat-art-cua-akiko-takase/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/09/18/kyoto-animation-chat-art-cua-akiko-takase/</link>
+					<comments>https://meoki.net/alonelycomet/2021/09/18/kyoto-animation-chat-art-cua-akiko-takase/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Sat, 18 Sep 2021 13:57:00 +0000</pubDate>
 				<category><![CDATA[Anime Industry]]></category>
 		<category><![CDATA[kyoani]]></category>
 		<category><![CDATA[producer]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1621</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1621</guid>
 
 					<description><![CDATA[Nhắc đến Kyoto Animation thì ta không thể không nhắc đến chất art của họ, nhất là art nhân vật vốn đã làm nên thương hiệu của studio. Ở Kyoto Animation, “nhà thiết kế nhân vật” thậm chí còn có vai trò quan trọng bằng một đạo diễn tập, và cả đạo diễn chung trong việc “điều hướng” các tác phẩm studio thực hiện. Vì sao mình lại nói như vậy? Mô hình của Kyoto Animation là một mô hình đóng kín có dàn nhân sự gắn bó lâu năm (trung bình là 10 năm). Cũng chính vì thế, chất [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -445,21 +533,21 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/231265112347549">https://facebook.com/alonelycomet/posts/231265112347549</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/09/18/kyoto-animation-chat-art-cua-akiko-takase/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/18/kyoto-animation-chat-art-cua-akiko-takase/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Animator Lương Thấp &#8211; Một Góc Nhìn Riêng</title>
-		<link>/alonelycomet/2021/09/14/animator-luong-thap-mot-goc-nhin-rieng/</link>
-					<comments>/alonelycomet/2021/09/14/animator-luong-thap-mot-goc-nhin-rieng/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/09/14/animator-luong-thap-mot-goc-nhin-rieng/</link>
+					<comments>https://meoki.net/alonelycomet/2021/09/14/animator-luong-thap-mot-goc-nhin-rieng/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Tue, 14 Sep 2021 13:53:00 +0000</pubDate>
 				<category><![CDATA[Anime Industry]]></category>
 		<category><![CDATA[producer]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1618</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1618</guid>
 
 					<description><![CDATA[Lạm bàn về chuyện animator có đồng lương thấp! Đây là góc nhìn và cũng là câu trả lời của mình từ nay về sau cho mọi bài viết có chủ đề liên quan đến tình cảnh và đồng lương của họ. Bạn chỉ cần tốn vài giây để tìm kiếm là đã có rất nhiều kết quả về những bài báo thống kê số liệu, lẫn nêu hiện trạng “đồng lương thấp” của các hoạt họa sĩ ở Nhật, nhất là những người mới vào nghề trong độ tuổi từ 20-30. https://tinyurl.com/ysnmxyt2https://tinyurl.com/524sbs24https://tinyurl.com/jzrsazevhttps://tinyurl.com/5m4ss3cehttps://tinyurl.com/akm8x3j8 Bên cạnh đó, nhiều người trong ngành [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -566,197 +654,7 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/228636329277094">https://facebook.com/alonelycomet/posts/228636329277094</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/09/14/animator-luong-thap-mot-goc-nhin-rieng/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Đừng Trách Oan CloverWorks!</title>
-		<link>/alonelycomet/2021/09/12/dung-trach-oan-cloverworks/</link>
-					<comments>/alonelycomet/2021/09/12/dung-trach-oan-cloverworks/#respond</comments>
-		
-		<dc:creator><![CDATA[v4v]]></dc:creator>
-		<pubDate>Sun, 12 Sep 2021 13:50:00 +0000</pubDate>
-				<category><![CDATA[Anime Industry]]></category>
-		<category><![CDATA[producer]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1615</guid>
-
-					<description><![CDATA[CloverWorks thế này, CloverWorks thế nọ! Nhiều người đang rất có “ác cảm” với CloverWorks vì họ có những pha đâm vào lòng đất khi chuyển thể The Promised Neverland season 2, lẫn tập special của Wonder Egg Priority. Nhưng khách quan mà nói thì ta cũng không thể trách họ được, trong bài này mình sẽ phần nào “giải oan” cho tình cảnh của CloverWorks. Xét về trường hợp của The Promised Neverland season 2, “ủy ban sản xuất” sẽ cho studio nguồn kinh phí nhất định với số tập nhất định để thực hiện, với mục tiêu “làm [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<h6>CloverWorks thế này, CloverWorks thế nọ!</h6>
-
-
-
-<p>Nhiều người đang rất có “ác cảm” với CloverWorks vì họ có những pha đâm vào lòng đất khi chuyển thể The Promised Neverland season 2, lẫn tập special của Wonder Egg Priority. Nhưng khách quan mà nói thì ta cũng không thể trách họ được, trong bài này mình sẽ phần nào “giải oan” cho tình cảnh của CloverWorks.</p>
-
-
-
-<p>Xét về trường hợp của The Promised Neverland season 2, “ủy ban sản xuất” sẽ cho studio nguồn kinh phí nhất định với số tập nhất định để thực hiện, với mục tiêu “làm anime để tăng doanh số manga, đồng thời khép lại luôn tác phẩm”. Manga lúc đấy đã kết thúc nên “ủy ban sản xuất” cho rằng anime cũng không còn giá trị nhiều để tiếp tục đầu tư vào, và họ buộc anime phải kết thúc trong season 2.</p>
-
-
-
-<p>CloverWorks đã từng thực hiện The Promised Neverland season 1 cực kì xuất sắc, không có lí do gì để cho rằng họ không thể thực hiện được season 2 xuất sắc như season 1 trước đó. Nghĩa là ở đây, công việc họ cần thực hiện là nhồi nhét hơn cả trăm chương truyện và khép chúng lại vào một season (dài 11 tập). Đây không phải là quyết định của CloverWorks! Mà là của uy ban sản xuất – những người đã cung cấp kinh phí cho dự án! Nói như thế để bạn dễ hình dung, “nhồi nhét cả trăm chương vào 11 tập và kết thúc chúng” – là công việc bất kì studio nào cũng phải đảm nhận nếu như họ đồng ý thầu dự án. Bạn có chắc rằng một studio khác – khi đặt vào tình cảnh của CloverWorks – có thể làm tốt hơn với cái yêu cầu “không tưởng” này từ ủy ban sản xuất?</p>
-
-
-
-<p>Chưa dừng lại ở đó, TPN ss2 có sự tham gia của Kaiu Shirai (chính tác giả của tác phẩm chứ không phải ai xa lạ!) trong vị trí giám sát và biên soạn nội dung số tập, quyết định của Shirai có thể xem như lời nói cuối cùng trong việc lựa chọn chương nào “nhét” vào được, và chương nào cần loại bỏ, lẫn đưa ra những quyết định sáng tác khác hẳn với manga (vd như một số tình tiết mới xuất hiện mà manga không có, etc). Shirai là một mangaka, chứ không phải nhà làm phim! Ông biết vẽ không đồng nghĩa với việc ông biết cách sắp đặt tiết tấu hợp lý và biên soạn nội dung chỉnh tề theo số tập trong một series anime, và đấy còn là dự án đầu tay của Shirai! Nói như thế cũng có nghĩa, những gì diễn ra trong ss2 – khi có chính tác giả góp mặt trong quá trình sản xuất – phản ánh những gì ông “mong muốn” thực hiện và truyền tải đến người xem, ta cũng thấy được sự non tay của Shirai trong vai trò này nếu mảng nội dung của tác phẩm có sự giảm sút về chất lượng. Đây là chuyện hoàn toàn dễ hiểu với một mangaka lần đầu tiên tham gia dự án và bị bắt phải dồn hơn cả trăm chương ông vẽ vào vỏn vẹn 11 tập anime.</p>
-
-
-
-<p>Thâu tóm những điều trên, thì liệu ta có đang trách nhầm CloverWorks? Khi họ phải thực hiện yêu cầu “không tưởng” từ ủy ban sản xuất? Ngay cả sự tham gia của chính tác giả trong quy trình thực hiện ở mảng biên soạn nội dung – cũng không làm tác phẩm hay hơn được, hoặc có kết thúc “đẹp” hơn. Tất nhiên là CloverWorks không thể chơi chiêu bài “chuồn” như WIT đã làm với AoT Final season, vì đơn giản, Aniplex (ông chủ của họ) nắm giữ một chiếc ghế trong ủy ban sản xuất, nghĩa là CloverWorks sẽ phải theo đến cùng.</p>
-
-
-
-<p>Anw, đây là post ăn mừng Shadow House có season 2, một tác phẩm CloverWorks chuyển thể cực tốt với OST khá chất (ED do ReoNa trình bày nghe tuyệt cú mèo luôn) mà nếu là người yêu thích mystery thì bạn không nên bỏ qua.</p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-
-
-
-<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/227392582734802">https://facebook.com/alonelycomet/posts/227392582734802</a></h6>
-]]></content:encoded>
-					
-					<wfw:commentRss>/alonelycomet/2021/09/12/dung-trach-oan-cloverworks/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Kinh phí có quan hệ thế nào đến chất lượng một bộ anime?</title>
-		<link>/alonelycomet/2021/09/11/kinh-phi-co-quan-he-the-nao-den-chat-luong-mot-bo-anime/</link>
-					<comments>/alonelycomet/2021/09/11/kinh-phi-co-quan-he-the-nao-den-chat-luong-mot-bo-anime/#respond</comments>
-		
-		<dc:creator><![CDATA[v4v]]></dc:creator>
-		<pubDate>Sat, 11 Sep 2021 13:39:00 +0000</pubDate>
-				<category><![CDATA[Anime Industry]]></category>
-		<category><![CDATA[producer]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1612</guid>
-
-					<description><![CDATA[Đây là câu hỏi tưởng dễ nhưng đã có rất nhiều người lầm tưởng sai câu trả lời. Khi một anime có các đoạn cảnh kém chất lượng, đa phần đều đổ tội cho &#8220;thiếu kinh phí&#8221; khi bản thân người xem không thật sự nắm rõ những gì diễn ra trong ngành công nghiệp. Trong bài viết kì này, mình sẽ giải đáp những thông tin và nhìn nhận sai lệch về “kinh phí” trong anime nói chung. &#8220;Kinh phí và chất lượng không có mối tương quan với nhau. Nhưng nếu kinh phí quá ít thì sẽ không [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Đây là câu hỏi tưởng dễ nhưng đã có rất nhiều người lầm tưởng sai câu trả lời. Khi một anime có các đoạn cảnh kém chất lượng, đa phần đều đổ tội cho &#8220;thiếu kinh phí&#8221; khi bản thân người xem không thật sự nắm rõ những gì diễn ra trong ngành công nghiệp. Trong bài viết kì này, mình sẽ giải đáp những thông tin và nhìn nhận sai lệch về “kinh phí” trong anime nói chung.</p>
-
-
-
-<blockquote class="wp-block-quote"><p>&#8220;Kinh phí và chất lượng không có mối tương quan với nhau. Nhưng nếu kinh phí quá ít thì sẽ không thể hội đủ nhân viên cần thiết.&#8221;</p></blockquote>
-
-
-
-<p>Đây là lời nói của hoạt họa sĩ danh tiếng Naotoshi Shida, một nhân viên trụ cột với 25 năm kinh nghiệm của Toei Animation. Câu trả lời của ông có 2 vế, chúng ta sẽ đi vào phân tích từng vế một.</p>
-
-
-
-<p>.</p>
-
-
-
-<h5>1/ Kinh phí và chất lượng không có sự tương quan với nhau.</h5>
-
-
-
-<p>Nghe có vẻ nực cười, nhưng đây là sự thật và nhận định từ những người làm việc trong ngành. Một cảnh thường sẽ được trả phí như nhau dù key animator (hoạt họa sĩ chính) có thực hiện vẽ một hoặc rất nhiều khung hình cho cảnh này. Trong khi đó, chỉ một số ít key animator là cực giỏi (vd như thiên tài Nakamura của Bones, hoặc Mitsuo Iso &#8211; cựu nhân viên Gainax đã thực hiện cực phẩm NGE&#8230;), với số lượng cực kì khan hiếm nên không thể trông mong họ sẽ tham gia tất cả các tác phẩm anime. Đặc biệt là khi số lượng anime được sản xuất quá nhiều qua từng năm, sẽ dẫn đến tình trạng thiếu hụt nhân tài mà tiền bạc chẳng thể giải quyết được điều gì. Bạn có biết? One Punch Man là tác phẩm vốn nổi bật trong giới sakuga (chuyển động hoạt họa) vì sở hữu dàn nhân sự animator cực kì xuất chúng, hội tụ từ những studio máu mặt khác nhau trong ngành dưới sự chỉ đạo của đạo diễn Shingo Natsume. Công lớn phải kể đến NSX Yuichiro Fukushi đã sử dụng mối liên hệ quen biết của ông trong ngành CN để “chiêu mộ” các tài năng hoạt họa tham gia.</p>
-
-
-
-<blockquote class="wp-block-quote"><p>Thế nhưng Chikashi Kubota &#8211; trưởng chỉ đạo hoạt họa (Chief animation director) đã đăng thông tin trên twitter của mình rằng: &#8220;OPM không hề có kinh phí khủng mà trái lại, kinh phí chỉ thuộc dạng trung bình. Hoạt họa của OPM chất lượng là do công sức và tâm huyết của những người tham gia thực hiện&#8221;. </p></blockquote>
-
-
-
-<p>Trong một bài phỏng vấn khác, đạo diễn Shingo Natsume cũng cho biết: &#8220;Chúng tôi rất may mắn khi chiêu mộ được những hoạt họa sĩ không-hám-tiền cho dự án anime OPM&#8221; OPM là minh chứng rõ ràng nhất khi tài năng, tâm huyết của những hoạt họa sĩ thể hiện rõ nhất &#8211; họ muốn cùng nhau làm nên một điều gì đó thật tuyệt vời bằng cả tấm lòng. Cũng chính vì thế mà có rất nhiều animator danh tiếng tham gia thực hiện nhưng thậm chí họ còn không muốn để lại danh tính. Một trong số đó là chính là Nakamura Yutaka, bậc thầy về hành động võ thuật của studio Bones (ở đoạn cảnh Saitama vs Genos, bạn sẽ thấy dấu ấn yuta cubes của Nakamura).</p>
-
-
-
-<p>Takahiro Sakazume đã có buổi trả lời trực tuyến trên twitter và tiết lộ rằng đã có nhiều animator tài năng muốn làm việc với ông và Enokido trong tác phẩm Fate/Apocrypha (những đoạn cảnh hành động ở cuối phim cực kì hoành tráng). Không hề có bất kì sự thương lượng giá cả nào diễn ra, họ chỉ muốn góp mặt thực hiện cùng những tài năng họ ngưỡng mộ mà thôi! Mối &#8220;quan hệ&#8221; cũng có công lớn trong việc lôi kéo dàn nhân sự đầy tài năng tham gia một tác phẩm nào đấy. Con người làm nên anime &#8211; chứ không phải tiền bạc.</p>
-
-
-
-<p>Masahiko, chủ tịch của studio Bones, khi được hỏi về lí do tại sao có nhiều cựu nhân viên(từ những studio danh tiếng) lại đi tách ra lập thành các studio mới, nói rằng:&#8221;Có rất nhiều lí do. Nhưng lí do chính trong số đó là họ muốn tạo ra thứ gì đó mới, nhưng lại không thể khi làm việc ở studio cũ. Vì thế họ ra đi để thực hiện ý tưởng họ muốn làm. Điều này không phải lúc nào cũng vui, nhưng nó như số mệnh vậy. Khi diễn ra thì chẳng điều gì có thể ngăn cản được&#8221;</p>
-
-
-
-<p>Điều này đã thật sự đã lí giải vì sao Masao Maruyama (cựu nhân viên của Madhouse) lại tách ra riêng thành lập studio MAPPA &#8211; với mong muốn thực hiện nhiều tác phẩm nguyên tác anime hơn(những bộ như thế này thường chẳng trông mong thu được lợi nhuận). Madhouse trong giai đoạn này thì họ đã chạy theo xu hướng thị trường khá nhiều, so với trước 2010, Madhouse chỉ có tựa “Death Parade” và “Sora yori mo Tooi Basho” là original nổi bật (tạm bỏ qua Sonny Boy đang công chiếu).</p>
-
-
-
-<p>Trong khi đó, MAPPA lại là studio do những thành viên nhiệt huyết, chung niềm đam mê về các tác phẩm nguyên tác hoặc nghệ thuật từ Madhouse tách ra, và trong năm 2016 họ đã cho ra mắt tác phẩm &#8220;Góc Khuất Thế Giới&#8221; làm chao đảo giới phê bình ở khắp nơi. MAPPA cũng gặt hái được thành công lớn qua bộ Yuri on Ice. Tuy nhiên, ngựa quen đường cũ, khi đã ở đỉnh cao thành công, MAPPA lại đâm vào vết xe đổ của Madhouse khi xưa và một lần nữa, Maruyama từ chức chiếc ghế chủ tịch, tiếp tục tách riêng ra mà thành lập studio M2. Một trường hợp khác là của Trigger, những nhân viên tâm huyết đã tách ra Gainax (vốn cũ kĩ, không thể phát triển) để theo đuổi hướng đi mới, sáng tạo hơn nhưng vẫn giữ niềm đam mê cũ. Little Witch, Darling in the FranXX là các vd điển hình.</p>
-
-
-
-<p>.</p>
-
-
-
-<h5>2/ Kinh phí chỉ là một trong rất nhiều yếu tố quyết định đến chất lượng.</h5>
-
-
-
-<p>• &#8220;Nhưng nếu kinh phí quá ít thì sẽ không thể hội đủ nhân viên cần thiết.&#8221;</p>
-
-
-
-<p>Đây là vế thứ 2 của Naotoshi Shida. Tất nhiên, kinh phí quá ít thì cũng chẳng thể triển khai được một dự án, hay đáp ứng được điều kiện của đội ngũ thực hiện. Suy cho cùng, một người nghệ sĩ không thể sáng tác với cái bụng đói. Tuy nhiên, như đã phân tích ở trên, không phải cứ dồn hết kinh phí khủng vào một tác phẩm là chắc cú bộ sẽ có chất lượng thượng thừa! Kinh phí chỉ là một trong rất nhiều yếu tố tạo nên sự thành công ở một tác phẩm bất kì.</p>
-
-
-
-<p>Kyoto Animation và Ufotable là 2 studio hàng đầu về lĩnh vực chất lượng hoạt họa trong ngành công nghiệp. Nhưng các tác phẩm họ làm thường chỉ có mức kinh phí &#8220;trung bình&#8221;. Trong khi các studio khác (như A-1, Diomedea, J.C Staffs &#8230;) thường chạy sô ôm nhau nhiều bộ anime mỗi mùa, thì đối với 2 studio trên, họ chỉ đảm nhận duy nhất một bộ mà thôi. Bài viết phân tích về kinh phí của KyoAni bạn có thể đọc thêm ở đây:&nbsp;<a href="https://www.facebook.com/alonelycomet/posts/208643864609674?__tn__=-UK*F">https://www.facebook.com/alonelycomet/posts/208643864609674</a></p>
-
-
-
-<p>Bạn sẽ thấy được, số lượng hoạt họa sĩ chính (key animator) tham gia vào Yuri On Ice cao gấp 5 lần tác phẩm Hibike Euphonium của KyoAni, nhưng lại có chất lượng tệ hơn. Erkin Kawabata – một animator trong ngành – cũng lên tiếng nhận xét rằng “các anime của kyoani chỉ có kinh phí trung bình, thậm chí số ít còn cần ít vốn đầu tư hơn so với mặt bằng chung”. Vanitas no Carte của studio Bones có những tập cần đến 18 animation director (chỉ đạo hoạt họa) – so với con số từ 4 đến 5 thường thấy ở một tập anime bất kì – nhưng chất lượng hoạt họa của Vanitas cũng chỉ ở mức trung bình.</p>
-
-
-
-<p>Một vd khác dễ hình dung hơn, Kimetsu no Yaiba đã ngốn của Ufotable đến 1 năm &#8211; trước lịch công chiếu chính thức &#8211; để chuẩn bị và sản xuất, và đây là trường hợp khá hiếm trong cái ngành CN anime hiện nay. Trên thực tế, đội ngũ thực hiện KnY ở Ufotable chỉ mang quy mô nhỏ &#8211; vì lúc này phần còn lại của dàn nhân sự đang tập trung thực hiện Fate Heaven’s Feel, nhưng thời gian chuẩn bị lâu đã cho phép họ “giảm tải” khối lượng làm việc sang các studio hỗ trợ khác với deadline hợp lý, và tự tay đội ngũ “nhà” cũng đảm nhận khá nhiều các công đoạn hoạt họa (tập 2 của KnY đánh dấu lần đầu tiên một tập anime được Ufo sản xuất hoàn chỉnh tại “nhà”), lí giải cho chất lượng hình ảnh ổn định xuyên suốt các tập anime. Hay như trường hợp của WIT studio đã phải bỏ của chạy lấy người vì không kham nổi lịch làm việc kín mít do Kodansha đề ra – nên nhớ đây là IP lớn và Kodansha là gã xuất bản khổng lồ, tiền từ hợp đồng cũng không phải ít nhưng WIT vẫn phải từ chối. MAPPA vốn “quen đường cũ” nên nhanh tay đớp lấy miếng mồi ngay liền từ tay WIT, mà mình cũng phải công nhận rằng MAPPA hiện nay đang sở hữu đội ngũ quản lý cực kì hiệu quả, có vẻ họ đã cải thiện hơn rất nhiều để tránh lặp lại tình cảnh của Yuri on Ice khi xưa. Tuy nhiên, trong AoT Final Season do MAPPA đảm nhận, bạn sẽ không thấy được những thước phim hành động ảo diệu như hồi WIT thực hiện.</p>
-
-
-
-<p>Lịch làm việc được sắp xếp hợp lí, quản lí nhân sự tài tình đã giúp các tác phẩm của KyoAni lẫn Ufo giảm thiểu kinh phí tối đa. Mặt khác, cả 2 studio này còn áp dụng những kỹ thuật hiện đại (điển hình như 3D CGI) để hỗ trợ cho các hoạt họa sĩ thỏa sức sáng tạo, góp phần tiết kiệm thêm thời gian và chi phí sản xuất. Một tập anime chỉ cần đội ngũ vào khoảng mười mấy người là đã có thể thực hiện được. Bạn hãy tưởng tượng: Đấy là những người rất &#8220;thích hợp&#8221; cho tác phẩm, họ phải đảm bảo tác phẩm có nghệ thuật ổn định về độ nét, cử động, và được giám sát bởi một trưởng chỉ đạo hoạt họa (chief animation director) tài năng &#8211; vốn là người có tầm nhìn và hướng đi phù hợp với tác phẩm. Chính vì thế, nếu &#8220;nhét&#8221; thêm một đội ngũ dù có lên đến vài chục người cũng chả thể làm tiến độ tác phẩm nhanh hơn được, thậm chí còn rối hơn về vấn đề nhân sự, trì trệ hơn công việc và không thể đảm bảo chất lượng nghệ thuật mang tính ổn định xuyên suốt.</p>
-
-
-
-<p>Cách thức trả tiền truyền thống là người hoạt họa sĩ gia công sẽ chỉ được chi trả với mỗi bức hình họ vẽ, đối với key animator thì đó là một cảnh(a cut), chính vì vậy cũng có những người chỉ làm để đủ “chỉ tiêu” và không đoái hoài gì đến chất lượng bản vẽ. Thậm chí, như trường hợp của studio Bones, một key animator muốn cống hiến còn … không được vì layout của anh ta được cho là quá phức tạp và không phù hợp với lịch làm việc lẫn quy trình đã được sắp đặt sẵn, dẫn đến sự trì trệ trong dự án, lẫn nảy sinh thêm nhiều vấn đề về nguồn lực và chi tiêu. Nói như thế cũng có nghĩa, các studio hiện nay đã “tiêu chuẩn hóa” các biện pháp để kiểm soát chi tiêu và nguồn lực cho đồng đều. Mô hình Kyoto Animation là lý tưởng nhất khi chi trả theo giờ cho dàn nhân sự của họ. Các hoạt họa sĩ không cần phải bận tâm hay miệt mài vẽ nhiều khung hình để kiếm cơm, mà chỉ cần thỏa sức đam mê cho điều họ mong muốn. Do đó, KyoAni là studio có chất lượng ổn định bậc nhất trong tất cả các studio hiện nay.</p>
-
-
-
-<p>Bộ phim &#8220;Tokyo Godfathers&#8221; của Satoshi Kon chỉ có mức kinh phí vào khoảng $2.7 triệu đô, nhưng ngay chính ông cũng nghĩ rằng tác phẩm có chất lượng hơn hẳn với số kinh phí bỏ ra này. Trong khi đó, một bộ của Ghibli thường có số kinh phí cao hơn gấp nhiều lần. Và hiện nay, trong ngành CN thì “kinh phí” đều đã được tiêu chuẩn hóa xuyên suốt, ủy ban sản xuất sẽ phân chia đồng đều nguồn vốn của họ cho các dự án khác nhau, trường hợp ngoại lệ là cực hiếm và nếu có diễn ra thì chúng ta sẽ chỉ biết được nếu có sự xác nhận từ người trong ngành chứ không thể nói một bộ anime có kinh phí cao hơn chỉ nó vì nhìn đẹp và mượt hơn.</p>
-
-
-
-<p>.</p>
-
-
-
-<h5>3/ Điều đúc kết lại là gì?</h5>
-
-
-
-<p>• Kinh phí không có mối quan hệ tỉ lệ thuận với chất lượng một tác phẩm bất kì. Không phải cứ có vốn kinh phí nhiều là tác phẩm sẽ mang chất lượng tốt hơn.</p>
-
-
-
-<p>&#8220;Unlimited budget works&#8221;(túi tiền không đáy) của Ufo chỉ là meme đùa vui. Tất nhiên, vẫn cần phải có đủ số tiền tối thiểu để giữ chân và chiêu mộ nhân viên phù hợp, chi trả tiền thuê nhà, công cụ, tiền quảng cáo và nhiều khoảng kinh phí khác &#8230; nhưng chỉ đến một chừng mực nào đó mà thôi. Nền vững là một chuyện, nhưng cái nhà méo mó như thế nào với chất lượng ra sao vẫn nằm ở tay kiến trúc sư và các công nhân lao động (lẫn nhà thầu). Suy cho cùng, chính tài năng và niềm đam mê nhiệt huyết của những người tham gia tác phẩm mới là yếu tố đại quan trọng cho chất lượng và sự thành công. Đối với những hoạt họa sĩ danh tiếng lẫy lừng, sự nghiệp và dấu ấn để lại tuyệt phẩm cho đời còn quan trọng hơn là đồng tiền kiếm được. Nếu ai cũng hám tiền thì chắc chắn, họ sẽ không bao giờ lựa chọn ngành nghề làm hoạt họa sĩ &#8211; một trong những ngành nghề được trả công thấp nhất ở Nhật.</p>
-
-
-
-<p>Các src mình sẽ để dưới phần cmt. Như thường lệ, nếu bạn có bất kì câu hỏi nào liên quan đến anime và ngành CN thì mình sẽ giải đáp.</p>
-
-
-
-<p></p>
-
-
-
-<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/226725989468128">https://facebook.com/alonelycomet/posts/226725989468128</a></h6>
-]]></content:encoded>
-					
-					<wfw:commentRss>/alonelycomet/2021/09/11/kinh-phi-co-quan-he-the-nao-den-chat-luong-mot-bo-anime/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/14/animator-luong-thap-mot-goc-nhin-rieng/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>SUBA &#8211; A Lonely Comet</title>
-	<atom:link href="/alonelycomet/author/suba/feed/" rel="self" type="application/rss+xml" />
-	<link>/alonelycomet</link>
+	<atom:link href="https://meoki.net/alonelycomet/author/suba/feed/" rel="self" type="application/rss+xml" />
+	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog</description>
-	<lastBuildDate>Sun, 31 Oct 2021 17:29:26 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Nov 2021 15:30:21 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
+	<url>https://meoki.net/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
 	<title>SUBA &#8211; A Lonely Comet</title>
-	<link>/alonelycomet</link>
+	<link>https://meoki.net/alonelycomet</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Chủ Nghĩa Hiện Sinh (Existentialism) và Hư Vô (Nihilism) Trong Anime Manga</title>
-		<link>/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/</link>
-					<comments>/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Sun, 31 Oct 2021 10:19:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1754</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1754</guid>
 
 					<description><![CDATA[1. Nguồn gốc Cả chủ nghĩa hiện sinh và chủ nghĩa hư vô bắt nguồn từ một nhà triết học có bộ râu đầy ấn tượng, Friedrich Nietzsche. Ông có lẽ là 1 trong những nhà triết học nổi tiếng và gây tranh cãi nhiều nhất bởi vì những ý tưởng đầy tính đột phá của mình và cả việc ông thường xuyên bị người ta hiểu lầm, “misquoted”- bị trích dẫn lời nói sai lệch. Trong đó, câu nói nổi tiếng nhất của ông đó là “God is dead. God remains dead. And we have killed him”. Trong thời [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -183,15 +183,15 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/259984102808983">https://facebook.com/alonelycomet/posts/259984102808983</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/31/chu-nghia-hien-sinh-existentialism-va-hu-vo-nihilism-trong-anime-manga/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Dẫn Dắt Bằng CỐT TRUYỆN Vs Dẫn Dắt Bằng NHÂN VẬT – Ta Đánh Giá Anime Như Thế Nào?</title>
-		<link>/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/</link>
-					<comments>/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Fri, 22 Oct 2021 01:11:00 +0000</pubDate>
@@ -234,21 +234,22 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 <h6><strong>Link bài viết gốc :</strong> <a href="https://www.facebook.com/alonelycomet/posts/256584656482261">https://facebook.com/alonelycomet/posts/</a><a href="https://www.facebook.com/alonelycomet/posts/253979246742802">253979246742802</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/22/dan-dat-bang-cot-truyen-vs-dan-dat-bang-nhan-vat-ta-danh-gia-anime-nhu-the-nao/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bình luận Tsuki to Laika to Nosferatu &#8211; Tập 2 &#038; 3</title>
-		<link>/alonelycomet/2021/10/21/binh-luan-tsuki-to-laika-to-nosferatu-tap-2-3/</link>
-					<comments>/alonelycomet/2021/10/21/binh-luan-tsuki-to-laika-to-nosferatu-tap-2-3/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/21/binh-luan-tsuki-to-laika-to-nosferatu-tap-2-3/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/21/binh-luan-tsuki-to-laika-to-nosferatu-tap-2-3/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Thu, 21 Oct 2021 04:32:00 +0000</pubDate>
 				<category><![CDATA[Fall Anime 2021]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1536</guid>
+		<category><![CDATA[commentary]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1536</guid>
 
 					<description><![CDATA[Nếu các bạn muốn page viết về những bộ ít nổi mà hay trong mùa thì bộ Tsuki to laika chắc chắn là một trong số đó. Tôi cũng đã có “First impression” nêu ra cảm nhận ban đầu của mình rồi, các bạn có thể đọc lại: https://www.facebook.com/alonelycomet/posts/242127957927931 Nhìn chung thì tập 2,3 vẫn chứng tỏ đây là 1 trong những ứng cử viên cho AOTS, tác phẩm mà tôi thích nhất trong mùa. Thứ nhất là ở việc tìm hiểu và nghiên cứu kỹ càng của tác giả về thời kỳ space-race, chạy đua vào không gian giữa Liên [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -307,21 +308,80 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/253301436810583">https://facebook.com/alonelycomet/posts/253301436810583</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/21/binh-luan-tsuki-to-laika-to-nosferatu-tap-2-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/21/binh-luan-tsuki-to-laika-to-nosferatu-tap-2-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Phân tích Heike Monogatari &#8211; Tập 3 &#038; 4</title>
+		<link>https://meoki.net/alonelycomet/2021/10/14/phan-tich-heike-monogatari-tap-3-4/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/14/phan-tich-heike-monogatari-tap-3-4/#respond</comments>
+		
+		<dc:creator><![CDATA[SUBA]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2021 15:27:00 +0000</pubDate>
+				<category><![CDATA[Fall Anime 2021]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[anime]]></category>
+		<category><![CDATA[commentary]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1810</guid>
+
+					<description><![CDATA[Ở hai tập 3 và 4 này tôi phải thừa nhận với các bạn rằng yếu tố xung đột chính trị trong tác phẩm khá là rối não. Do những nhân vật tên gì giống nhau toàn có chữ -mori và mối liên hệ phức tạp giữa gia tộc Taira và hoàng tộc cũng như quan lại trong triều đình. Đối mặt với những chi tiết lịch sử dày đặc và rối rắm như vậy thì đạo diễn Yamada-san lại làm một việc khá là táo bạo đó là rush qua nó khá nhanh trong tập 3. Bình thường ta [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ở hai tập 3 và 4 này tôi phải thừa nhận với các bạn rằng yếu tố xung đột chính trị trong tác phẩm khá là rối não. Do những nhân vật tên gì giống nhau toàn có chữ -mori và mối liên hệ phức tạp giữa gia tộc Taira và hoàng tộc cũng như quan lại trong triều đình.</p>
+
+
+
+<p>Đối mặt với những chi tiết lịch sử dày đặc và rối rắm như vậy thì đạo diễn Yamada-san lại làm một việc khá là táo bạo đó là rush qua nó khá nhanh trong tập 3. Bình thường ta sẽ nghĩ rằng studio gặp vấn đề mới phải rush qua như vậy. Thế nhưng nhờ vào chi tiết Shigemori chiến đấu chống lại đoàn tăng lữ để bảo vệ kinh thành và cách thể hiện rất là gián tiếp không hề show ra cảnh đánh giết lẫn nhau mà chỉ qua giọng kể và tiếng đàn của Biwa thì làm tôi có liên tưởng đến 1 vở kịch được dàn dựng nên bởi những sự tham lam, hống hách của những kẻ đứng đầu như là lão Kiyomori.</p>
+
+
+
+<p>Nhờ vào việc lượt bớt những chi tiết chính trị như trên thì Yamada-san có thể dành nhiều thời gian hơn để chú trọng vào yếu tố drama, mối quan hệ giữa Biwa và những nhân vật quan trọng, và đó vẫn luôn là điểm mạnh của cô. Nhất là những chi tiết về Tokuko, nó không còn là sự ẩn dụ nhẹ nhàng nữa mà đã được phơi bày một cách trần trụi. Cô, phận là vợ của Thiên hoàng có thể nói là người phụ nữ được kính trọng nhất cả nước nhưng lại không hề nhận được bất cứ hạnh phúc nào. Phải cắn răng chịu đựng việc chồng mình ngoại tình, và bị cha ruột là Kiyomori chỉ xem như một quân bài chính trị để lão ta có thể củng cố quyền lực của mình.</p>
+
+
+
+<p>Đến đây ta cũng rõ ràng về vai trò của cô bé Biwa, cô không những là một nhân vật tượng trưng cho người kể chuyện mà còn là một sự phản chiếu của đạo diễn sự bất bình về những bất công của xã hội phong kiến thời xưa. Khiến đây không phải đơn thuần chỉ là việc kể lại câu chuyện lịch sử mà nó còn là 1 sự phê phán xã hội đầy mạnh mẽ, những giá trị đạo đức đầy lố bịch, chỉ vì một tên Kiyomori mà đã khiến những người tốt bụng như Tokuko rơi vào nghịch cảnh.</p>
+
+
+
+<p>Cũng như Shigemori vì lòng trung thành, vì chữ hiếu được đặt quá cao mà phải làm ngơ với sự lộng hành của những kẻ có quyền lực cao nhất. Câu nói nổi tiếng của ông đã thể hiện tất cả:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>“Nếu muốn trung quân thì phải bất hiếu. Chọn hiếu phải bất trung. Giờ con đã tiến thoái lưỡng nan. Phụ thân. Nếu như người muốn động binh, thì hãy lấy đầu của con trước”.</p></blockquote>
+
+
+
+<p>Chính ông là một người tốt bụng, đầy phẩm chất tốt mà vì hai chữ hiếu và trung kia mà phải bất lực trước những tội lỗi đã quá rõ ràng của người cha mình. Để rồi 1 phần tội lỗi đó đã phải gánh chịu vào người mà vong mạng nhưng vẫn chưa hề đủ. Vì thế, qua tập 4 tôi lại thấy việc rush qua những chi tiết ở tập 3 của đạo diễn Yamada lại rất hợp lý. Nếu bạn tốt ở việc gì thì hãy phát huy nó tối đa và cô đã dùng phần lớn thời lượng để truyền tải tâm tư, cảm xúc của nhân vật, khiến đây là 1 tác phẩm in đậm cái nhìn của đạo diễn hơn là 1 bản chuyển thể thông thường.</p>
+
+
+
+<p>Ở mùa anime thu 2021 này tôi mừng vì ta có 2 vị đạo diễn tài năng Naoko Yamada và Ayumu Watanabe cho ta thấy được tầm quan trọng của việc chọn lọc và sáng tạo trong chuyển thể thành anime là như thế nào. Bởi vì nếu không có cô thì chúng ta chỉ có 1 câu chuyện lịch sử về xung đột và chiến tranh giữa hai gia tộc như những câu chuyện lịch sử khác mà không phải là 1 tác phẩm phản ánh xã hội đầy sâu sắc như vậy đâu.</p>
+
+
+
+<p></p>
+
+
+
+<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/248385150635545" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/248385150635545">https://facebook.com/alonelycomet/posts/248385150635545</a></h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/14/phan-tich-heike-monogatari-tap-3-4/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cùng Tìm Hiểu Về Đạo Diễn Của Komi-san &#8211; Ayumu Watanabe</title>
-		<link>/alonelycomet/2021/10/14/cung-tim-hieu-ve-dao-dien-cua-komi-san-ayumu-watanabe/</link>
-					<comments>/alonelycomet/2021/10/14/cung-tim-hieu-ve-dao-dien-cua-komi-san-ayumu-watanabe/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/14/cung-tim-hieu-ve-dao-dien-cua-komi-san-ayumu-watanabe/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/14/cung-tim-hieu-ve-dao-dien-cua-komi-san-ayumu-watanabe/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Thu, 14 Oct 2021 05:55:00 +0000</pubDate>
 				<category><![CDATA[Anime Industry]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1573</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1573</guid>
 
 					<description><![CDATA[Bác v4v và tôi một cách khá là trùng hợp lại muốn viết bài về vị đạo diễn này. Trong bài viết của bác v4v đã có đề cập khá là chi tiết về kỹ thuật điện ảnh (cinematography) mà Watanabe-san sử dụng trong bộ Komi-san một cách đầy ấn tượng. Nhưng mà những người đọc bài viết kia chắc sẽ là khá là bỡ ngỡ trước tên tuổi của vị đạo diễn. Ông Watanabe này chắc không phải là Shinichiro Watanabe lừng danh từng đạo diễn Cowboy Bebop hay Samurai Champloo đâu nhỉ? Vậy thì tại sao một cái [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -396,15 +456,15 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/248697583937635">https://facebook.com/alonelycomet/posts/248697583937635</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/14/cung-tim-hieu-ve-dao-dien-cua-komi-san-ayumu-watanabe/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/14/cung-tim-hieu-ve-dao-dien-cua-komi-san-ayumu-watanabe/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Makima và Chainsaw Man – Phức Tạp Hơn Bạn Nghĩ!</title>
-		<link>/alonelycomet/2021/10/09/makima-va-chainsaw-man-phuc-tap-hon-ban-nghi/</link>
-					<comments>/alonelycomet/2021/10/09/makima-va-chainsaw-man-phuc-tap-hon-ban-nghi/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/09/makima-va-chainsaw-man-phuc-tap-hon-ban-nghi/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/09/makima-va-chainsaw-man-phuc-tap-hon-ban-nghi/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Sat, 09 Oct 2021 01:41:00 +0000</pubDate>
@@ -452,21 +512,157 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 <h6><strong>Link bài viết gốc :</strong> <a href="https://www.facebook.com/alonelycomet/posts/245214187619308">https://facebook.com/alonelycomet/posts/245214187619308</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/09/makima-va-chainsaw-man-phuc-tap-hon-ban-nghi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/09/makima-va-chainsaw-man-phuc-tap-hon-ban-nghi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tsuki to Laika to Nosferatu &#8211; First Impression</title>
+		<link>https://meoki.net/alonelycomet/2021/10/05/tsuki-to-laika-to-nosferatu-first-impression/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/05/tsuki-to-laika-to-nosferatu-first-impression/#respond</comments>
+		
+		<dc:creator><![CDATA[SUBA]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2021 14:52:00 +0000</pubDate>
+				<category><![CDATA[Fall Anime 2021]]></category>
+		<category><![CDATA[anime]]></category>
+		<category><![CDATA[first impression]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1789</guid>
+
+					<description><![CDATA[Số tập: 12Studios: Arvo AnimationNguyên tác: LNThể loại: Drama, Romance, Sci-Fi, SupernaturalMùa: Fall 2021 . Cuối cùng! Đây có thể nói là bộ anime mà tôi mong chờ nhất mùa, hơn cả Mushoku Tensei! Tại sao vậy? Tại vì tôi là 1 “space simp”&#160;&#160;.Một người rất yêu thích chủ đề du hành không gian, vũ trụ. Tôi thường xuyên theo dõi các hoạt động phóng tàu thử nghiệm của công ty SpaceX, trong tương lai sẽ giúp con người thiết lập căn cứ trên Mặt trăng hay xa hơn là chinh phục cả sao Hỏa. Hai bộ phim mà tôi [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p>Số tập: 12<br>Studios: Arvo Animation<br>Nguyên tác: LN<br>Thể loại: Drama, Romance, Sci-Fi, Supernatural<br>Mùa: Fall 2021</p></blockquote>
+
+
+
+<p>.</p>
+
+
+
+<p>Cuối cùng! Đây có thể nói là bộ anime mà tôi mong chờ nhất mùa, hơn cả Mushoku Tensei! Tại sao vậy? Tại vì tôi là 1 “space simp”&nbsp;<img loading="lazy" height="16" width="16" alt=":v" src="https://static.xx.fbcdn.net/images/emoji.php/v9/e31/1/16/PACMAN.png">&nbsp;.Một người rất yêu thích chủ đề du hành không gian, vũ trụ. Tôi thường xuyên theo dõi các hoạt động phóng tàu thử nghiệm của công ty SpaceX, trong tương lai sẽ giúp con người thiết lập căn cứ trên Mặt trăng hay xa hơn là chinh phục cả sao Hỏa. Hai bộ phim mà tôi yêu thích là Interstellar và 2001: A Space Odyssey đều là những bộ phim về không gian, “hard sci-fi” (sci-fi nhưng mà gần gũi với các định luật vật lý hơn là đi vào miền viễn tưởng).</p>
+
+
+
+<p>Cộng với việc trong anime khi nhắc đến không gian người ta hay liên tưởng đến mecha, bắn súng trọng trường dùng kiếm laze mà đánh nhau khi ra khỏi Trái Đất, những bộ “soft sci-fi” là chủ yếu chứ nói đến một tác phẩm “hard sci-fi” là cực kỳ hiếm! Cho nên bộ Tsuki to laika này giống như “lụm được vàng” với tôi, chỉ khi được thông báo có anime thôi là tôi đã không thể giấu được sự vui mừng của mình. Và còn có romance không harem nữa chứ. Tôi kiểu như: “Studio làm bộ này là Arvo Animation chỉ được biết đến qua bộ Bokuben à? Không quan tâm! Đạo diễn không tên tuổi à? Chẳng sao hết!”. Bởi vì sự tồn tại của 1 tác phẩm như vậy thôi đã giống như 1 món quà với tôi rồi, cho nên có kể cả đó là món quà tuyệt vời hay không tuyệt vời, tôi sẽ đều vui vẻ đón nhận.</p>
+
+
+
+<p>Bối cảnh của bộ anime là ở thời kỳ “space-race” giữa 2 cường quốc hàng đầu thế giới. Ở đây, tác phẩm đã thay đổi mọi cái tên, danh xưng vì ngại những tranh cãi về mặt lịch sử, chính trị, nhưng ta hoàn toàn dễ dàng nhận ra 2 quốc gia đó chính là dựa vào Liên xô và Mỹ trong thời kỳ chiến tranh lạnh. Chỉ cần nghe câu nói của “Chủ tịch cộng hòa Zirnitra” là đủ hiểu rõ ám chỉ đến nước nào rồi: “Nước cộng hòa đã dành chiến thắng trong việc gửi vệ tinh đến Mặt trăng còn làm hamburger thì các vương quốc thắng.” lol</p>
+
+
+
+<p>Ta có thể thấy những mẫu vệ tinh và tên lửa Sputnik trong bộ anime đều rất sát thực tế thể hiện tác giả cũng có tìm hiểu kỹ về vấn đề này. Ngoài ra thì câu chuyện của chú chó đầu tiên lên vũ trụ “Laika” cũng được đề cập nhưng lại dưới cái tên khác trong tác phẩm là “Maly”. Laika là 1 chú chó hoang bị những nhà khoa học Liên xô phóng lên không gian vào năm 1957, do bộ phận điều nhiệt trong khoang của phi hành gia bị hỏng nên em chỉ sống được vài giờ sau khi tên lửa cất cánh. Mãi đến năm 2008, hơn 50 năm sau người ta mới lập tượng đài để tưởng niệm đến sự hy sinh của sinh vật ấy vì khoa học.</p>
+
+
+
+<p>Tại sao tác giả lại đề cập đến câu chuyện này ngay từ tập đầu và tựa đề của bộ anime cũng có chữ Laika. Giờ tôi nghĩ mình đã hiểu lý do đằng sau ý tưởng có phần lạ lùng của tác giả về việc “gái vampire lên không gian”. Bởi vì trong công cuộc khám phá vũ trụ suốt hàng chục năm con người đã gửi không những chú chó Laika mà còn nhiều loài động vật khác lên không gian nhằm mục đích thí nghiệm. Thế nhưng chỉ có những cái tên của con người là được nhớ đến nhiều nhất như là Yuri Gagarin, người đầu tiên lên vũ trụ và Neil Armstrong, người đầu tiên bước chân lên Mặt trăng, và họ được ca ngợi như là những vị anh hùng vĩ đại, còn những sinh vật đáng thương đó thì không. Cho nên thông qua hình tượng cô gái vampire không phải loài người, nhưng lại có cảm xúc như con người, bị phân biệt đối xử như vật thí nghiệm thì tác giả muốn phê phán những hành động thí nghiệm vô nhân đạo lên động vật và nhắn nhủ thông điệp rằng hãy nhớ đến những sinh vật đã hy sinh mà góp phần to lớn cho sự phát triển cùa khoa học hàng không vũ trụ.</p>
+
+
+
+<p>Mặt khác việc nhân vật nữ chính được lồng tiếng bởi Megumi Hayashibara có thể nói là một seiyuu “huyền thoại” (Rei trong Eva, Musashi trong Pokemon, Ai Habara trong Conan) cũng làm tôi khá là bất ngờ. Art, animation so với dàn staff như vậy cũng là hơn kỳ vọng rồi. Mà không hiểu sao “sakuga” lại tập trung vào lúc em vampire Irina đang ăn cơ chứ. Hmmm</p>
+
+
+
+<p>Nhìn chung, thì đây không phải là 1 tác phẩm dành cho mọi người. Nhưng mà vì để có 1 bộ “hard scifi” về chủ đề không gian là rất hiếm trong anime nên tôi vẫn nghĩ đây là một bộ đáng xem, như là món quà đầy bất ngờ trong mùa anime này vậy.</p>
+
+
+
+<h6 class="has-luminous-vivid-amber-color has-text-color">Đánh giá: 8.0/10</h6>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/242125921261468" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/242125921261468">https://facebook.com/alonelycomet/posts/242125921261468</a></h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/05/tsuki-to-laika-to-nosferatu-first-impression/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blue Period &#8211; First Impression</title>
+		<link>https://meoki.net/alonelycomet/2021/10/03/blue-period-first-impression/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/03/blue-period-first-impression/#respond</comments>
+		
+		<dc:creator><![CDATA[SUBA]]></dc:creator>
+		<pubDate>Sun, 03 Oct 2021 14:35:00 +0000</pubDate>
+				<category><![CDATA[Fall Anime 2021]]></category>
+		<category><![CDATA[anime]]></category>
+		<category><![CDATA[first impression]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1778</guid>
+
+					<description><![CDATA[Số tập: ??Studios: Seven ArcsNguyên tác: MangaThể loại: Drama, Slice of LifeMùa: Fall 2021 . Tại sao bộ này lại được đề cao trong giới mangaka? Yeah, anime mùa thu 2021 đã cập bến rồi đây! Và mùa này tôi cũng mong chờ đấy vì có nhiều tác phẩm khá là thú vị, có nguồn được nhiều người đánh giá cao. Và bộ “Blue period” này cũng là 1 trong số đó, giành được giải thưởng của nhà xuất bản Kodansha năm 2020 và ẳm luôn giải manga Taisho cùng năm (2020). Hơn thế nữa, bộ manga này cũng được [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p>Số tập: ??<br>Studios: Seven Arcs<br>Nguyên tác: Manga<br>Thể loại: Drama, Slice of Life<br>Mùa: Fall 2021</p></blockquote>
+
+
+
+<p>.</p>
+
+
+
+<h6>Tại sao bộ này lại được đề cao trong giới mangaka?</h6>
+
+
+
+<p>Yeah, anime mùa thu 2021 đã cập bến rồi đây! Và mùa này tôi cũng mong chờ đấy vì có nhiều tác phẩm khá là thú vị, có nguồn được nhiều người đánh giá cao. Và bộ “Blue period” này cũng là 1 trong số đó, giành được giải thưởng của nhà xuất bản Kodansha năm 2020 và ẳm luôn giải manga Taisho cùng năm (2020). Hơn thế nữa, bộ manga này cũng được Tatsuki Fujimoto, tác giả của Chainsaw man đình đám khuyên đọc và cho rằng đây là 1 tác phẩm rất là thú vị và hữu ích.</p>
+
+
+
+<p>Vậy thì tại sao tác phẩm này lại được giới mangaka yêu thích đến vậy. Xem xong tập 1 ta có thể dễ dàng nhận ra việc đề cập đến những vấn đề nổi cộm trong giới làm nghệ thuật trong đó có cả những người đang hằng ngày cống hiến cho loại hình anime-manga.</p>
+
+
+
+<p>Tôi chưa đọc manga nhưng nhận thấy điểm hay trong tập 1 của bộ anime đó là sự thẳng thắn, không vòng vo tam quốc mà vào thẳng vấn đề nhức nhối nhất của ngành họa sĩ luôn đó là việc học phí quá đắt nhưng thu nhập lại rất không xứng đáng với tài năng và công sức bỏ ra.</p>
+
+
+
+<p>Đây có thể nói là vấn đề muôn thuở luôn, bởi vì giá trị của 1 tác phẩm lúc nào cũng hoàn toàn phụ thuộc vào khán giả. Nếu khán giả không biết đến mình, không coi trọng mình thì “hy sinh vì nghệ thuật” cũng là vô ích. Cho nên rất nhiều người tuy đam mê vẽ nhưng không dám dấn thân vào con đường này vì tài chính và tương lai có thể không tươi sáng là 1 vấn đề rất là thực tế. Mình thích cái cách mà bộ anime ngay từ tập 1 đã đầy mạnh dạn đề cập ngay thực trạng này, thể hiện rằng đây là 1 tác phẩm rất dễ dàng liên hệ với giới mangaka và animators.</p>
+
+
+
+<p>Về mặt chất lượng sản xuất thì mình biết rằng nhiều người không đặt hy vọng cao lắm vì đạo diễn bản chuyển thể là Koji Masunari đã từng đạo diễn Magi và movie Uchu Show e Youkoso, chất lượng art, animation chỉ ở mức khá và studio Seven arcs hay làm mấy bộ ecchi. Yeah, nhìn chung thì chất lượng sản xuất tương đối thôi nhưng mà cũng có điểm nhấn là mấy bức tranh thì thấy dàn staff làm cũng tốt pha màu nhìn đẹp đó.</p>
+
+
+
+<p>Có chi tiết quan hệ giữa nhân vật chính và nhân vật tóc vàng chưa được làm rõ lắm nhìn có vẻ hai người họ đã quen nhau từ trước hay sao đó. Hy vọng trong tập sau ta sẽ giải thích rõ hơn về việc này.</p>
+
+
+
+<p>Rồi đó, 1 số suy nghĩ của tôi về bộ này, dĩ nhiên là 1 tác phẩm đầy tiềm năng và tôi thích sự thẳng thắn ngay từ tập 1. Ngoài ra tôi nghĩ nếu bạn nào thích bộ này và những chủ đề liên quan đến họa sĩ thì nên xem bộ movie “Loving Vincent”, cực kỳ đẹp đẽ, mỗi khung hình đều là 1 bức vẽ theo phong cách của cố họa sĩ Van gogh, và câu chuyện bi kịch của cuộc đời ông có thể nói chính là minh chứng rõ rệt nhất về sự khắc nghiệt, tàn nhẫn mà lĩnh vực hội họa có thể gây ra cho người họa sĩ. Nên xem nếu bạn muốn hiểu rõ hơn về những lo lắng của nhân vật chính trong bộ này.</p>
+
+
+
+<p></p>
+
+
+
+<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/241267701347290" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/241267701347290">https://facebook.com/alonelycomet/posts/241267701347290</a></h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/03/blue-period-first-impression/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tetsurou Araki và Phong cách làm Anime</title>
-		<link>/alonelycomet/2021/10/01/tetsurou-araki-va-phong-cach-lam-anime/</link>
-					<comments>/alonelycomet/2021/10/01/tetsurou-araki-va-phong-cach-lam-anime/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/01/tetsurou-araki-va-phong-cach-lam-anime/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/01/tetsurou-araki-va-phong-cach-lam-anime/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Fri, 01 Oct 2021 06:04:00 +0000</pubDate>
 				<category><![CDATA[Anime Industry]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1579</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1579</guid>
 
 					<description><![CDATA[Tetsurou Araki – Người Đạo Diễn Đem Đến Thành Công Cho Attack On Titan, Death Note &#38; Phong Cách Làm Anime. Điều gì làm nên sự thành công của series Attack on titan? Nhiều người có thể nói là do phong cách kể chuyện đầy cuốn hút của tác giả Hajime Isayama. Đúng là bộ manga đã có 1 chỗ đứng nhất định trước khi chuyển thể lên anime vào năm 2013, thế nhưng có thể nói chính từ phần đầu anime mới tạo nên 1 cơn “sóng thần” thực sự càn quét toàn bộ cộng đồng đến nỗi trong [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -569,21 +765,21 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/239733758167351">https://facebook.com/alonelycomet/posts/239733758167351</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/01/tetsurou-araki-va-phong-cach-lam-anime/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/01/tetsurou-araki-va-phong-cach-lam-anime/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tầm Quan Trọng Của Nhạc Nền (OST) Trong Các Tác Phẩm</title>
-		<link>/alonelycomet/2021/09/28/tam-quan-trong-cua-nhac-nen-ost-trong-cac-tac-pham/</link>
-					<comments>/alonelycomet/2021/09/28/tam-quan-trong-cua-nhac-nen-ost-trong-cac-tac-pham/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/09/28/tam-quan-trong-cua-nhac-nen-ost-trong-cac-tac-pham/</link>
+					<comments>https://meoki.net/alonelycomet/2021/09/28/tam-quan-trong-cua-nhac-nen-ost-trong-cac-tac-pham/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Tue, 28 Sep 2021 06:14:00 +0000</pubDate>
 				<category><![CDATA[Anime Industry]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1582</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1582</guid>
 
 					<description><![CDATA[Anime là 1 loại hình văn hóa giải trí bên cạnh việc sử dụng hình ảnh để truyền tải nội dung, ý nghĩa (còn được gọi là nghệ thuật visual storytelling) thì ta còn có phần âm thanh giúp tạo thành 1 tác phẩm hoàn chỉnh. Chúng ta có lồng tiếng, hiệu ứng âm thanh và âm nhạc là những yếu tố cần quan tâm nhất trong phần nghe. Trong đó âm nhạc đóng vai trò quan trọng truyền tải và phóng đại cảm xúc đến khán giả. Nếu như những bản nhạc Opening giúp ta hào hứng bước vào [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -734,196 +930,7 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/237998925007501">https://facebook.com/alonelycomet/237998925007501</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/09/28/tam-quan-trong-cua-nhac-nen-ost-trong-cac-tac-pham/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Shounen vs Seinen – Sự Khác Biệt Nằm Đâu?</title>
-		<link>/alonelycomet/2021/09/25/shounen-vs-seinen-su-khac-biet-nam-o-dau/</link>
-					<comments>/alonelycomet/2021/09/25/shounen-vs-seinen-su-khac-biet-nam-o-dau/#respond</comments>
-		
-		<dc:creator><![CDATA[SUBA]]></dc:creator>
-		<pubDate>Sat, 25 Sep 2021 01:18:00 +0000</pubDate>
-				<category><![CDATA[Manga - Light Novel]]></category>
-		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">https://atbs.bk-ninja.com/suga/?p=134</guid>
-
-					<description><![CDATA[Việc so sánh giữa những bộ truyện tranh shounen với seinen cũng là 1 chủ đề khá hot trong cộng đồng anime – manga cùng với đó là dẫn đến việc thường xuyên “va ckạm” giữa fan của 2 thể loại. Fan seinen thì có người hay chê mấy bộ shounen overrated còn fan shounen thì bảo 1 số người fan seinen là thượng đẳng. Vậy thì tại sao việc phân loại giữa truyên shounen và seinen lại cần thiết và giữa 2 thứ có gì khác nhau, trong bài viết này ta sẽ tiến hành mổ xẻ. Đầu tiên [&#8230;]]]></description>
-										<content:encoded><![CDATA[<blockquote><p>Việc so sánh giữa những bộ truyện tranh shounen với seinen cũng là 1 chủ đề khá hot trong cộng đồng anime – manga cùng với đó là dẫn đến việc thường xuyên “va ckạm” giữa fan của 2 thể loại. Fan seinen thì có người hay chê mấy bộ shounen overrated còn fan shounen thì bảo 1 số người fan seinen là thượng đẳng. Vậy thì tại sao việc phân loại giữa truyên shounen và seinen lại cần thiết và giữa 2 thứ có gì khác nhau, trong bài viết này ta sẽ tiến hành mổ xẻ.</p></blockquote>
-<ul>
-<li><strong><em>Đầu tiên ta hãy đến với định nghĩa của shounen và seinen thì đây là những “Demographic” tức là việc phân loại dựa trên đối tượng độc giả. Khác với “Genres” là phân loại theo nội dung của tác phẩm ví dụ như có yếu tố tình cảm thì Romance, hài hước Comedy, Drama,…</em></strong></li>
-</ul>
-<p>Cụ thể thì shounen là những tác phẩm hướng đến những độc giả vị thành niên thường là nam giới từ 12 đến 18 tuổi, còn seinen là truyện tranh dành cho người lớn trưởng thành trên 18 tuổi. Việc phân định thế nào là shounen và seinen hoàn toàn phụ thuộc vào những biên tập viên của các nhà xuất bản manga. Chúng ta có 3 nhà xuất bản manga lớn, danh tiếng nhất như Shueisha, Kodansha và Shogakukan cùng với rất nhiều loại tạp chí truyện tranh khác nhau cho nên việc phân loại đối tượng độc giả dựa theo độ tuổi và giới tính là việc cần thiết. Có 4 dòng Demographic quen thuộc shounen, shoujo, seinen và josei trong đó những bộ shounen thường có nổi tiếng và được cộng đồng quan tâm nhiều nhất, bởi vì đối tượng độc giả nhiều nhất của manga vẫn là vị thành niên.</p>
-<ul>
-<li><strong><em> Có 1 hiểu lầm mà mình rất thường thấy khi người ta nói về thể loại shounen đó là việc đánh đồng toàn bộ truyện tranh shounen với những bộ thuộc tạp chí Shounen Jump. Đồng ý là Shounen Jump nổi tiếng nhất, doanh thu nhiều nhất, thế nhưng riêng dòng shounen đã có đến 37 tạp chí (wiki). Thì chúng ta cũng không nên bỏ qua 36 tạp chí còn lại.</em></strong></li>
-</ul>
-<p>Do đó trước khi phân biệt giữa shounen và seinen thì chúng ta cũng phải phân biệt giữa Shounen Jump với những tạp chí shounen khác nữa. Tạp chí “Shounen Jump” có thể nói là vùng đất khắc nghiệt nhất trong giới manga, với độ nổi tiếng có thừa của mình cùng với việc là cái nôi của những bộ manga bán chạy nhất mọi thời đại như One piece, Dragon ball, Naruto, Bleach cùng với những bộ đã làm “khuynh đảo” thị trường trong những năm gần đây như Kimetsu no yaiba, Jujutsu Kaisen thì với 1 mangaka mới chập chững bước vào nghề thì việc chen chân vào được vào đây hoàn toàn không phải chuyện dễ. Đó là còn chưa kể đến việc nếu được chấp nhận xuất bản thì làm sao phải giữ doanh số để không bị “trảm” truyện nửa chừng nữa. Có thể nói với áp lực về doanh số lớn như vậy thì các mangaka khó có thể tự do sáng tạo 1 cách thoải mái mà nhiều lúc phải theo những “công thức thành công” mà những đàn anh đi trước như OP, Dragon ball đã đặt ra.</p>
-<p>Điều này cũng khá là dễ hiểu thôi bởi vì những bộ nổi tiếng nhất như trên đã chứng tỏ sự thành công và sức hút của mình từ biết bao nhiêu năm rồi, tạo sao lại không theo chứ. Thật ra thì Shounen Jump lâu lâu cũng có “đứa con dị dạng” như Chainsaw man nhưng mà nhìn chung vẫn khá nhiều tác phẩm đi theo những motif mà ta hay gọi là “1 bộ shounen điển hình”.</p>
-<p>Tuy nhiên! Tuy nhiên các bạn có để ý điều gì không? Mình mới chỉ đề cập tới Shounen Jump thôi, chúng ta còn tới 36 tạp chí truyện dòng shounen khác nữa! Thế giới truyện shounen rộng lớn hơn ta tưởng nhiều. Với những tạp chí ít danh tiếng và ít đặt nặng doanh số hơn thì cũng dẫn đến sự tự do trong chủ đề mà các mangaka truyền tải cũng hoàn toàn tốt hơn. Chúng ta có những bộ shounen drama, hài hước, tình cảm, tâm lí, thể thao, âm nhạc, mecha, …đa dạng chẳng khác gì seinen, chỉ có điều đối tượng độc giả là vị thành niên thì dĩ nhiên sẽ phải hạn chế mấy chi tiết 18+ lại chút.</p>
-<p>Còn đối với seinen thì cũng có sự hiểu lầm về những bộ nổi tiếng nhất như Berserk, Vagabond, Vinland saga, Gantz… tượng trưng cho cả dòng manga. Kiểu như seinen thì lúc nào cũng phải dark, edgy, đầy bạo lực và máu me. Thật ra thì những bộ slice of life khá chill như Sangatsu no lion, Mushishi, Yokohama Shopping Trip, Sweetness and Lightning, After the Rain,… đều là seinen hay những bộ hài hước như Grand Blue, Kaguya-sama: Love is War, Sakamoto desu ga?, Hinamatsuri,… Bởi vì các tạp chí seinen có ít hạn chế đòi hỏi nên dòng truyện này tụ chung lại là muốn đăng gì đăng, bộ nào thấy không phù hợp với 3 dòng truyện còn lại thì cứ ném hết vô đây mà thôi.</p>
-<p>Thế thì một số người cho rằng truyện seinen thường sâu sắc và phức tạp hơn shounen, có đúng không? Cái này thì mình “khá đồng ý”, nhưng mà cũng xuất phát từ độc giả mà thôi. Đó là do sự khác biệt trong tư tưởng, cách nhìn đời của 2 loại độc giả vị thành niên và người lớn. Các cô cậu thanh niên tuổi mới lớn thường mang trong mình nhiều khát vọng, hoài bão sao này sẽ trở thành người này người kia, thành công, nổi tiếng, quyền lực,… cho nên những bộ shounen thường có những nhân vật sử dụng “sức mạnh tinh thần” đuổi theo ước mơ của mình và đạt được nó để được hòa cùng với tư tưởng của các bạn trẻ.</p>
-<p>Còn khi ta trưởng thành, ta chợt nhận ra: “Ôi trời, cuộc đời phức tạp hơn ta tưởng”. Ta thấy rằng cuộc sống thật đa chiều, muôn hình vạn trạng và có nhiều vấn đề không thể đơn giản mà giải quyết được chỉ với ý chí của bản thân. Cho nên nội dung phức tạp hơn của những bộ seinen sẽ giúp góc nhìn của người lớn dễ dàng mà liên hệ với bản thân mình hơn.</p>
-<p>.</p>
-<p>Tuy nhiên các bạn đã thấy câu trả lời của mình chỉ dừng lại ở mức “khá đồng ý” thôi. Bởi vì việc phân loại shounen và seinen được thực hiện bởi con người, những biên tập viên của các nhà xuất bản. Mà bất cứ thứ gì dính dáng đến con người điều không thể thoát khỏi những sai sót hay những trường hợp khác biệt. Lấy ví dụ như 2 bộ shounen nổi tiếng Attack on titan và Chainsaw man bây giờ nếu giả sử bỏ mác shounen mà gắn vào seinen ngay từ đầu thì mình dám cá là chẳng ai sẽ thấy bất ngờ hay có ý kiến gì cả. Bởi vì những yếu tố 18+ hay nội dung phức tạp của 2 bộ thành thật mà nói cũng không thua kém gì mấy bộ seinen là bao.</p>
-<p>Cho nên tóm lại có 1 vài sự khác biệt giữa shounen và seinen ví dụ như nội dung seinen phức tạp hơn và content cho phép 18+ hơn thế nhưng ta không nên quá nghiêm túc về vấn đề này cũng như phân định rạch ròi giữa 2 thể loại, bởi vì bản chất của việc phân loại này là hoàn toàn mang tính tương đối mà thôi.</p>
-<h6><strong>Link bài viết gốc :</strong> <a href="https://www.facebook.com/alonelycomet/posts/235839761890084">https://facebook.com/alonelycomet/posts/235839761890084</a></h6>
-]]></content:encoded>
-					
-					<wfw:commentRss>/alonelycomet/2021/09/25/shounen-vs-seinen-su-khac-biet-nam-o-dau/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title> “Tớ Muốn Ăn Tụy Của Cậu” – Một Tác Phẩm Về Sự Sống</title>
-		<link>/alonelycomet/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/</link>
-					<comments>/alonelycomet/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/#respond</comments>
-		
-		<dc:creator><![CDATA[SUBA]]></dc:creator>
-		<pubDate>Tue, 14 Sep 2021 20:19:00 +0000</pubDate>
-				<category><![CDATA[Anime Review]]></category>
-		<category><![CDATA[anime]]></category>
-		<category><![CDATA[novel]]></category>
-		<guid isPermaLink="false">https://atbs.bk-ninja.com/suga/?p=48</guid>
-
-					<description><![CDATA[Thông tin: Tên tiếng Nhật: Kimi no Suizou wo Tabetai Đạo diễn: Shinichirou Ushijima Thời lượng: 108 phút. Thể loại: Drama, Slice of life, Romance. Phân tích (Có Spoilers nhé) Bộ anime “Tớ muốn ăn tụy của cậu” mở đầu theo một cách không thể bất ngờ hơn. Những gì chúng ta thấy được trên màn ảnh đó là cô gái nhân vật chính đang nở 1 nụ cười đầy xinh tươi kia, chắc chắn trong hơn 1 tiếng giờ xem nữa … sẽ chết. Khi xem đoạn này tôi đã nghĩ rằng “có thứ gì đó sai sai”, thông [&#8230;]]]></description>
-										<content:encoded><![CDATA[<blockquote><p>Thông tin:<br />
-Tên tiếng Nhật: Kimi no Suizou wo Tabetai<br />
-Đạo diễn: Shinichirou Ushijima<br />
-Thời lượng: 108 phút.<br />
-Thể loại: Drama, Slice of life, Romance.</p></blockquote>
-<h4>Phân tích (Có Spoilers nhé)</h4>
-<p>Bộ anime “Tớ muốn ăn tụy của cậu” mở đầu theo một cách không thể bất ngờ hơn. Những gì chúng ta thấy được trên màn ảnh đó là cô gái nhân vật chính đang nở 1 nụ cười đầy xinh tươi kia, chắc chắn trong hơn 1 tiếng giờ xem nữa … sẽ chết. Khi xem đoạn này tôi đã nghĩ rằng “có thứ gì đó sai sai”, thông thường ở những bộ drama kiểu này, tác giả phải để cho khán giả nuôi hy vọng ảo để rồi dập tắt ở phút cuối giống như 1 bộ tên có con số 4 để khiến cho khán giả có thể xúc động mạnh. Chứ nếu mở đầu kiểu này thì khán giả sẽ không dành quá nhiều tình cảm cho nhân vật vì đã biết trước kết cục rồi. Sắp đặt đoạn mở đầu như thế này là có dụng ý gì rồi. Và đúng như vậy, nhờ vậy mà người xem chúng ta cũng giống như nhân vật nam chính mỗi khi nhìn thấy gương mặt rạng rỡ, nụ cười như tỏa nắng ấy, ta đều không thể không hiện lên ý nghĩ rằng đó là 1 người chỉ sống được 1 thời gian ngắn nữa.</p>
-<p>“Cậu chắc chắn sẽ chết chứ”<br />
-“Ừ chết thật đó”</p>
-<p>Chúng ta được giới thiệu về 2 nhân vật chính có tính cách hoàn toàn trái ngược nhau. Cô gái Sakura Yamauchi cực kỳ hòa đồng, năng động và cậu trai Haruki đầy khép kín, ít nói, suốt ngày chỉ biết đọc sách, như 2 kiểu người đối lập extrovert và introvert điển hình. Nhân vật nam chính Haruki là một người khá dễ liên hệ với tôi, bởi vì bản thân mình cũng là 1 người introvert ngoài đời và toàn kết bạn với những người extrovert. Nên việc nam chính bảo hay cảm thấy tự ti vì sợ người khác chỉ thương hại mà kết bạn với mình hay sợ bản thân mình quá tẻ nhạt để mà có thể đáp ứng cho bạn bè, trở thành 1 người bạn tốt là những suy nghĩ mà tôi có thể dễ dàng đồng cảm. Cộng với việc từ đầu ta đã biết bạn nữ Sakura sẽ chết nên ta cũng hiểu rõ tại sao cậu lại muốn tránh né một cô gái xinh đẹp đến vậy. Bởi vì cậu lo sợ nếu dính quá sâu vào mối quan hệ này, những gì sau cùng mà cậu nhận được, có lẽ chỉ có mỗi thương đau mà thôi.</p>
-<p>Về phần Sakura, thì cô cũng đang có những vấn đề của mình. Vẻ mặt rạng rỡ của cô là chỉ để che đi những đau khổ bên trong và nổi sợ cái chết. Cô cũng giống như cái cách mà Haruki lo sợ sẽ vướng vào những mối mối quan hệ, thì cũng không muốn làm khổ gia đình và bạn bè thân thiết của mình do đó cô cố trốn tránh họ. Rồi sử dụng cậu trai kia như là 1 thứ thay thế để dành những tháng ngày cuối cùng của mình.</p>
-<p>Không thể cưỡng lại sức hút từ 1 cô gái đầy chủ động , cậu đành phải chấp nhận yêu cầu đáp ứng những nguyện vọng có phần ích kỷ của nàng. Thế rồi chuyện gì đến cũng đến, hai người bắt đầu nảy sinh tình cảm thế nhưng Haruki vì bản tính của mình mà cậu không chịu bày tỏ 1 cách rõ ràng để rồi nảy sinh biết bao sự hiểu lầm với những người bạn thân và bạn trai cũ của Sakura. Họ đã nghĩ rằng cậu là 1 kẻ “sở khanh” chỉ dụ dỗ Sakura vào 1 cuộc tình ngắn sau đó bỏ rơi cô nên mới không dám thừa nhận mối quan hệ thân mật đã quá rõ ràng giữa hai người.</p>
-<p>Những xung đột đã xảy ra giúp hai người hiểu nhau hơn, và từ đó cậu mới nhận ra rằng có lẽ rằng ý nghĩ “mình sẽ chỉ nhận được đau khổ” là đã sai. Còn Sakura, cô cũng nhờ có cậu ở bên cạnh mà đã có đủ tự tin, bản lĩnh hơn để đối mặt với bệnh tật, với số phận. Chúng ta nhận thấy sự chuyển biến rõ rệt trong lời thoại của 2 người, lúc đầu họ chỉ thường xuyên nói với nhau về cái chết thế nhưng lần đó, cậu lần đầu tiên đã hỏi cô rằng:</p>
-<p>“Cậu nghĩ việc sống có ý nghĩa như thế nào?”<br />
-“Sống có nghĩa là con tim giao thoa với người khác. Để ý đến ai đó. Yêu ai đó. Ghét ai đó. Cùng vui vẻ với ai đó. Cầm tay ai đó. Đó chính là sống”.</p>
-<p>Trong thời gian đó, họ đã làm tất cả điều trên, thế nhưng tại sao họ lại chỉ để tâm vào cái chết? Tại sao không suy nghĩ rằng sự sống có bao nhiêu điều diệu kỳ? Đi dạo cùng nhau, du lịch cùng nhau, những cái nắm tay chân thành, những cái ôm đằm thắm dành cho nhau, đó là hạnh phúc, là niềm vui sướng ấm áp thực sự, hoàn toàn không phải là những sự đau khổ như cậu đã tưởng tượng.</p>
-<p>“Tớ muốn ăn tụy của cậu” là dựa theo 1 phong tục dân gian của người Á Đông đó là nếu muốn “bổ” một bộ phận gì trên cơ thể thì ăn 1 bộ phận tương tự của động vật. Tựa đề lúc đầu nghe có sự kỳ cục như kiểu ăn thịt người nhưng thực ra là chỉ thể hiện mong muốn rằng tuyến tụy của cô bé Sakura khỏe hơn và cô sẽ sống. Hay là cô ấy muốn 1 phần con người, những phẩm chất tốt của cậu ở trong mình. Đúng như vậy, ta thấy, nhờ vào tình cảm gắn bó giữa hai người mà giúp họ học hỏi được những gì tốt đẹp của nhau. Quên hết đi bao nhiêu phiền muộn, cho dù tương lai có tăm tối đến thế nào, ngay tại giây phút này tôi đang là người hạnh phúc nhất, lúc này, khi ôm chằm lấy Haruki, cô ấy đã nở một nụ cười thật lòng, từ tận trong sâu thẳm trái tim mình.</p>
-<p>Thế rồi… cuối cùng thì cô ấy cũng đã ra đi, nhưng một lần nữa lại theo 1 cách hoàn toàn bất ngờ, đó là bị 1 kẻ sát nhân bí ẩn đâm chứ hoàn toàn không phải do căn bệnh. Một cái chết “off screen” thật sự lãng xẹt và nhanh chóng cứ như thể 1 người đột nhiên biến mất vào khoảng không vậy. Mình cho rằng chi tiết này cũng giống như đoạn mở đầu là 1 đoạn đầy dụng ý của tác giả hay đạo diễn. Ông muốn gửi cho chúng ta 1 thông điệp rằng cái chết của Sakura là không hề quan trọng.</p>
-<p>Chúng ta 1 ngày đều phải chết bởi vô vàn nguyên do như bệnh tật, tai nạn bất ngờ, hay tuổi già,… vv mà chúng ta không thể kiểm soát được. Nhưng đó không phải là thứ ta được nhớ đến, thứ được nhớ đến đó là những gì ta đã làm được cho cuộc đời này. Đối với bộ phim này cũng vậy, ta không phải để xem Sakura đã chết như thế nào mà là xem em ấy đã sống, đã mỉm cười, đã tỏa sáng vẻ đẹp rạng ngời như ánh nắng mùa xuân ấm áp như thế nào.</p>
-<p>Đúng là nhiều khi những mối quan hệ tạo dựng được là đầy khó khăn và đôi lúc nó khiến ta đau khổ. Thế nhưng không vì thế mà ta chối bỏ nó, bởi vì qua tình thân, tình bạn bè, tình dôi lứa ta tìm được giá trị con người, tìm được ý nghĩa cuộc sống và lý do ta tồn tại trên cõi đời này. Cũng giống như cái tên của 2 nhân vật chính, cô, đầy những phẩm chất đẹp đẽ như những cành hoa anh đào đầy xinh xắn vào mùa xuân thế nhưng nhờ có anh là cái cây như là 1 điểm tựa đầy vững chắc mới giúp cô vững tin vào cuộc sống và nở rực những gì tốt đẹp nhất của mình. Nếu tách nhau ra, cả 2 chả còn lại gì, mối quan hệ của họ được miêu tả qua 1 hình ảnh đầy sinh động như vậy thì ta chẳng cần những từ ngữ thông thường như tình bạn hay tình yêu nữa rồi.</p>
-<p>.</p>
-<p>Mở đầu bằng cái chết và kết thúc cũng bằng cái chết của 1 cô gái thế nhưng “Kimi no Suizou wo Tabetai” không bao giờ là về cái chết, nó là về việc em ấy đã sống như thế nào, đã làm thay đổi người khác như thế nào và đã hạnh phúc như thế nào đến tận những giây phút cuối cùng của cuộc đời mình, một cuộc đời tuyệt đẹp. Bởi vì vậy nên tôi có thể gọi: “Đây là 1 bộ anime về sự sống”</p>
-<h6>Link bài viết gốc: <a href="https://www.facebook.com/alonelycomet/posts/229293875878006">https://facebook.com/alonelycomet/posts/229293875878006</a></h6>
-]]></content:encoded>
-					
-					<wfw:commentRss>/alonelycomet/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Shouwa Genroku Rakugo Shinjuu &#8211; Nghệ Thuật Và Thị Trường Luôn Cần Song Hành Cùng Nhau</title>
-		<link>/alonelycomet/2021/09/13/shouwa-genroku-rakugo-shinjuu-nghe-thuat-va-thi-truong-luon-can-song-hanh-cung-nhau/</link>
-					<comments>/alonelycomet/2021/09/13/shouwa-genroku-rakugo-shinjuu-nghe-thuat-va-thi-truong-luon-can-song-hanh-cung-nhau/#respond</comments>
-		
-		<dc:creator><![CDATA[SUBA]]></dc:creator>
-		<pubDate>Mon, 13 Sep 2021 05:31:00 +0000</pubDate>
-				<category><![CDATA[Anime Review]]></category>
-		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1558</guid>
-
-					<description><![CDATA[Rakugo Shinjuu (Tên đầy đủ là Shouwa Genroku Rakugo Shinjuu) là 1 bộ anime kể về cuộc đời của người nghệ sĩ tên là Kikuhiko của bộ môn sân khấu độc diễn truyền thống của Nhật là rakugo. Rakugo được hiểu đơn giản là nghệ thuật kể chuyện không những dùng lời nói mà còn cử chỉ, điệu bộ, biểu cảm trên gương mặt của người dẫn chuyện để khiến khán giả chú ý, nhập tâm vào câu chuyện. Bộ anime ra mắt vào năm 2016, 2017 đã giành được rất nhiều sự tán dương của cộng đồng và được [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote"><p>Rakugo Shinjuu (Tên đầy đủ là Shouwa Genroku Rakugo Shinjuu) là 1 bộ anime kể về cuộc đời của người nghệ sĩ tên là Kikuhiko của bộ môn sân khấu độc diễn truyền thống của Nhật là rakugo. Rakugo được hiểu đơn giản là nghệ thuật kể chuyện không những dùng lời nói mà còn cử chỉ, điệu bộ, biểu cảm trên gương mặt của người dẫn chuyện để khiến khán giả chú ý, nhập tâm vào câu chuyện.</p></blockquote>
-
-
-
-<p>Bộ anime ra mắt vào năm 2016, 2017 đã giành được rất nhiều sự tán dương của cộng đồng và được đánh giá rất cao bởi những giá trị nội dung và nghệ thuật sâu sắc. Thế nhưng cũng có nhiều người chưa hay ngại xem tác phẩm này vì nghĩ rằng bộ này chỉ liên quan đến cái nghệ thuật rakugo gì đó khá xa lạ đối với mình, xem chắc cũng không thu được cái gì đó dễ liên hệ được.</p>
-
-
-
-<p>.</p>
-
-
-
-<p>Cho nên tôi xin được viết bài này để kêu gọi mọi người hãy xem Rakugo shinjuu, bởi vì những giá trị thiết thực, những vấn đề nổi cộm mà của bộ anime này đề cập đã vượt xa ra khỏi bộ môn Rakugo mà có thể áp dụng đến bất kỳ loại hình văn hóa, nghệ thuật, giải trí nào đi chăng nữa, trong đó có cả loại hình anime-manga mà chúng ta đã và đang yêu mến.</p>
-
-
-
-<p>Kikuhiko-san không chỉ là 1 người nghệ sĩ rakugo mà còn là 1 hình tượng nhân vật đầy tiêu biểu bị giằng xé trong cuộc đấu tranh không ngừng nghĩ giữa bản chất nghệ thuật và thị trường trong bất kỳ 1 ngành nghề văn hóa nào. Điều này được thể hiện rõ nét nhất ở mùa 2 của tác phẩm khi mà Kikuhiko-san lúc này đã về già và phải đấu tranh với sự cô đơn, với bao gánh nặng của quá khứ và sự dằn vặt lương tâm đầy đau đớn. Ông đã phải hy sinh cả tình bạn, tình yêu để mà dấn thân mình vào con đường nghệ thuật đầy chông gai. Để rồi sau bao nhiêu vất vả và sự đánh đổi, ông cuối cùng đã đạt đến đỉnh cao của nghệ thuật, được mọi người ca tụng là nghệ nhân rakugo xuất sắc nhất. Thế nhưng, chính Rakugo đang chết dần chết mòn bởi những đổi thay của thời đại. Những năm 60s, 70s của thế kỷ trước, truyền hình, phim ảnh phát triển mạnh mẽ, sức hút của những thứ công nghệ mới làm cho những loại hình biểu diễn sân khấu truyền thống ngày càng mất đi chỗ đứng.</p>
-
-
-
-<p>Kikuhiko-san đã phải nhận ra rằng thứ nghệ thuật đỉnh cao mà mình biết bao nhiêu năm dày công xây dựng có thể sẽ không thể cứu nổi rakugo. Ông đành phải nhận Yotarou làm học trò, một cậu thanh niên có phong cách kể rakugo đầy giải trí. Cậu lựa chọn những câu chuyện hài hước đơn giản, giúp trẻ em hay người lao động có tiếng cười đầy sảng khoái. So với câu chuyện đầy ma mị, sắc thái, biểu cảm đa dạng phong phú của Kikuhiko thì rakugo của Yotarou phải nói chỉ là thứ “nghệ thuật tầm thường”. Thế nhưng chính thứ nghệ thuật tầm thường đó lại cứu sống được rakugo.</p>
-
-
-
-<p>Người nghệ sĩ có thể tự do thỏa sức bơi lội trong đại dương nghệ thuật của chính mình thế nhưng sau cùng họ vẫn cần có khán giả. Không có khán giả, người nghệ sĩ chẳng còn gì cả. Kikuhiko chắc hẳn đã thấy khó chịu vì màn trình diễn tệ hại của Yotarou theo tiêu chuẩn của ông. Thế nhưng sự khó chịu đó cũng không là gì so với việc ông nhìn thấy thứ nghệ thuật mà mình dành cả đời theo đuổi bị chết đi ngay trước mắt.</p>
-
-
-
-<p>.</p>
-
-
-
-<p>Đối với anime cũng vậy. Nhiều người có thể than phiền rằng tại sao anime càng ngày bị thiếu ý tưởng, nhai đi nhai lại hoài 1 thứ. Tôi dám cá với các bạn rằng trong ngành công nghiệp anime vẫn có nhiều người có những ý tưởng rất táo bạo trong đầu của mình. Ví dụ như tác giả Chiaki J Konaka là biên kịch của những bộ anime rất là khó hiểu, ý tưởng đầy độc đáo như là Serial experiment Lain hay Texhnolyze. Khi được phỏng vấn, ông bày tỏ ý muốn được viết kịch bản cho 1 bộ anime còn có ý tưởng còn đột phá hơn cả Lain thế nhưng vì nhiều vấn đề khác nhau mà không thể thành hiện thực.</p>
-
-
-
-<h6>• Để tạo thành 1 bộ anime dựa trên 1 ý tưởng mới không phải là chuyện đơn giản, cần phải huy động nguồn đầu tư, cần có nhân sự hứng thú với dự án và trên hết là cần có khán giả quan tâm đến chủ đề, ý tưởng đó.</h6>
-
-
-
-<p>Do đó, hướng đi an toàn hơn vẫn luôn là lựa chọn những chủ đề nào đã có sẵn nhiều người quan tâm và khai thác nó. Tức là anime chạy theo thị trường. Đến đây mình phải đề cập rằng, giữa nghệ thuật và thị trường không cần nhất thiết lúc nào cũng phải chọn 1 trong 2. Có nhiều người nghệ sĩ đang rất cố gắng dung hòa giữa hai yếu tố lại, tạo ra 1 tác phẩm vừa có thể giàu nghệ thuật, được đánh giá cao vừa thu hút khán giả rộng rãi. Điển hình có thể nói là studio nổi tiếng Ghibli với những bộ movie Spirited away, Howl moving castle đã không những nhận được nhiều giải thưởng lớn nhỏ mà còn đứng top doanh thu phòng vé mọi thời đại ở Nhật.</p>
-
-
-
-<p>Thế nhưng không gì là mãi mãi, sau những thành công vang dội giúp cho studio trở thành 1 biểu trưng cho ngành công nghiệp như trên thì kể từ sau bộ “The wind rises”, những tác phẩm được Ghibli sản xuất sau này đã không còn được quá nhiều người chú ý như xưa nữa. Có lẽ là do thị hiếu của khán giả mỗi thời mỗi thay đổi.</p>
-
-
-
-<p>Sự sụt giảm doanh số nghiêm trọng khiến nhiều người trong dàn nhân sự bỏ đi thành lập studio Ponoc. Về Miyazaki-san thì ông đang cố gắng thực hiện bộ movie được cho là cuối cùng của mình mang tên “How do you live?”, thế nhưng theo lời của producer tốc độ của dự án chỉ ở mức 1 năm trời chỉ sản xuất được 12 phút phim. Nó là cực chậm khi mà 1 số studio có thể hoàn thành cả 1 bộ TV series cũng trong thời gian đó, thể hiện rằng studio danh tiếng đang gặp nhiều khó khăn trong sản xuất. Còn con trai của ông Goro gần đây cũng ra mắt 1 bộ movie tên là Aya to Majo tuy nhiên không được đón nhận tốt, nếu không muốn nói là bị chê tơi tả. Có thể nói studio Ghibli chỉ còn là cái bóng của quá khứ.</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>• Qua câu chuyện của studio Ghibli ta thấy rằng việc dung hòa giữa mặt nghệ thuật và thị trường là có thể xảy ra, thế nhưng nó rất khó dễ giữ vững vì thị hiếu khán giả thay đổi liên tục, các tác phẩm làm được điều này là hiếm thấy. Do đó, sau cùng thì sự đấu tranh giữa nghệ thuật và thị trường vẫn là nguồn động lực lớn nhất để 1 loại hình văn hóa, giải trí được tồn tại và phát triển.</h6>
-
-
-
-<p>Nếu như những tác phẩm thị trường giúp thu hút những khán giả đại chúng mới tiếp xúc, làm quen, làm mở rộng cộng đồng người hâm mộ. Thì đối với những người fan lâu năm, chúng ta có những tác phẩm nghệ thuật mới lạ giúp giữ chân họ lại khi đã chán chường với những chủ đề thường thấy. Nghệ thuật và thị trường tuy bề ngoài đối lập nhưng thực ra không thể thiếu nhau. Nếu không thị trường, anime có lẽ đã chết từ lâu giống như cái cách mà nhân vật Kikuhiko đã từng mong muốn mang rakugo chết theo mình vậy. Còn nếu không có người theo đuổi nghệ thuật như Kikuhiko thì đã không thể truyền cảm hứng cho anh bạn tù nhân Yotarou quyết tâm theo đuổi được nối nghiệp từ ông. Cũng giống như vậy, tôi có lẽ đã không cần phải viết bài viết này cho các bạn làm gì cũng như tất cả các bài mà tôi đã từng viết về anime, manga.</p>
-
-
-
-<p>Ở đây, tôi không nói là các bạn không được khen, chê mấy bộ mà các bạn cho là thị trường hay nghệ thuật, chuyện khen chê thì tùy vào sở thích cá nhân. Tôi chỉ muốn nói là không nên hở hở bộ nào mình không thích là cứ đòi cancel, đòi xóa bỏ nó đi, “không nên tồn tại” các kiểu.</p>
-
-
-
-<p>Như tôi tuy không thích bộ Kimetsu no yaiba, nghĩ rằng nó overrated, nhưng mà khi bản nhạc OP của bộ này được phát tại buổi lễ thế vận hội Olympic, tôi đã thực sự vui mừng. Cho nên xin cảm ơn Kimetsu no yaiba vì đã tồn tại, vì đã đưa anime đến với nhiều người hơn và khiến cho 1 người hâm mộ lâu năm như tôi được vinh dự chứng kiến khoảnh khắc này.</p>
-
-
-
-<p>.</p>
-
-
-
-<p>Trở lại với bộ Rakugo Shinjuu, không những chủ đề “nghệ thuật và thị trường”, mà xuyên suốt bộ anime chúng ta còn bắt gặp nhiều chủ đề quan trọng khác nữa, đều rất dễ liên hệ với những người nghệ sĩ ở bất kỳ lĩnh vực nào. Ví dụ như chi tiết khi sân khấu bị cháy, người ta phải xây và tân trang lại. Các nhân vật đáng tiếc mà thốt lên rằng: liệu nó có còn là sân khấu đã lưu giữ biết bao kỹ niệm của các nghệ sĩ rakugo, hay là 1 thứ khác rồi. Đó là chủ đề về tân trang nghệ thuật để theo kịp thời đại cũng rất là nổi cộm và nóng hổi. Ví dụ như là việc trùng tu các công trình văn hóa, nghệ thuật nổi tiếng có còn lưu giữ vẻ đẹp của công trình đó? Việc pha trộn giữa âm nhạc truyền thống và hiện đại có làm phá hỏng đi âm nhạc truyền thống? Hay gần gũi với chúng ta hơn là anime ngày nay sử dụng 3d cgi có làm anime bị “mất chất”?</p>
-
-
-
-<p>Về chủ đề này thì … hẹn các bạn vào những bài kỳ sau. Còn bây giờ thì … xem Rakugo Shinjuu đi chứ còn gì nữa!</p>
-
-
-
-<p></p>
-
-
-
-<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/228037779336949">https://facebook.com/alonelycomet/posts/228037779336949</a></h6>
-]]></content:encoded>
-					
-					<wfw:commentRss>/alonelycomet/2021/09/13/shouwa-genroku-rakugo-shinjuu-nghe-thuat-va-thi-truong-luon-can-song-hanh-cung-nhau/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/28/tam-quan-trong-cua-nhac-nen-ost-trong-cac-tac-pham/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

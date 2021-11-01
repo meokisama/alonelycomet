@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Meoki &#8211; A Lonely Comet</title>
-	<atom:link href="/alonelycomet/author/meokisama/feed/" rel="self" type="application/rss+xml" />
-	<link>/alonelycomet</link>
+	<atom:link href="https://meoki.net/alonelycomet/author/meokisama/feed/" rel="self" type="application/rss+xml" />
+	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog</description>
-	<lastBuildDate>Sun, 31 Oct 2021 17:54:52 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Nov 2021 14:45:33 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
+	<url>https://meoki.net/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
 	<title>Meoki &#8211; A Lonely Comet</title>
-	<link>/alonelycomet</link>
+	<link>https://meoki.net/alonelycomet</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Nhật Hoạ Kỳ Thư &#8211; Tam Quyển [Thời Thư]</title>
-		<link>/alonelycomet/2021/10/31/nhat-hoa-ky-thu-tam-quyen-thoi-thu/</link>
-					<comments>/alonelycomet/2021/10/31/nhat-hoa-ky-thu-tam-quyen-thoi-thu/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/31/nhat-hoa-ky-thu-tam-quyen-thoi-thu/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/31/nhat-hoa-ky-thu-tam-quyen-thoi-thu/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Sun, 31 Oct 2021 09:53:23 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<category><![CDATA[manga]]></category>
 		<category><![CDATA[novel]]></category>
 		<category><![CDATA[sharing]]></category>
-		<guid isPermaLink="false">/alonelycomet/?p=1759</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1759</guid>
 
 					<description><![CDATA[Thời Thư &#8211; bức thiên thư lược sử về thời gian, ở đây dòng thời gian thuộc về vũ trụ Naruto. Cái này mình làm hồi còn ở bên NarutoMangaFans, rất vất vả a&#8230;  Bài viết có sử dụng các thông tin từ Manga, Anime, Databook, Fanbook, các bài viết trên Reddit, tiểu thuyết Itachi Shinden, Gaara Hiden và một số thông tin của studio Pierrot.  Dòng thời gian này sẽ trải dài từ khi tổ mẫu Kaguya xuất hiện đến trận quyết đấu của Kawaki và Boruto.  Một số thông tin hoàn toàn dựa vào tính toán cá nhân [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -946,20 +946,21 @@
 <p><img loading="lazy" height="16" width="16" alt="&#x1f4cc;" src="https://www.facebook.com/images/emoji.php/v9/tac/1/16/1f4cc.png">&nbsp;Năm 36 aNb<br><img loading="lazy" height="16" width="16" alt="&#x25aa;" src="https://www.facebook.com/images/emoji.php/v9/t4c/1/16/25aa.png">&nbsp;Sớm nhất là ngày 15 tháng 3:<br><img loading="lazy" height="16" width="16" alt="&#x25ab;" src="https://www.facebook.com/images/emoji.php/v9/tcd/1/16/25ab.png">&nbsp;Uzumaki Boruto (16) đánh nhau với Kawaki.<br>(Theo Studio Pierrot , Boruto 16 tuổi khi anh chiến đấu với Kawaki.)</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/31/nhat-hoa-ky-thu-tam-quyen-thoi-thu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/31/nhat-hoa-ky-thu-tam-quyen-thoi-thu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nhật Hoạ Kỳ Thư – Nhị Quyển [Hoạ Thư]</title>
-		<link>/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/</link>
-					<comments>/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Mon, 25 Oct 2021 01:20:00 +0000</pubDate>
 				<category><![CDATA[Sharing]]></category>
 		<category><![CDATA[anime]]></category>
+		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
 		<guid isPermaLink="false">https://atbs.bk-ninja.com/suga/?p=136</guid>
 
@@ -1048,15 +1049,15 @@
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/meokisama/albums/72157714963581953" title="Anime Animated Wallpaper"><img loading="lazy" src="https://live.staticflickr.com/31337/50073656498_f5c101769f_z.jpg" width="640" height="480" alt="Anime Animated Wallpaper"></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/25/no-fixed-abode-quitting-home-ownership/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nhật Hoạ Kỳ Thư &#8211; Nhất Quyển [Ngữ Thư]</title>
-		<link>/alonelycomet/2021/10/24/nhat-hoa-ky-thu-ngu-thu/</link>
-					<comments>/alonelycomet/2021/10/24/nhat-hoa-ky-thu-ngu-thu/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/24/nhat-hoa-ky-thu-ngu-thu/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/24/nhat-hoa-ky-thu-ngu-thu/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Sun, 24 Oct 2021 01:23:00 +0000</pubDate>
@@ -1448,7 +1449,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alonelycomet/2021/10/24/nhat-hoa-ky-thu-ngu-thu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/24/nhat-hoa-ky-thu-ngu-thu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
