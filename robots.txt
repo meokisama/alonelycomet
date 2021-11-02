@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://meoki.net/alonelycomet/sitemap.xml
