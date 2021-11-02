@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.1" created="2021-11-01 16:02" -->
+	<!-- generator="WordPress/5.8.1" created="2021-11-02 09:00" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>A Lonely Comet</title>
 	<link>http://localhost/blog</link>
 	<description>An Anime Blog</description>
-	<pubDate>Mon, 01 Nov 2021 16:02:06 +0000</pubDate>
+	<pubDate>Tue, 02 Nov 2021 09:00:20 +0000</pubDate>
 	<language>vi</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/blog</wp:base_site_url>
 	<wp:base_blog_url>http://localhost/blog</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[meokisama]]></wp:author_login><wp:author_email><![CDATA[hoangdinhsang123@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Meoki]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[meokisama]]></wp:author_login><wp:author_email><![CDATA[hoangdinhsang123@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Meoki]]></wp:author_display_name><wp:author_first_name><![CDATA[Salazar]]></wp:author_first_name><wp:author_last_name><![CDATA[Slytherin]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[suba]]></wp:author_login><wp:author_email><![CDATA[hi@meoki.net]]></wp:author_email><wp:author_display_name><![CDATA[SUBA]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>4</wp:author_id><wp:author_login><![CDATA[v4v]]></wp:author_login><wp:author_email><![CDATA[hiii@meoki.net]]></wp:author_email><wp:author_display_name><![CDATA[v4v]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>6</wp:author_id><wp:author_login><![CDATA[1q84]]></wp:author_login><wp:author_email><![CDATA[hiiiii@meoki.net]]></wp:author_email><wp:author_display_name><![CDATA[1q84]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -90,6 +90,10 @@
 			<wp:meta_value><![CDATA[global_settings]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
+			<wp:meta_key><![CDATA[bk_category__color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#fc4a00]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_feat_img]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:termmeta>
@@ -141,6 +145,10 @@
 			<wp:meta_value><![CDATA[global_settings]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
+			<wp:meta_key><![CDATA[bk_category__color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#0ab3af]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_feat_img]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:termmeta>
@@ -190,6 +198,10 @@
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_sidebar_sticky]]></wp:meta_key>
 			<wp:meta_value><![CDATA[global_settings]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[bk_category__color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#f8a51b]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_feat_img]]></wp:meta_key>
@@ -291,6 +303,10 @@
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_sidebar_sticky]]></wp:meta_key>
 			<wp:meta_value><![CDATA[global_settings]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[bk_category__color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#3545ee]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_feat_img]]></wp:meta_key>
@@ -580,6 +596,10 @@
 			<wp:meta_value><![CDATA[global_settings]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
+			<wp:meta_key><![CDATA[bk_category__color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#fc4a00]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_feat_img]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:termmeta>
@@ -630,6 +650,10 @@
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_sidebar_sticky]]></wp:meta_key>
 			<wp:meta_value><![CDATA[global_settings]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[bk_category__color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#0ab3af]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_feat_img]]></wp:meta_key>
@@ -696,6 +720,10 @@
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_sidebar_sticky]]></wp:meta_key>
 			<wp:meta_value><![CDATA[global_settings]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[bk_category__color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#f8a51b]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_feat_img]]></wp:meta_key>
@@ -970,6 +998,10 @@
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_sidebar_sticky]]></wp:meta_key>
 			<wp:meta_value><![CDATA[global_settings]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[bk_category__color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#3545ee]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[bk_category_feat_img]]></wp:meta_key>
@@ -48882,7 +48914,7 @@ This e-mail was sent from a contact form on Ceris (https://allthebestsofts.com/c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
