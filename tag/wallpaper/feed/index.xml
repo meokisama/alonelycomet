@@ -12,7 +12,7 @@
 	<atom:link href="https://meoki.net/alonelycomet/tag/wallpaper/feed/" rel="self" type="application/rss+xml" />
 	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog</description>
-	<lastBuildDate>Fri, 05 Nov 2021 17:35:45 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Nov 2021 05:54:29 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -142,19 +142,21 @@
 
 
 
-<figure class="wp-block-video"><video controls loop src="https://live.staticflickr.com/video/50079179421/d48c58f708/1080p.mp4?s=eyJpIjo1MDA3OTE3OTQyMSwiZSI6MTYzNjEzNTEyOSwicyI6ImZkODI1NmIxZWVhMmY3ZTA0M2VlNTVjMGVjNDM3MGM3YjQxYWIwZmEiLCJ2IjoxfQ"></video></figure>
+<figure class="wp-block-embed is-type-video is-provider-flickr wp-block-embed-flickr wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div style="top: 0; left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;">				<iframe loading="lazy" title="Animated for wallpaper or video creation" style="width: 100%; height: 100%; position: absolute;"  src="https://embedr.flickr.com/photos/50079179421" width="1024" height="576" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+</div></figure>
 
 
 
-<figure class="wp-block-video"><video controls loop src="https://live.staticflickr.com/video/50079092171/333db7de11/1080p.mp4?s=eyJpIjo1MDA3OTA5MjE3MSwiZSI6MTYzNjEzNTMwMywicyI6IjQwMWM2NzhhNGI5ZTA3NjFmNDU5ZDU2Y2QyZGZiOTFiNzVlNjJjNGYiLCJ2IjoxfQ"></video></figure>
+<figure class="wp-block-embed is-type-video is-provider-flickr wp-block-embed-flickr wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div style="top: 0; left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;">				<iframe loading="lazy" title="Animated for wallpaper or video creation" style="width: 100%; height: 100%; position: absolute;"  src="https://embedr.flickr.com/photos/50074223826" width="1024" height="576" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+</div></figure>
 
 
 
-<figure class="wp-block-video"><video controls loop src="https://live.staticflickr.com/video/50074223826/642ee4f558/1080p.mp4?s=eyJpIjo1MDA3NDIyMzgyNiwiZSI6MTYzNjEzNTM3OSwicyI6ImE2MWQyMmFkZTYxMGU5ZGZkYWQ0YjRiOTFmOTNjMmU1ZWUwYzgzY2MiLCJ2IjoxfQ"></video></figure>
-
-
-
-<figure class="wp-block-video"><video controls loop src="https://live.staticflickr.com/video/50079089651/7a867c62a1/1080p.mp4?s=eyJpIjo1MDA3OTA4OTY1MSwiZSI6MTYzNjEzNTI1NSwicyI6IjMyOTdjOTY1MjRlYzNlYmIzNzE4ZTc2N2U0OGM0ZGM5MWEyYWM2MWYiLCJ2IjoxfQ"></video></figure>
+<figure class="wp-block-embed is-type-video is-provider-flickr wp-block-embed-flickr wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div style="top: 0; left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;">				<iframe loading="lazy" title="Animated for wallpaper or video creation" style="width: 100%; height: 100%; position: absolute;"  src="https://embedr.flickr.com/photos/50079098191" width="1024" height="576" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+</div></figure>
 
 
 
@@ -504,11 +506,7 @@
 					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/25/nhat-hoa-ky-thu-nhi-quyen-hoa-thu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://live.staticflickr.com/video/50079179421/d48c58f708/1080p.mp4?s=eyJpIjo1MDA3OTE3OTQyMSwiZSI6MTYzNjEzNTEyOSwicyI6ImZkODI1NmIxZWVhMmY3ZTA0M2VlNTVjMGVjNDM3MGM3YjQxYWIwZmEiLCJ2IjoxfQ" length="30078132" type="video/mp4" />
-<enclosure url="https://live.staticflickr.com/video/50079092171/333db7de11/1080p.mp4?s=eyJpIjo1MDA3OTA5MjE3MSwiZSI6MTYzNjEzNTMwMywicyI6IjQwMWM2NzhhNGI5ZTA3NjFmNDU5ZDU2Y2QyZGZiOTFiNzVlNjJjNGYiLCJ2IjoxfQ" length="19518302" type="video/mp4" />
-<enclosure url="https://live.staticflickr.com/video/50074223826/642ee4f558/1080p.mp4?s=eyJpIjo1MDA3NDIyMzgyNiwiZSI6MTYzNjEzNTM3OSwicyI6ImE2MWQyMmFkZTYxMGU5ZGZkYWQ0YjRiOTFmOTNjMmU1ZWUwYzgzY2MiLCJ2IjoxfQ" length="8773910" type="video/mp4" />
-<enclosure url="https://live.staticflickr.com/video/50079089651/7a867c62a1/1080p.mp4?s=eyJpIjo1MDA3OTA4OTY1MSwiZSI6MTYzNjEzNTI1NSwicyI6IjMyOTdjOTY1MjRlYzNlYmIzNzE4ZTc2N2U0OGM0ZGM5MWEyYWM2MWYiLCJ2IjoxfQ" length="13456045" type="video/mp4" />
-
+		
 			</item>
 	</channel>
 </rss>
