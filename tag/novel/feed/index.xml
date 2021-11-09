@@ -12,7 +12,7 @@
 	<atom:link href="https://meoki.net/alonelycomet/tag/novel/feed/" rel="self" type="application/rss+xml" />
 	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog</description>
-	<lastBuildDate>Sun, 31 Oct 2021 17:54:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Nov 2021 03:02:07 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nhật Hoạ Kỳ Thư &#8211; Tứ Quyển [Minh Thư]</title>
+		<link>https://meoki.net/alonelycomet/2021/11/08/nhat-hoa-ky-thu-tu-quyen-minh-thu/</link>
+					<comments>https://meoki.net/alonelycomet/2021/11/08/nhat-hoa-ky-thu-tu-quyen-minh-thu/#respond</comments>
+		
+		<dc:creator><![CDATA[Meoki]]></dc:creator>
+		<pubDate>Mon, 08 Nov 2021 06:28:13 +0000</pubDate>
+				<category><![CDATA[Sharing]]></category>
+		<category><![CDATA[novel]]></category>
+		<category><![CDATA[sharing]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1947</guid>
+
+					<description><![CDATA[Đang sửa soạn lại rồi post sau&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Đang sửa soạn lại rồi post sau&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/08/nhat-hoa-ky-thu-tu-quyen-minh-thu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Nhật Hoạ Kỳ Thư &#8211; Tam Quyển [Thời Thư]</title>
 		<link>https://meoki.net/alonelycomet/2021/10/31/nhat-hoa-ky-thu-tam-quyen-thoi-thu/</link>
 					<comments>https://meoki.net/alonelycomet/2021/10/31/nhat-hoa-ky-thu-tam-quyen-thoi-thu/#respond</comments>

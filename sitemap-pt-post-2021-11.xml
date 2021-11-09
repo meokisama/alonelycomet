@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://meoki.net/alonelycomet/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="7 November, 2021 3:20 pm" -->
+<!-- generated-on="9 November, 2021 3:06 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>https://meoki.net/alonelycomet/2021/11/08/nhat-hoa-ky-thu-tu-quyen-minh-thu/</loc>
+		<lastmod>2021-11-09T03:02:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://meoki.net/alonelycomet/2021/11/08/1941/</loc>
+		<lastmod>2021-11-08T05:25:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
 		<loc>https://meoki.net/alonelycomet/2021/11/07/binh-luan-eighty-six-tap-17-2nd-cour/</loc>
-		<lastmod>2021-11-07T12:31:48+00:00</lastmod>
+		<lastmod>2021-11-08T03:00:31+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -26,14 +38,14 @@
 	</url>
 	<url>
 		<loc>https://meoki.net/alonelycomet/2021/11/03/tencent-tro-thanh-co-dong-lon-thu-3-cua-kadokawa/</loc>
-		<lastmod>2021-11-05T15:30:04+00:00</lastmod>
+		<lastmod>2021-11-08T06:24:17+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
 		<loc>https://meoki.net/alonelycomet/2021/11/01/binh-luan-mushoku-tensei-tap-5-2nd-cour/</loc>
-		<lastmod>2021-11-02T14:50:12+00:00</lastmod>
+		<lastmod>2021-11-08T05:26:40+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: a9774c8f7a05206ecfc2196c27647b96; Queries for sitemap: 3; Total queries: 32; Seconds: 0; Memory for sitemap: 0MB; Total memory: 12MB -->
+</urlset><!-- Request ID: 0f8b7d0693e5002a7cb40b0bcc072e9a; Queries for sitemap: 3; Total queries: 32; Seconds: 0; Memory for sitemap: 0MB; Total memory: 12MB -->
