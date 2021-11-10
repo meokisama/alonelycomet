@@ -113,7 +113,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/blog\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://meoki.net/alonelycomet/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"479dea28ec"};
+var userProfileL10n = {"user_id":"0","nonce":"18cbe0018d"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
