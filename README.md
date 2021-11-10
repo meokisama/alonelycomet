@@ -20,13 +20,30 @@
 
 ## About
 
-A static blog of some wibu/s come from fairy tales. Converted to static from Wordpress.
+*A static blog of some wibu(s) come from fairy tales. Converted to static from Wordpress.*
 
-## Logo
+**A Lonely Comet**, empire of dreamers, we write everything about anime-manga-light novel. The original posts of this web blog have published at Facebook [**A Lonely Comet**](https://www.facebook.com/alonelycomet).
+
+### Authors
+*They wrote all posts, they know a little about everything and know everything about a little thing in this 2D industry...*
+- **v4v** - *A Lonely Comet [v4v]*
+- **SUBA**  - *A Lonely Comet [SUBA]*
+- **vivu**  - *A Lonely Comet [vivu]*
+- **1q84**  - *A Lonely Comet [1q84]*
+- **naoneene**  - *A Lonely Comet [naoneene]*
+- **Watanabe**  - *A Lonely Comet [Watanabe]*
+
+### Additional
+
+**Nhật Hoạ Kỳ Thư** - Above they wrote, here I shared...
+
+**Link** : **https://meoki.net/alonelycomet/nhat-hoa-ky-thu**
+
+All resource about anime-manga-light novel.
 
 <p align="center">
   <a href="https://meoki.net/alonelycomet">
-    <img src="logo/512.png" width='200px'/>
+    <img src="logo/512.png" width='100px'/>
   </a>
 </p>
 
