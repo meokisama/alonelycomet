@@ -48,11 +48,11 @@ All resource about anime-manga-light novel.
   </a>
 </p>
 
-## Demo
+## Preview
 
 ![demo.png](logo/demo.jpg)
 
-## Find me around the web 🌎:
+## Find me around the web 🌎
 
 <a href="https://facebook.com/slytherinnn/"><img align="left" width="150" height="150" src="https://github.com/meokisama/meokisama/blob/master/image/2750554.png"> </a>
 
