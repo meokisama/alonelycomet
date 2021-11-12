@@ -18,11 +18,11 @@ var LWA = {"ajaxurl":"https:\/\/meoki.net\/alonelycomet\/wp-admin\/admin-ajax.ph
 <script type="text/javascript" src="https://meoki.net/alonelycomet/wp-includes/js/jquery/ui/sortable.min.js?ver=1.12.1" id="jquery-ui-sortable-js"></script>
 <script type="text/javascript" src="https://meoki.net/alonelycomet/wp-content/plugins/accesspress-social-login-lite/js/backend.js?ver=3.4.7" id="apsl-admin-js-js"></script>
 <link rel="stylesheet" id="login-with-ajax-css" href="https://meoki.net/alonelycomet/wp-content/themes/ceris/plugins/login-with-ajax/widget.css?ver=3.1.11" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="https://meoki.net/alonelycomet/wp-includes/css/dashicons.min.css?ver=5.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://meoki.net/alonelycomet/wp-includes/css/buttons.min.css?ver=5.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="forms-css" href="https://meoki.net/alonelycomet/wp-admin/css/forms.min.css?ver=5.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://meoki.net/alonelycomet/wp-admin/css/l10n.min.css?ver=5.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="login-css" href="https://meoki.net/alonelycomet/wp-admin/css/login.min.css?ver=5.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://meoki.net/alonelycomet/wp-includes/css/dashicons.min.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://meoki.net/alonelycomet/wp-includes/css/buttons.min.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="forms-css" href="https://meoki.net/alonelycomet/wp-admin/css/forms.min.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://meoki.net/alonelycomet/wp-admin/css/l10n.min.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="login-css" href="https://meoki.net/alonelycomet/wp-admin/css/login.min.css?ver=5.8.2" type="text/css" media="all">
 <link rel="stylesheet" id="fontawesome-latest-css-css" href="https://meoki.net/alonelycomet/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7" type="text/css" media="all">
 <link rel="stylesheet" id="apsl-backend-css-css" href="https://meoki.net/alonelycomet/wp-content/plugins/accesspress-social-login-lite/css/backend.css?ver=3.4.7" type="text/css" media="all">
 <link rel="stylesheet" id="apsl-frontend-css-css" href="https://meoki.net/alonelycomet/wp-content/plugins/accesspress-social-login-lite/css/frontend.css?ver=3.4.7" type="text/css" media="all">
@@ -103,17 +103,17 @@ var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rấ
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-08-02 03:13:39+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script type="text/javascript" src="https://meoki.net/alonelycomet/wp-admin/js/password-strength-meter.min.js?ver=5.8.1" id="password-strength-meter-js"></script>
+<script type="text/javascript" src="https://meoki.net/alonelycomet/wp-admin/js/password-strength-meter.min.js?ver=5.8.2" id="password-strength-meter-js"></script>
 <script type="text/javascript" src="https://meoki.net/alonelycomet/wp-includes/js/underscore.min.js?ver=1.13.1" id="underscore-js"></script>
 <script type="text/javascript" id="wp-util-js-extra">
 /*  */
 var _wpUtilSettings = {"ajax":{"url":"\/blog\/wp-admin\/admin-ajax.php"}};
 /*  */
 </script>
-<script type="text/javascript" src="https://meoki.net/alonelycomet/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
+<script type="text/javascript" src="https://meoki.net/alonelycomet/wp-includes/js/wp-util.min.js?ver=5.8.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"18cbe0018d"};
+var userProfileL10n = {"user_id":"0","nonce":"88d1526167"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
@@ -123,7 +123,7 @@ var userProfileL10n = {"user_id":"0","nonce":"18cbe0018d"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-08-02 03:13:39+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Hide":["Ẩn đi"],"Show":["Hiển thị"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script type="text/javascript" src="https://meoki.net/alonelycomet/wp-admin/js/user-profile.min.js?ver=5.8.1" id="user-profile-js"></script>
+<script type="text/javascript" src="https://meoki.net/alonelycomet/wp-admin/js/user-profile.min.js?ver=5.8.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
