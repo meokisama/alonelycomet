@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://meoki.net/alonelycomet/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="12 November, 2021 6:55 am" -->
+<!-- generated-on="13 November, 2021 2:48 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://meoki.net/alonelycomet/2021/08/31/voyger-studio-khara-cloverworks/</loc>
 		<lastmod>2021-10-31T16:56:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://meoki.net/alonelycomet/2021/08/30/megami-magazine-so-257-2021-10/</loc>
+		<lastmod>2021-11-13T14:36:58+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -114,4 +120,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 9d4d001bbf422c0a0a5b84a28de09791; Queries for sitemap: 3; Total queries: 32; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 12MB -->
+</urlset><!-- Request ID: a0b3ccec98ae1e02839d685388053d85; Queries for sitemap: 3; Total queries: 32; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 12MB -->
