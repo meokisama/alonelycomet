@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://meoki.net/alonelycomet/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="13 November, 2021 2:48 pm" -->
+<!-- generated-on="14 November, 2021 2:31 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>https://meoki.net/alonelycomet/2021/05/31/megami-magazine-so-254-2021-07/</loc>
+		<lastmod>2021-11-14T08:46:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
 		<loc>https://meoki.net/alonelycomet/2021/05/29/horimiya-mieng-banh-ngot-khong-nen-bo-qua/</loc>
 		<lastmod>2021-10-31T15:20:50+00:00</lastmod>
 		<changefreq>monthly</changefreq>
@@ -30,4 +36,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: e1927ef9645fc591624b30e9d42094da; Queries for sitemap: 3; Total queries: 32; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 12MB -->
+</urlset><!-- Request ID: 5fb822f246c74337b104dc46d20626f7; Queries for sitemap: 3; Total queries: 32; Seconds: 0; Memory for sitemap: 0MB; Total memory: 12MB -->
