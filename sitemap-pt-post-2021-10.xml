@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://meoki.net/alonelycomet/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="14 November, 2021 3:09 pm" -->
+<!-- generated-on="15 November, 2021 3:58 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://meoki.net/alonelycomet/2021/10/31/megami-magazine-259-2021-12/</loc>
 		<lastmod>2021-11-13T12:40:46+00:00</lastmod>
@@ -14,7 +14,7 @@
 	</url>
 	<url>
 		<loc>https://meoki.net/alonelycomet/2021/10/31/binh-luan-eighty-six-tap-16-2nd-cour/</loc>
-		<lastmod>2021-11-01T14:48:35+00:00</lastmod>
+		<lastmod>2021-11-15T15:48:40+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -116,7 +116,7 @@
 	</url>
 	<url>
 		<loc>https://meoki.net/alonelycomet/2021/10/17/binh-luan-eighty-six-tap-14-2nd-cour/</loc>
-		<lastmod>2021-11-01T15:36:41+00:00</lastmod>
+		<lastmod>2021-11-15T15:48:59+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -282,4 +282,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 98417a5fc00294fdcda878a4505cf05f; Queries for sitemap: 3; Total queries: 32; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 12MB -->
+</urlset><!-- Request ID: ace38f7a5a1d429f115c08371481ebc0; Queries for sitemap: 3; Total queries: 32; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 12MB -->

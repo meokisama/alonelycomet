@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://meoki.net/alonelycomet/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="14 November, 2021 3:09 pm" -->
+<!-- generated-on="15 November, 2021 3:58 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>https://meoki.net/alonelycomet/2021/11/15/shaft-cau-chuyen-it-nguoi-biet-cuoc-dai-di-tan-2017-2018/</loc>
+		<lastmod>2021-11-15T15:47:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://meoki.net/alonelycomet/2021/11/15/binh-luan-mushoku-tensei-tap-18/</loc>
+		<lastmod>2021-11-15T15:45:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
 		<loc>https://meoki.net/alonelycomet/2021/11/14/no-game-no-life-yuu-kamiya-art-works/</loc>
 		<lastmod>2021-11-14T14:54:48+00:00</lastmod>
 		<changefreq>monthly</changefreq>
@@ -26,7 +38,7 @@
 	</url>
 	<url>
 		<loc>https://meoki.net/alonelycomet/2021/11/07/binh-luan-eighty-six-tap-17-2nd-cour/</loc>
-		<lastmod>2021-11-08T03:00:31+00:00</lastmod>
+		<lastmod>2021-11-15T15:48:32+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -60,4 +72,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 2e6f46757647bddbeea000d2515bdf3a; Queries for sitemap: 3; Total queries: 32; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 12MB -->
+</urlset><!-- Request ID: 8c16323698e9e359cfe36a3e3ed84e27; Queries for sitemap: 3; Total queries: 32; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 12MB -->
