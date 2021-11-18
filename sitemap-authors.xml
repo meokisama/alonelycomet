@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://meoki.net/alonelycomet/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="15 November, 2021 3:58 pm" -->
+<!-- generated-on="18 November, 2021 2:23 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://meoki.net/alonelycomet/author/meokisama/</loc>
-		<lastmod>2021-11-14T14:54:48+00:00</lastmod>
+		<lastmod>2021-11-18T13:40:24+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -14,13 +14,13 @@
 	</url>
 	<url>
 		<loc>https://meoki.net/alonelycomet/author/vivu/</loc>
-		<lastmod>2021-11-02T14:47:19+00:00</lastmod>
+		<lastmod>2021-11-16T15:12:43+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://meoki.net/alonelycomet/author/v4v/</loc>
-		<lastmod>2021-11-15T15:48:59+00:00</lastmod>
+		<lastmod>2021-11-17T04:04:54+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -42,4 +42,4 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
-</urlset><!-- Request ID: f46f391b70bc2af0c1a970e981e5fdb1; Queries for sitemap: 2; Total queries: 31; Seconds: 0; Memory for sitemap: 0MB; Total memory: 12MB -->
+</urlset><!-- Request ID: 3820068cb5433065b9328cff846f40f0; Queries for sitemap: 2; Total queries: 31; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 12MB -->
