@@ -12,7 +12,7 @@
 	<atom:link href="https://meoki.net/alonelycomet/tag/novel/feed/" rel="self" type="application/rss+xml" />
 	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
-	<lastBuildDate>Sat, 13 Nov 2021 13:06:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Nov 2021 07:45:29 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -125,7 +125,15 @@
 
 
 
-<p>Danh sách light novel. Kiếm cách làm cái TreeView mà chưa được a, thôi như này đỡ.</p>
+<p>Danh sách light novel. </p>
+
+
+
+<p>Cụ thể hơn có thể xem tại TreeView sau đây, nó ánh xạ toàn bộ folder của mình dưới local.</p>
+
+
+
+<h6>Link : <a href="https://alonelycomet.meoki.net/treeview/minh-thu-treeview">https://alonelycomet.meoki.net/treeview/minh-thu-treeview</a></h6>
 
 
 

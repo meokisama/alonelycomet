@@ -12,7 +12,7 @@
 	<atom:link href="https://meoki.net/alonelycomet/tag/sharing/feed/" rel="self" type="application/rss+xml" />
 	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
-	<lastBuildDate>Thu, 18 Nov 2021 13:40:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Nov 2021 07:45:29 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -784,7 +784,15 @@ Bit depth                   : 8 bits
 
 
 
-<p>Danh sách light novel. Kiếm cách làm cái TreeView mà chưa được a, thôi như này đỡ.</p>
+<p>Danh sách light novel. </p>
+
+
+
+<p>Cụ thể hơn có thể xem tại TreeView sau đây, nó ánh xạ toàn bộ folder của mình dưới local.</p>
+
+
+
+<h6>Link : <a href="https://alonelycomet.meoki.net/treeview/minh-thu-treeview">https://alonelycomet.meoki.net/treeview/minh-thu-treeview</a></h6>
 
 
 
@@ -2283,9 +2291,9 @@ Bit depth                   : 8 bits
 </div>
 </figure>
 <h4>Anime Files List</h4>
-<p>Dưới đây là danh sách các bộ anime, dưới dạng <strong>File list,</strong> có thể lướt xem, <code>Ctrl + F</code> để tìm kiếm. <s>Nó ánh xạ toàn bộ folder của mình dưới local, vì vậy cũng có thể xem bên trong nhưng mục anime này có những mục con nào <em>(các season nhỏ, danh sách các tập có subtitles,…)</em></s></p>
+<p>Dưới đây là danh sách các bộ anime, dưới dạng <strong>File list,</strong> có thể lướt xem, <code>Ctrl + F</code> để tìm kiếm.</p>
 <h5>Airing Anime</h5>
-<p><em>Đây là những bộ anime đang được công chiếu.</em></p>
+<p><em>Đây là những bộ anime đang được công chiếu. Mình sẽ lấy sub mỗi khi có tập mới ra.</em></p>
 <ol>
 <li>86 Eiti Shikkusu</li>
 <li>Ganbare Douki-chan</li>
@@ -2307,6 +2315,9 @@ Bit depth                   : 8 bits
 </ol>
 <h5>Finished Anime</h5>
 <p><em>Còn đây là những bộ anime đã hoàn thành công chiếu.</em></p>
+<p>Cụ thể hơn có thể xem tại TreeView sau đây. Nó ánh xạ toàn bộ folder của mình dưới local, vì vậy cũng có thể xem bên trong nhưng mục anime này có những mục con nào (các season nhỏ, danh sách các tập có subtitles,…)</p>
+<h6>Link : <a href="https://alonelycomet.meoki.net/treeview/ngu-thu-treeview">https://alonelycomet.meoki.net/treeview/ngu-thu-treeview</a></h6>
+<h6>Còn đây là list chay :</h6>
 <ol>
 <li>100-man no Inochi no Ue ni Ore wa Tatte Iru</li>
 <li>43 &#8211; Seiin Koukou Danshi Volley-bu</li>
