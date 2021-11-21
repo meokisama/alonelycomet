@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://alonelycomet.meoki.net/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="21 November, 2021 2:24 pm" -->
+<!-- generated-on="21 November, 2021 2:52 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://alonelycomet.meoki.net/latest-news/</loc>
 		<lastmod>2021-11-06T14:07:06+00:00</lastmod>
@@ -12,4 +12,4 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 97ddfeba8f241ccfa801c29b32ac03df; Queries for sitemap: 3; Total queries: 33; Seconds: 0; Memory for sitemap: 0MB; Total memory: 12MB -->
+</urlset><!-- Request ID: 37ee19271acd28954079af5e06529c6f; Queries for sitemap: 3; Total queries: 33; Seconds: 0; Memory for sitemap: 0MB; Total memory: 12MB -->
