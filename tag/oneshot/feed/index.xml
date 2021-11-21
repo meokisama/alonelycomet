@@ -9,8 +9,8 @@
 
 <channel>
 	<title>oneshot &#8211; A Lonely Comet</title>
-	<atom:link href="https://meoki.net/alonelycomet/tag/oneshot/feed/" rel="self" type="application/rss+xml" />
-	<link>https://meoki.net/alonelycomet</link>
+	<atom:link href="https://alonelycomet.meoki.net/tag/oneshot/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alonelycomet.meoki.net</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
 	<lastBuildDate>Tue, 02 Nov 2021 14:48:22 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://meoki.net/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
+	<url>https://alonelycomet.meoki.net/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
 	<title>oneshot &#8211; A Lonely Comet</title>
-	<link>https://meoki.net/alonelycomet</link>
+	<link>https://alonelycomet.meoki.net</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Look Back – Oneshot độc đáo của Fujimoto [Chainsaw Man]</title>
-		<link>https://meoki.net/alonelycomet/2021/07/19/look-back-one-shot-doc-dao-cua-fujimoto/</link>
-					<comments>https://meoki.net/alonelycomet/2021/07/19/look-back-one-shot-doc-dao-cua-fujimoto/#respond</comments>
+		<link>https://alonelycomet.meoki.net/2021/07/19/look-back-one-shot-doc-dao-cua-fujimoto/</link>
+					<comments>https://alonelycomet.meoki.net/2021/07/19/look-back-one-shot-doc-dao-cua-fujimoto/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Mon, 19 Jul 2021 01:08:00 +0000</pubDate>
@@ -59,7 +59,7 @@
 <h6><strong>Link bài viết gốc :</strong>&nbsp;<a href="https://www.facebook.com/alonelycomet/posts/191196849687709">https://facebook.com/alonelycomet/posts/191196849687709</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://meoki.net/alonelycomet/2021/07/19/look-back-one-shot-doc-dao-cua-fujimoto/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.net/2021/07/19/look-back-one-shot-doc-dao-cua-fujimoto/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

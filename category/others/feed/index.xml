@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Other Content &#8211; A Lonely Comet</title>
-	<atom:link href="https://meoki.net/alonelycomet/category/others/feed/" rel="self" type="application/rss+xml" />
-	<link>https://meoki.net/alonelycomet</link>
+	<atom:link href="https://alonelycomet.meoki.net/category/others/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alonelycomet.meoki.net</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
 	<lastBuildDate>Sun, 14 Nov 2021 15:06:23 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://meoki.net/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
+	<url>https://alonelycomet.meoki.net/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
 	<title>Other Content &#8211; A Lonely Comet</title>
-	<link>https://meoki.net/alonelycomet</link>
+	<link>https://alonelycomet.meoki.net</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Arcane Episode 1-3 &#8211; First Impression</title>
-		<link>https://meoki.net/alonelycomet/2021/11/14/arcane-episode-1-3-first-impression/</link>
-					<comments>https://meoki.net/alonelycomet/2021/11/14/arcane-episode-1-3-first-impression/#respond</comments>
+		<link>https://alonelycomet.meoki.net/2021/11/14/arcane-episode-1-3-first-impression/</link>
+					<comments>https://alonelycomet.meoki.net/2021/11/14/arcane-episode-1-3-first-impression/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Sat, 13 Nov 2021 21:00:00 +0000</pubDate>
 				<category><![CDATA[Other Content]]></category>
 		<category><![CDATA[first impression]]></category>
 		<category><![CDATA[other]]></category>
-		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2081</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2081</guid>
 
 					<description><![CDATA[Chúng ta chắc hẳn đều biết đến tựa game Liên minh huyền thoại và cái công ty Riot chuyên làm hoạt hình với MV ca nhạc này rồi. Tôi đã từng chơi Liên minh khá nhiều với đám bạn hồi xưa rất là vui nhưng giờ đã bỏ được vài năm. Tôi chắc là sẽ không quan tâm đến LoL nữa nếu mà không theo dõi những giải đấu esport và cả những video cinematic đầy “mát mắt” kia. Do đó tuy là không chơi cái game “củ chuối” này nữa nhưng tôi vẫn quan tâm đến nó và dĩ [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -124,7 +124,7 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/269203921887001" data-type="URL" data-id="https://facebook.com/alonelycomet/269203921887001">https://facebook.com/alonelycomet/269203921887001</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/14/arcane-episode-1-3-first-impression/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.net/2021/11/14/arcane-episode-1-3-first-impression/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

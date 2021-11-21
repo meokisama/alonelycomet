@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Bình luận cho A Lonely Comet	</title>
-	<atom:link href="https://meoki.net/alonelycomet/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://meoki.net/alonelycomet</link>
+	<atom:link href="https://alonelycomet.meoki.net/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alonelycomet.meoki.net</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
-	<lastBuildDate>Fri, 19 Nov 2021 07:45:29 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 Nov 2021 14:17:59 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
