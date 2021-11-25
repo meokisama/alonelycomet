@@ -9,8 +9,8 @@
 
 <channel>
 	<title>concept &#8211; A Lonely Comet</title>
-	<atom:link href="https://alonelycomet.meoki.net/tag/concept/feed/" rel="self" type="application/rss+xml" />
-	<link>https://alonelycomet.meoki.net</link>
+	<atom:link href="https://meoki.net/alonelycomet/tag/concept/feed/" rel="self" type="application/rss+xml" />
+	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
 	<lastBuildDate>Sun, 31 Oct 2021 16:56:43 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://alonelycomet.meoki.net/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
+	<url>https://meoki.net/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
 	<title>concept &#8211; A Lonely Comet</title>
-	<link>https://alonelycomet.meoki.net</link>
+	<link>https://meoki.net/alonelycomet</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>VOY@GER &#8211; Studio Khara &#038; CloverWorks</title>
-		<link>https://alonelycomet.meoki.net/2021/08/31/voyger-studio-khara-cloverworks/</link>
-					<comments>https://alonelycomet.meoki.net/2021/08/31/voyger-studio-khara-cloverworks/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/08/31/voyger-studio-khara-cloverworks/</link>
+					<comments>https://meoki.net/alonelycomet/2021/08/31/voyger-studio-khara-cloverworks/#respond</comments>
 		
 		<dc:creator><![CDATA[naoneene]]></dc:creator>
 		<pubDate>Tue, 31 Aug 2021 16:52:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[concept]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=1740</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1740</guid>
 
 					<description><![CDATA[Nếu như trong năm 2021, “tác phẩm” ấn tượng nhất của Cloverworks đối với mình không phải là Horimiya, Wonder Egg Priority hay Shadows House, mà chính là một MV âm nhạc mang tên “VOY@GER”. Đây là MV, hay là một concept movie nói chính xác hơn, đánh dấu kỉ niệm 16 năm của franchise idol đình đám “THE iDOLM@STER”, franchise có thể nói là ông tổ của ngành Idol Media Project. Sức hấp dẫn của MV này không chỉ nằm ở việc làm thỏa mãn những fan im@s nói riêng, mà còn gây ấn tượng mạnh đối với những [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -91,7 +91,7 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/219547846852609">https://facebook.com/alonelycomet/posts/219547846852609</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/08/31/voyger-studio-khara-cloverworks/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/08/31/voyger-studio-khara-cloverworks/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>megami &#8211; A Lonely Comet</title>
-	<atom:link href="https://alonelycomet.meoki.net/tag/megami/feed/" rel="self" type="application/rss+xml" />
-	<link>https://alonelycomet.meoki.net</link>
+	<atom:link href="https://meoki.net/alonelycomet/tag/megami/feed/" rel="self" type="application/rss+xml" />
+	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
 	<lastBuildDate>Sun, 14 Nov 2021 08:46:37 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://alonelycomet.meoki.net/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
+	<url>https://meoki.net/alonelycomet/wp-content/uploads/2021/10/cropped-512-32x32.png</url>
 	<title>megami &#8211; A Lonely Comet</title>
-	<link>https://alonelycomet.meoki.net</link>
+	<link>https://meoki.net/alonelycomet</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Megami Magazine Số 259 (2021-12)</title>
-		<link>https://alonelycomet.meoki.net/2021/10/31/megami-magazine-259-2021-12/</link>
-					<comments>https://alonelycomet.meoki.net/2021/10/31/megami-magazine-259-2021-12/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/31/megami-magazine-259-2021-12/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/31/megami-magazine-259-2021-12/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Sun, 31 Oct 2021 11:24:00 +0000</pubDate>
@@ -38,7 +38,7 @@
 		<category><![CDATA[megami]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2024</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2024</guid>
 
 					<description><![CDATA[Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -141,15 +141,15 @@
 <h5 class="has-text-align-center">&#8211; HẾT &#8211; </h5>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/10/31/megami-magazine-259-2021-12/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/31/megami-magazine-259-2021-12/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Megami Magazine Số 258 (2021-11)</title>
-		<link>https://alonelycomet.meoki.net/2021/10/01/megami-magazine-so-258-2021-11/</link>
-					<comments>https://alonelycomet.meoki.net/2021/10/01/megami-magazine-so-258-2021-11/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/10/01/megami-magazine-so-258-2021-11/</link>
+					<comments>https://meoki.net/alonelycomet/2021/10/01/megami-magazine-so-258-2021-11/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Fri, 01 Oct 2021 12:47:00 +0000</pubDate>
@@ -158,7 +158,7 @@
 		<category><![CDATA[megami]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2042</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2042</guid>
 
 					<description><![CDATA[Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -257,15 +257,15 @@
 <h5 class="has-text-align-center">&#8211; HẾT &#8211;</h5>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/10/01/megami-magazine-so-258-2021-11/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/01/megami-magazine-so-258-2021-11/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Megami Magazine Số 257 (2021-10)</title>
-		<link>https://alonelycomet.meoki.net/2021/08/30/megami-magazine-so-257-2021-10/</link>
-					<comments>https://alonelycomet.meoki.net/2021/08/30/megami-magazine-so-257-2021-10/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/08/30/megami-magazine-so-257-2021-10/</link>
+					<comments>https://meoki.net/alonelycomet/2021/08/30/megami-magazine-so-257-2021-10/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Mon, 30 Aug 2021 14:17:00 +0000</pubDate>
@@ -274,7 +274,7 @@
 		<category><![CDATA[megami]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2047</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2047</guid>
 
 					<description><![CDATA[Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -373,15 +373,15 @@
 <h5 class="has-text-align-center">&#8211; Hết &#8211;</h5>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/08/30/megami-magazine-so-257-2021-10/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/08/30/megami-magazine-so-257-2021-10/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Megami Magazine Số 256 (2021-09)</title>
-		<link>https://alonelycomet.meoki.net/2021/08/01/megami-magazine-so-256-2021-09/</link>
-					<comments>https://alonelycomet.meoki.net/2021/08/01/megami-magazine-so-256-2021-09/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/08/01/megami-magazine-so-256-2021-09/</link>
+					<comments>https://meoki.net/alonelycomet/2021/08/01/megami-magazine-so-256-2021-09/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Sun, 01 Aug 2021 06:43:00 +0000</pubDate>
@@ -390,7 +390,7 @@
 		<category><![CDATA[megami]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2053</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2053</guid>
 
 					<description><![CDATA[Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -493,15 +493,15 @@
 <h5 class="has-text-align-center">&#8211; HẾT &#8211; </h5>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/08/01/megami-magazine-so-256-2021-09/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/08/01/megami-magazine-so-256-2021-09/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Megami Magazine Số 255 (2021-08)</title>
-		<link>https://alonelycomet.meoki.net/2021/07/03/megami-magazine-so-255-2021-08/</link>
-					<comments>https://alonelycomet.meoki.net/2021/07/03/megami-magazine-so-255-2021-08/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/07/03/megami-magazine-so-255-2021-08/</link>
+					<comments>https://meoki.net/alonelycomet/2021/07/03/megami-magazine-so-255-2021-08/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Sat, 03 Jul 2021 07:21:00 +0000</pubDate>
@@ -510,7 +510,7 @@
 		<category><![CDATA[megami]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2058</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2058</guid>
 
 					<description><![CDATA[Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -613,15 +613,15 @@
 <h5 class="has-text-align-center">&#8211; HẾT &#8211; </h5>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/07/03/megami-magazine-so-255-2021-08/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/07/03/megami-magazine-so-255-2021-08/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Megami Magazine Số 254 (2021-07)</title>
-		<link>https://alonelycomet.meoki.net/2021/05/31/megami-magazine-so-254-2021-07/</link>
-					<comments>https://alonelycomet.meoki.net/2021/05/31/megami-magazine-so-254-2021-07/#respond</comments>
+		<link>https://meoki.net/alonelycomet/2021/05/31/megami-magazine-so-254-2021-07/</link>
+					<comments>https://meoki.net/alonelycomet/2021/05/31/megami-magazine-so-254-2021-07/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Mon, 31 May 2021 07:34:00 +0000</pubDate>
@@ -630,7 +630,7 @@
 		<category><![CDATA[megami]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2061</guid>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2061</guid>
 
 					<description><![CDATA[Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -733,7 +733,7 @@
 <h5 class="has-text-align-center">&#8211; HẾT &#8211; </h5>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/05/31/megami-magazine-so-254-2021-07/feed/</wfw:commentRss>
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/05/31/megami-magazine-so-254-2021-07/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

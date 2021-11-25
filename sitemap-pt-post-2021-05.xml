@@ -1,39 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://alonelycomet.meoki.net/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="21 November, 2021 2:52 pm" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://meoki.net/alonelycomet/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
+<!-- generated-on="25 November, 2021 4:00 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>https://alonelycomet.meoki.net/2021/05/31/megami-magazine-so-254-2021-07/</loc>
+		<loc>https://meoki.net/alonelycomet/2021/05/31/megami-magazine-so-254-2021-07/</loc>
 		<lastmod>2021-11-14T08:46:37+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://alonelycomet.meoki.net/2021/05/29/horimiya-mieng-banh-ngot-khong-nen-bo-qua/</loc>
+		<loc>https://meoki.net/alonelycomet/2021/05/29/horimiya-mieng-banh-ngot-khong-nen-bo-qua/</loc>
 		<lastmod>2021-10-31T15:20:50+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://alonelycomet.meoki.net/2021/05/27/jaku-chara-tomozaki-kun-jct-du-rap-khuon-nhung-van-cuon-hut/</loc>
+		<loc>https://meoki.net/alonelycomet/2021/05/27/jaku-chara-tomozaki-kun-jct-du-rap-khuon-nhung-van-cuon-hut/</loc>
 		<lastmod>2021-10-31T15:14:30+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://alonelycomet.meoki.net/2021/05/20/the-promised-neverland-season-2-cam-nhan/</loc>
+		<loc>https://meoki.net/alonelycomet/2021/05/22/eula-co-che-va-ky-thuat/</loc>
+		<lastmod>2021-11-23T15:21:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://meoki.net/alonelycomet/2021/05/20/the-promised-neverland-season-2-cam-nhan/</loc>
 		<lastmod>2021-10-31T15:49:41+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://alonelycomet.meoki.net/2021/05/05/nghe-thuat-phim-anh-trong-anime/</loc>
+		<loc>https://meoki.net/alonelycomet/2021/05/05/nghe-thuat-phim-anh-trong-anime/</loc>
 		<lastmod>2021-10-31T16:28:10+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://alonelycomet.meoki.net/2021/05/05/jujutsu-kaisen-cam-nhan/</loc>
+		<loc>https://meoki.net/alonelycomet/2021/05/05/jujutsu-kaisen-cam-nhan/</loc>
 		<lastmod>2021-10-31T15:29:51+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 9344d9679e48f5ca771338400d4ba300; Queries for sitemap: 3; Total queries: 33; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 12MB -->
+</urlset><!-- Request ID: 50c64992a5a9251aca5b9b8834ad188f; Queries for sitemap: 3; Total queries: 33; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 12MB -->
