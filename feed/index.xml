@@ -12,7 +12,7 @@
 	<atom:link href="https://meoki.net/alonelycomet/feed/" rel="self" type="application/rss+xml" />
 	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
-	<lastBuildDate>Thu, 25 Nov 2021 03:17:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Nov 2021 14:24:02 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,435 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Toán Học Trong Puella Magi Madoka Magica: Rebellion &#8211; Khi Tình Yêu Được Chuyển Thành Những Con Số. (Part 2)</title>
+		<link>https://meoki.net/alonelycomet/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/</link>
+					<comments>https://meoki.net/alonelycomet/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Kirihime]]></dc:creator>
+		<pubDate>Fri, 26 Nov 2021 13:48:14 +0000</pubDate>
+				<category><![CDATA[Anime Review]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[anime]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2171</guid>
+
+					<description><![CDATA[Toán Học là một yếu tố tuy nhỏ nhưng được đầu tư rất kĩ trong series Madoka Magica, và truyền thống này tiếp tục được duy trì ở Movie 3: Rebellion, tập phim có thể nói là kết thúc của phần đầu tiên trong chương truyện của Madoka Magica. Xem lại P1 tại đây: url.meoki.net/RPXLo7 Khác với phần phim ngắn, những phương trình toán học giờ đây không chỉ được giải bởi mỗi Homura nữa, mà chỉ thoáng qua trong những bài giảng trên lớp. Đây có lẽ là vì ở đây, những phương trình lặp lại không thể hiện [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Toán Học là một yếu tố tuy nhỏ nhưng được đầu tư rất kĩ trong series Madoka Magica, và truyền thống này tiếp tục được duy trì ở Movie 3: Rebellion, tập phim có thể nói là kết thúc của phần đầu tiên trong chương truyện của Madoka Magica.</p>
+
+
+
+<h6><strong>Xem lại P1 tại đây: </strong><a href="http://url.meoki.net/RPXLo7">url.meoki.net/RPXLo7</a></h6>
+
+
+
+<p>Khác với phần phim ngắn, những phương trình toán học giờ đây không chỉ được giải bởi mỗi Homura nữa, mà chỉ thoáng qua trong những bài giảng trên lớp. Đây có lẽ là vì ở đây, những phương trình lặp lại không thể hiện quãng thời gian vô tận mà Homura đã tua đi tua lại suốt hằng trăm lần mà nói lên những gì thực sự đang diễn ra ở thế giới đó. Tất nhiên ta cũng biết thế giới mà hiện hữu trong phần lớn thời gian Movie, là thế giới ảo được kiến tạo bởi Kyubei và Homura trong Soul Gem của chính cô. Vậy không ngoa khi nói rằng, ý nghĩa được ẩn giấu trong những phương trình dưới đây nói lên tư tưởng và suy nghĩ của chính Homura.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="934" height="474" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/258188939_276779954462731_2226057633580206811_n.jpg" alt="" class="wp-image-2179"/></figure>
+
+
+
+<p>.</p>
+
+
+
+<h5>Vấn đề 1: Tính ∫arcsin3x/√1−x^2.dx</h5>
+
+
+
+<pre class="wp-block-preformatted">Đầu tiên, ta thay u=arcsinx vào du/dx=1/√1−x^2 sẽ được ∫u3du.<br>Sử dụng công thức tích phân cơ bản ∫xαdx = xα+1/α+1 + C sẽ ra ∫u3du = 1/4u^4 + C.<br>Thay ngược lại arcsinx vào ta được kết quả 1/4arcsin^4x + C.</pre>
+
+
+
+<p>&#8211; Khác hẳn với những phương trình xuất hiện ở 12 tập phim ngắn, những phương trình ở Rebellion không đơn thuần chỉ là những dòng đại số nữa, cơ bản là vì ý nghĩa của nó đã không còn gói gọn trong quá trình cứu Madoka của Homura – một quá trình mà vô cùng khô khan và cứng nhắc. Nó đã chuyển sang tích phân và giải tích, những khái niệm toán học về không gian và trừu tượng hơn rất nhiều, khi mà giờ đây bộ phim khai thác mạnh hơn về tâm lý của Homura.</p>
+
+
+
+<p>&#8211; Arcsin là ngược lại của Sin, cũng như cái cách mà giờ đây Homura chính là đối nghịch của người mà cô yêu hết lòng – Madoka. Nhìn vào biểu thị 2 đường sin và arcsin trên đồ thị, ta có thể thấy rõ 2 đường này chỉ hướng về nhau đúng 1 khắc, sau đó tách xa nhau và đi về vô tận. Một khi đã đối nghịch thì chỉ có thể xa cách, vĩnh viễn không thể lại gần nhau được. Homura có lẽ cũng nhận ra điều này, kết hợp cùng với sự ích kỉ nhỏ nhoi của mình, cô tự hóa thành Ác Quỷ đề có thể được làm đối lập của chính Madoka. Arcsin có lẽ cũng là ám chỉ rằng giờ đây trong Homura đã hình thành nên 1 tam giác tình cảm, kết hợp từ 3 góc Tuyệt Vòng, Hi Vọng và Tình Yêu. Để tính ra được góc Tình Yêu, cô đã phải kinh qua cả 2 Hi Vọng (12 ep đầu) và Tuyệt Vọng (Movie) để hình nên đươc thứ tình cảm vượt xa sức mạnh của vũ trụ &#8211; yêu.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Vấn đề 2: Tính ∫xln(x2+y)dx</h5>
+
+
+
+<p>Để giải ta sẽ phải coi y là một tham số độc lập với giá trị của x và sử dụng lnx để biểu thị lôgarit tự nhiên của x.</p>
+
+
+
+<pre class="wp-block-preformatted">Thay u = x2 + y vào du/dx = 2x ta có 1/2∫lnu d u<br>&gt;1/2∫lnu du = 1/2 (uln u − ∫1du) = 1/2u (lnu − 1)</pre>
+
+
+
+<p>Cuối cùng thay ngược lại u ta được đáp án: 1/2 (x2 + y) (ln (x2 + y) −1) + C</p>
+
+
+
+<p>&#8211; Giải bài này yêu cầu ta phải coi y là một tham số độc lập so với x. Cái này có thể là ngẫu nhiên, nhưng trùng hợp thay nó lại chính là suy nghĩ của Homura trong những phút cuối movie, khi cô tách ý định của bản thân ra khỏi ước muốn trước đó của Madoka. Nên nhớ, khi dòng thời gian bắt đầu, Madoka là người đã xin cô cứu lấy mình, rằng bản thân không muốn phải chịu đựng như thế này thêm một lần nào nữa. Xuyên suốt quá trình ta theo dõi phim, đây đã và vẫn là một trong những ý niệm chính của Homura khi cô quay về quá khứ &#8211; vì điều ước của cô khi lấy Soul Gem là hoàn thành được nguyện vọng của Madoka. Việc cô hành động chiếm lấy một phần sức mạnh và từ đó viết lại 1 thế giới mới, trong đó sử dụng luật lệ của riêng mình là minh chứng cho việc giờ đây cô hành động vì mục tiêu ích kỉ của bản thân chứ không còn phục vụ cho ý muốn của người khác nữa.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Vấn đề 3: Tính ∫x3+2&#215;2+10x/x2−x+1dx.</h5>
+
+
+
+<p>Biến đổi pt thành:</p>
+
+
+
+<pre class="wp-block-preformatted">x3+2x3+10x/x2−x+1=x+3+12x−3/x2−x+1=x+3+62x−1/x2−x+1+3x2−x+1</pre>
+
+
+
+<p>Sau đó sử dụng 2 công thức:</p>
+
+
+
+<pre class="wp-block-preformatted">(+) ∫f′(x)/f(x)dx = ln|f(x)|dx + C<br>(+) ∫dx/a2+x2=1a/arctanx/a + C</pre>
+
+
+
+<p>để ra được kết quả là :</p>
+
+
+
+<pre class="wp-block-preformatted">∫x3 + 2x2 + 10x/x2 − x + 1dx=1/2x2 + 3x + 6ln(x2−x+1) + 2√3 – arctan2x−1/√3 + C</pre>
+
+
+
+<p>-Hàm arctan là một hàm tiếp tuyến ngược, tiếp tuyến lại là một cặp điểm tiếp xúc trên một đường cong bất kì. Cách mình nhìn ý này trong bài là đường cong nối tiếp tuyến (Homura, f(Homura) chính là đường cong mang phương trình y = f(định mệnh). 2 điểm tiếp tuyến mang tên Homura do mình vừa đặt là 2 thời khắc mà cô chọn lặp đi lặp lại trước và cả sau khi biến thành ác quỷ, khoảnh khắc mà cô lần đầu được gặp Madoka và khoảnh khắc mà Madoka lần đầu được gặp cô, sau khi cô viết lại thế giới để tạo ra 1 vũ trụ riêng cho mình. 2 điểm này nối với nhau tạo thành 1 tiếp tuyến cách nhau vô hạn, khi mà giờ đây Homura của điểm cuối đã khác quá xa Homura ở điểm đầu, cả 2 đều chung 1 điểm đó là ích kỉ, chỉ khác nhau ở tư duy và hành động mà thôi.</p>
+
+
+
+<p>&#8211; Việc Homura đứng lên chống lại ước muốn của Madoka và tự hắc hóa bản thân &#8211; lí do mà tên phim được đặt là Rebellion, được mô tả không chỉ được thể hiện từ dạng phù thủy Homulily (cô cho rằng mình phải chế.t để ước nguyện của Madoka được bảo vệ) cho đến trở thành một tạo vật chống lại quy luật vũ trụ đã được đặt sẵn, nó 1 lần nữa lại được miêu tả rất rõ không qua lời mà bằng những con số.</p>
+
+
+
+<p>.</p>
+
+
+
+<p>Tất nhiên, còn rất nhiều lí do tại sao tên phim lại là Rebellion, cũng như tỉ tỉ những chi tiết khác nói về nhiều nhân vật khác thay vì chỉ xoay quanh Homura, nhưng mình có lí do để tin rằng đại đa số những thông tin mà movie này muốn truyền tải chỉ xoay quanh cô bé thời gian và tình yêu của cô với đấng Chúa trời mà thôi.</p>
+
+
+
+<p>Cảm ơn đã đọc bài của mình và mong có thể gặp lại mọi người trong những bài phân tích tiếp theo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Heike Monogatari &#8211; Một Kiệt Tác Nghệ Thuật</title>
+		<link>https://meoki.net/alonelycomet/2021/11/26/heike-monogatari-mot-kiet-tac-nghe-thuat/</link>
+					<comments>https://meoki.net/alonelycomet/2021/11/26/heike-monogatari-mot-kiet-tac-nghe-thuat/#respond</comments>
+		
+		<dc:creator><![CDATA[v4v]]></dc:creator>
+		<pubDate>Fri, 26 Nov 2021 03:06:00 +0000</pubDate>
+				<category><![CDATA[Fall Anime 2021]]></category>
+		<category><![CDATA[anime]]></category>
+		<category><![CDATA[commentary]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2154</guid>
+
+					<description><![CDATA[Quá hay! Heike có một trong những kết thúc đẹp đẽ nhất mà mình được chứng kiến trong những năm gần đây. Một kiệt tác của nghệ thuật kể chuyện bằng hình ảnh (visual storytelling). Thậm chí, nếu bạn không quan tâm, hoặc hay biết gì về lịch sử Nhật, về câu chuyện của Heike, thì bạn vẫn hoàn toàn thưởng thức được trọn vẹn những gì tác phẩm muốn truyền tải. Bạn không cần phải nhớ hết tên những nhân vật quan trọng, hay vai trò của họ trong lịch sử lẫn câu chuyện, lẫn âm mưu chính trị [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Quá hay! Heike có một trong những kết thúc đẹp đẽ nhất mà mình được chứng kiến trong những năm gần đây. Một kiệt tác của nghệ thuật kể chuyện bằng hình ảnh (visual storytelling). Thậm chí, nếu bạn không quan tâm, hoặc hay biết gì về lịch sử Nhật, về câu chuyện của Heike, thì bạn vẫn hoàn toàn thưởng thức được trọn vẹn những gì tác phẩm muốn truyền tải.</p>
+
+
+
+<p>Bạn không cần phải nhớ hết tên những nhân vật quan trọng, hay vai trò của họ trong lịch sử lẫn câu chuyện, lẫn âm mưu chính trị trong tác phẩm phức tạp đến mức độ nào. Không cần thiết, Heike Monogatari dưới bàn tay nữ đạo diễn Naoko Yamada là câu chuyện vi mô về số phận thịnh suy của những con người ở tộc Taira cuối thời Heian lẫy lừng.</p>
+
+
+
+<p>Thời kì Heian được xem là giai đoạn rực rỡ nhất của nền văn hóa cổ xưa Nhật khi văn hóa vương triều và cung đình phát triển, cùng với sự xâm nhập của Phật giáo. Chính vì thế, xuyên suốt tác phẩm là sự hiện hữu của triết lý vô thường, thấm đậm nỗi buồn vạn vật &#8220;mono no aware&#8221; ta đã quá quen thuộc trong văn hóa Nhật Bản.</p>
+
+
+
+<p>Điều gì đẹp đẽ thì không bao giờ trường tồn vĩnh cửu, cũng như sự phồn thịnh của tộc Taira vậy. Cái ch.ết được khắc họa như sự luân hồi của vạn vật, vòng tuần hoàn của tự nhiên, không thể chống lại mà hãy học cách chấp nhận. Biwa dù thấy và biết trước được kết cục của những người trong dòng tộc Taira cô thân quen, dù không thể giúp được gì cho họ, nhưng những câu chuyện như sự anh dũng của Shigemori không muốn bất trung lẫn bất hiếu, hiến dâng sinh mạng trước mặt phụ thân, hay câu chuyện của nhiều người khác trong dòng tộc đều sẽ được truyền miệng và sống mãi.</p>
+
+
+
+<p>Tác phẩm cũng phản ánh được sự ích kỷ của những người có quyền lực đã bất chấp mọi thứ, kể cả tính mạng của gia tộc, người trong nhà, để thỏa mãn sự kiêu hãnh của bản thân. Như khi Tokiko bế đứa cháu nội &#8211; vốn là hoàng thượng trên danh nghĩa lúc bấy giờ &#8211; cùng nhau t.ự s.át vì không muốn chấp nhận tất cả đã mất đi. Ta thấy một đứa trẻ, chẳng tội tình gì, không thể tự định đoạt được số phận, phải chịu hy sinh vì sự kiêu hãnh của người đứng đầu dòng tộc.</p>
+
+
+
+<p>Sâu xa hơn, tập cuối này, theo mình, mang một ý nghĩa nhất định với những gì Naoko Yamada đã trải qua. Tokuko dù chỉ còn một mình, người cuối cùng (trong tác phẩm) còn sống sót của dòng tộc Taira mà ta thấy được, đã chấp nhận được sự mất mát này. Như hình ảnh 5 sợi chỉ bện quấn vào nhau (goshiki no ito), và cả hình cảnh con bướm đậu trên bàn tay (quân hiệu của tộc Taira là con bướm), chứng minh rằng, họ đã hoàn toàn an nghỉ trong thanh thản.</p>
+
+
+
+<p>Biwa cũng như Tokuko, sẽ tiếp tục sống, để kể và lưu giữ những câu chuyện về dòng tộc Taira, về tình người, tình phụ tử, trung với dân, hiếu với cha, về gia đình.</p>
+
+
+
+<p>Liên hệ với Yamada, tác phẩm cũng ngụ ý rằng, cô đã chấp nhận mất mát, và sẽ tiếp tục tiến lên phía trước, sẽ tiếp tục sáng tác nên những tác phẩm cảm động đầy tính nhân văn, thấm nhuần tinh thần &#8220;Kyoani&#8221; còn mãi trong lòng. Cô sẽ làm tròn trách nhiệm và bổn phận của những người ở lại. Như khi Biwa vương đôi tay nắm lấy Tokuto, &#8220;đây không phải là kết thúc của chị, tương lai chị sẽ còn tiếp diễn&#8221;, cứ như thể, những lời ấy đang nói đến Yamada vậy!</p>
+
+
+
+<p>Xin cảm ơn Yamada, và Science Saru đã thực hiện nên một kiệt tác anime! Và mình mong mỏi chờ đợi tác phẩm tiếp theo Yamada sẽ thực hiện.</p>
+
+
+
+<p></p>
+
+
+
+<h6>Link bài viết gốc: <a href="https://www.facebook.com/alonelycomet/posts/276498324490894" data-type="URL" data-id="https://www.facebook.com/alonelycomet/posts/276498324490894">https://www.facebook.com/alonelycomet/posts/276498324490894</a></h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/26/heike-monogatari-mot-kiet-tac-nghe-thuat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Toán Học Trong Puella Magi Madoka Magica – Khi Tình Yêu Được Chuyển Thành Những Con Số (Part 1)</title>
+		<link>https://meoki.net/alonelycomet/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/</link>
+					<comments>https://meoki.net/alonelycomet/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/#respond</comments>
+		
+		<dc:creator><![CDATA[Kirihime]]></dc:creator>
+		<pubDate>Thu, 25 Nov 2021 13:33:00 +0000</pubDate>
+				<category><![CDATA[Anime Review]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[anime]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2158</guid>
+
+					<description><![CDATA[Puella Magi Madoka Magica là một Anime có thể được liệt vào hàng classic, nhất là ở bên Nhật khi độ phủ sóng của bộ phim này rất lớn. Phim sử dụng một hướng tiếp cận khác với chủ đề đã quá đỗi nổi tiếng là Mahou Shoujo (Ma pháp Thiếu nữ), vẫn giữ những gì đặc trưng nhất của dòng phim nhưng lại lồng thêm những yếu tố tâm lý và nặng trừu tượng không dành cho trẻ em. Ngoài ra còn có 1 yếu tố nữa, một yếu tố phụ nhưng được đề cấp đến rất nhiều xuyên [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Puella Magi Madoka Magica là một Anime có thể được liệt vào hàng classic, nhất là ở bên Nhật khi độ phủ sóng của bộ phim này rất lớn. Phim sử dụng một hướng tiếp cận khác với chủ đề đã quá đỗi nổi tiếng là Mahou Shoujo (Ma pháp Thiếu nữ), vẫn giữ những gì đặc trưng nhất của dòng phim nhưng lại lồng thêm những yếu tố tâm lý và nặng trừu tượng không dành cho trẻ em.</p>
+
+
+
+<p>Ngoài ra còn có 1 yếu tố nữa, một yếu tố phụ nhưng được đề cấp đến rất nhiều xuyên suốt cốt truyện – Toán Học. Bài tập đầu tiên ta thấy Homura giải là một bài Đại Số, cách để tìm ra Walpurgisnacht là Số Liệu, và thậm chí cô cũng dùng Toán học để chiến đấu với chính Walpurgisnacht. Lạ kỳ hơn, đó chính là ta chỉ thấy Homura sử dụng Toán trong phim, không có các nhân vật khác. Liệu có thể ngầm hiều rằng những con số trong đây tượng trưng cho chính Homura, thể hiện rõ định mệnh của cô thông qua những con số tưởng chửng như vô hồn? [Hình các bài toán sẽ để dưới phần cmt]</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 1:</h5>
+
+
+
+<h6>Vấn đề 1: Mọi số nguyên chia cho 14 sẽ có dư từ 0 đến 13. Cho biết a có dư là 6 và b có dư là 1 khi chia cho 14, dư của x là bao nhiêu khi chia cho 14, cho x là số nguyên nghiệm x2−2ax + b = 0?</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1074" height="602" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-9.png" alt="" class="wp-image-2160"/></figure>
+
+
+
+<p>Bài toán này có 2 cách giải, cách đầu tiên và cũng là đơn giản nhất đó chính là sư dụng Số học Mô-đun:</p>
+
+
+
+<pre class="wp-block-preformatted">• a≡6 (mod14);<br>• b≡1 (mod14).<br>• x2−2ax+b=0 &gt; x2−12x+1≡0(mod14)<br>• x2+2x+1≡0(mod14) (vì −12≡2(mod14))<br>• (x+1)2 ≡0(mod14)<br>• x+1≡0(mod14) (vì 14 không phải số chính phương)<br>• x≡13(mod14) (vì −1≡13(mod14))</pre>
+
+
+
+<p>Ta có thể dễ dàng chỉ ra rằng nghiệm đó chia cho 14 sẽ dư được 13, tuy nhiên trong phim Homura lại quyết định sử dụng một cách giải thuần số học:</p>
+
+
+
+<pre class="wp-block-preformatted">Giả sử rằng x=14q+r,a=14s+6,b=14t+1.
+Thay vào x2−2ax+b=0 ta được
+
+x2−2ax+b=14c+(r+1)2=0 với c=14q2+2q−28qs−2rs−12q+t−r
+
+14 chia cho 14c và 0 &amp;gt; (r+1)2. Từ đó suy ra r+1 chia được cho 14.
+
+Câu hỏi yêu cầu số dư r nằm giữa 0 và 13, từ đó suy ra r=13.</pre>
+
+
+
+<p>&#8211; Đáp án thì vẫn đúng thôi, mặc dù ngụ ý của tác giả rất rõ. Homura sau hàng trăm lần quay về quá khứ, cô vẫn chọn giải đi giải lại 1 cách duy nhất, thể hiện rõ sự bế tắc khi lặp đi lặp lại 1 dòng thời gian mà không thể ra được kết quả mình cần. Số 13 cũng là một số không hề đẹp, đồng thời cũng ám chỉ rằng bộ phim sẽ được kết thúc ở tập 13 (12 ep ngắn và 1 tập Movie). 2 bộ Movie còn lại là 2 bộ recap lại 12 tập đầu nên mình sẽ không không tính.</p>
+
+
+
+<p>.</p>
+
+
+
+<h6>Vấn đề 2: Giả sử p là số nguyên tố và n là số tự nhiên tùy ý, chứng minh rằng (1 + n) p − np − 1 chia hết cho p.</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1072" height="599" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-10.png" alt="" class="wp-image-2161"/></figure>
+
+
+
+<p>Vấn đề này tương tự vấn đề trên, có 2 cách giải, đầu tiên là sử dụng Định lý nhỏ Fermat:</p>
+
+
+
+<pre class="wp-block-preformatted">ap≡a(modp)<br>Suy ra:<br>(1+n)p−np−1(modp) &gt; (1+n)−n−1(modp) &gt; 0(modp)<br>&gt;Biểu thức tổng thể chia hết cho p.</pre>
+
+
+
+<p>Nhưng một lần nữa, Homura lại chọn cách giải oằng tà bà lằng hơn đó là sử dụng Định lý Nhị thức, hay còn được gọi là Nhị thức Newton:</p>
+
+
+
+<pre class="wp-block-preformatted">Đối với a, b không bằng 0 và số nguyên p không âm, ta có:<br>Đối với a, b không bằng 0 và số nguyên không âm p, ta có:<br>(a + b)p = p∑k = 0 (p/k) ap − kbk<br>Trong đó hệ số nhị thức (p/k) là số nguyên p (p − 1) ⋯ (p − k + 1) / k (k − 1) ⋯ 1 với 0≤k≤p.<br>Suy ra: (1 + n)p = p∑k = 0 (p/k) nk và (1 + n)p – np − 1 = p∑k = 1 − 1 (p/k) nk<br>Vì (p/0) = (p/p) = 1 suy ra (p/1) = p. Vì p là số nguyên tố nên thừa số p trong (p/k) không chia hết cho k, k − 1,…, 2 với 2≤k≤p − 1. Do đó, p chia (p/k) được 1≤k≤p − 1.<br>Vì mỗi tổng và ở vế phải chia hết cho p nên tổng toàn bộ, tức là vế trái cũng chia hết cho p.</pre>
+
+
+
+<p>-Vẫn vậy, Homura lặp đi lặp lại những cách làm y hệt nhau, cũng như cách cô lặp đi lặp lại 1 cách để cứu Madoka – ngăn cô bé trở thành Puella Magi. Kẹt trong 1 vòng lặp vô tận mà không hề có lời giải đáp, Homura gần như bị bế tắc trong một mê cung đường thẳng mà chính cô tạo ra. Cô cứu Madoka một cách vô vọng, cứu nhiều đến mức mà số mệnh đảo ngược, giờ đây cô mới chính là người cần được Madoka cứu.</p>
+
+
+
+<p>.</p>
+
+
+
+<h6>Vấn đề 3: Tìm nghiệm nguyên của phương trình a3 + a2 &#8211; 1 &#8211; ( a &#8211; 1)b = 0</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1060" height="758" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-11.png" alt="" class="wp-image-2162"/></figure>
+
+
+
+<p>Câu này thì là một câu Đại Số đơn giản thôi, tuy nhiên ý nghĩa và ẩn ý của tác giả không nằm ở cách giải như 2 câu trên, mà là ở kết quả:</p>
+
+
+
+<pre class="wp-block-preformatted">(a3 + a3 − 1) − ( a − 1)b
+= ( a3 − 1) + ( a2 − 1) + 1 − ( a−1)b
+=(a−1)( a2 + a + 1) + (a−1)(a + 1) + 1− (a−1)b
+=(a−1)(a2+2a−b+2) + 1 = 0
+Suy ra: (a−1)(a2 + 2a – b + 2) = − 1
+a, b là các số nguyên, do đó các thừa số a − 1 và a2 + 2a − b + 2 cũng là số nguyên. Vì tích là −1 nên một trong các thừa số phải bằng −1, thừa số còn lại bằng 1.
+Nếu a − 1 = −1 thì a = 0 và từ a2 + 2a − b + 2 = 1 ta thu được b = 1.
+Nếu a − 1 = 1 thì a = 2 và a2 + 2a − b + 2 = −1 &gt; b = 11.
+Có hai nghiệm nguyên: (a, b) = (0,1) hoặc (a, b) = (2,11).</pre>
+
+
+
+<p>-Một chi tiết rất hay được ẩn ở trong 2 đáp án của bài. Một chi tiết thú vị được lồng ghép rất khéo, vì tập 2 cũng như tập 11, là 2 điểm mấu chốt cho dòng lặp thời gian vô tận của Homura. Tất cả đều sẽ dẫn về tập 1, khi mà cô không thể xử được tất cả bản thể của Kyubei, hoặc ở tập 11 khi Madoka quyết định trở thành Puella Magi. Nếu cả 2 kế hoạch này đều thất bại, cô sẽ phải reset lại từ đầu và làm lại tất cả. Cô chỉ có đúng 2 cách này để giải cứu Madoka, được thể hiện qua tất cả các bài toán nêu ra đều chỉ có đúng 2 cách làm, và Homura luôn chọn cách dài hơn, khó làm hơn và tất nhiên, đau khổ hơn. Cái bài toán này cũng có 2 cách giải, tuy nhiên mình lười và sẽ không nêu cách 2, nó sử dụng phép chia đa thức thôi.</p>
+
+
+
+<p>.</p>
+
+
+
+<h6>Vấn đề 4: Cho f(x)= (4x &#8211; sqrt(4&#215;2-1))/ (sqrt(2x+1)-sqrt(2x-1)), tính f(1)+f(2)+f(3)+&#8230;.f(60)</h6>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="705" height="573" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-12.png" alt="" class="wp-image-2163"/></figure></div>
+
+
+
+<p>Câu này thì sử dụng HĐT (a−b)(a+b) = a2−b2 là ra, đáp án là 665. Trong Anime, bài giải của Homura trong đó có mắc lỗi sai, số mũ bị đặt sai và thiếu mất 1 dấu cộng.</p>
+
+
+
+<p>Con số 665 được thể hiện ở đáp được rất nhiều người trong cộng đồng cho rằng đó chính là số lần Homura đã tua ngược lại thời gian. Vậy mà trong 665 lần giải đi giải lại 1 bài toán này, Homura vẫn mắc đi mắc lại những lỗi đó, thành ra dòng thời gian mà cô tìm kiếm không bao giờ xảy ra. 665 lần đi qua thời gian, là 665 lần cô mắc lỗi và 665 lần chứng kiến Madoka ch.ết. Tập phim bắt đầu ở 665, tức đây đã là lần tua lại thứ 666. Một con số mà có lẽ rất nhiều người biết – con số của Quỷ. Ở đây, khi mà Madoka đã thoát khỏi vòng luân hồi thiên kiếp – trở thành Chúa trời, thăng hoa thành 1 khái niệm ngang với Đấng sáng tạo, thì Homura lại chìm trong chính Soul Gem của mình, trở thành phù thủy và cuối cùng, kéo ngã Madoka khỏi địa đàng, biến thành một bản thể đối lập với cô – Ác Quỷ.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 8:</h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1231" height="691" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-13.png" alt="" class="wp-image-2164"/></figure>
+
+
+
+<p>-Homura đã dự đoán điểm xuất hiện của Walpurgisnacht bằng cách sử dụng số liệu thống kê. Trong đống tài liệu mà Homura đưa cho Kyoko xem, ta có thể thấy được một hồi quy hình sin, trong đó dữ liệu chuỗi thời gian được giả định tuân theo một đường cong hình sin theo thời gian và các thuộc tính (biên độ, tần số, pha) của sóng hình sin được dự đoán thông qua thống kê. Với mục đích là dự đoán vị trí của Walpurgisnaicht, thống kê được thực hiện bằng cách này sẽ sử dụng tọa độ địa lý (kinh độ và vĩ độ) làm điểm dữ liệu quan sát và để ghép hai sóng hình sin khác nhau với dữ liệu, một cho kinh độ và một cho vĩ độ. Trong phòng của Homura cũng có 1 con lắc lớn, có thể là bằng chứng cho thấy cách giải thích này đúng bởi vì những gì Homura sử dụng là một hồi quy hình sin, tương tự với sự chuyển động cơ học của một con lắc.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 9:</h5>
+
+
+
+<h6>Vấn đề 5:</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="964" height="542" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-14.png" alt="" class="wp-image-2165"/></figure>
+
+
+
+<pre class="wp-block-preformatted">Dãy số {F (n)} có thể được xác định là F (1) = 1, F (2) = 1, F ( n + 2) = F ( n) + F ( n + 1) (trong đó n∈N ) , đây được gọi là dãy Fibonacci, biết :<br>F ( n) = φn - (- 1 / φ) n5 – √<br>φ = 1 + 5 – √2≈1,6180339887…<br>Trả lời các câu hỏi sau bằng cách sử dụng thông tin này nếu cần:<br>Xác định dãy số tự nhiên {X ( n)} (với n là số tự nhiên bất kỳ), trong đó mỗi chữ số là 0 hoặc 1, được đặt theo các quy tắc sau:<br>(i) X (1) = 1<br>(ii) Chúng ta định nghĩa X ( n + 1) là một số tự nhiên, có thể nhận được bằng cách thay các chữ số của X ( n) bằng 1 nếu chữ số là 0 và với 10 nếu chữ số là 1.<br>Ví dụ: X (1) = 1, X (2) = 10, X (3) = 101, X (4) = 10110, X (5) = 10110101,…<br>(1) Tìm A ( n), được xác định là số chữ số của X ( n).<br>(2) Tìm B ( n), được xác định là số lần '01' xuất hiện trong X ( n)? Ví dụ: B (1) = 0, B (2) = 0, B (3) = 1, B (4) = 1, B (5) = 3,…</pre>
+
+
+
+<p>&#8211; Bài toán khó nhất trong toàn bộ phim, một vấn đề số học nâng cao từng được xuất hiện trong đề vào của Đại Học Tokyo. Có lẽ với Homura, đây cũng là bài toán chất chứa nhiều nỗi đau nhất. Đề bài như một lời nhắc, rằng tập tập 10 của phim chính là tập 1 của người xem, tức là khởi đầu dòng thời gian của Homura là bắt đầu từ tập 10, và tập 1 là tập 0. Đó chính 1 tháng mà Homura đã lặp đi lặp lại 666 lần để cứu Madoka, cho đến khi tập 11 và 12, khi chính Madoka là người đã phá vỡ vòng lặp đó để trở thành Chúa.</p>
+
+
+
+<p>&#8211; Đáp án của câu A chính là dãy Fibonacci được đề cập bên trên, một dãy số vô hồn 1,1,2,3,5,8 quen thuộc , nhưng với Homura, nó lại khác hoàn toàn. 666 lần quay lại đó, nỗi đau của cô được nhân lên bao lần, thể hiện bao nhiêu qua dãy số vô tận này? Xin thưa các bạn, đó là một con số không tưởng:</p>
+
+
+
+<pre class="wp-block-preformatted">F(666) = 2^3*17*19*73*149*1999*2221*4441*12653*146521*1121101* 14678641*54018521*124134848933957*1459000305513721* 930507731557590226767593761*44566024170973871368464275116992799</pre>
+
+
+
+<p>&#8211; Đáp án của câu B thì cũng tương tự, nhưng nó giống như đã nhấn mạnh lại ý kiến đã nêu ở trên, rằng vòng lặp của Homura bắt đầu từ tập 10 và nên được xem là tập 1, vì dãy số kết quả được thể hiện nó sẽ nhảy liên tục 1 và 10, 1 và 10, 1 và 10, 1 và 10.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 11:</h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="911" height="494" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-15.png" alt="" class="wp-image-2166"/></figure>
+
+
+
+<p>Qua những mảnh giấy bay đi trước khi cô đánh với Walpurgisnaicht, ta có thể thấy được trên đó là những tính toán được thực hiện bằng tay bởi Homura. Rất có thể, đây là bảng tính đường bay đạn đạo của mấy khẩu bắn tên lửa. Hai cặp X và Y trên mỗi tờ, tổng 4 tờ, tức là sẽ có 8 phát bắn được khai hỏa.</p>
+
+
+
+<p>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Đúng như một người anh của mình đã từng nói, Toán Học chính là loại ngôn ngữ thuần khiết nhât, và mình không thể có ví dụ nào tốt hơn những bài toán trong bộ phim này. Một trong những Anime mình thích nhất, và một trong những Anime đầu tư chất xám nhất mình từng được xem. Mong là mọi người thích bài của mình để mình có thêm động lực viết thêm nhiều bài nữa trong tương lai!</p></blockquote>
+
+
+
+<p></p>
+
+
+
+<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/276129434527783" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/276129434527783">https://facebook.com/alonelycomet/posts/276129434527783</a></h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Bình luận Takt Op. Destiny &#8211; Tập 8</title>
 		<link>https://meoki.net/alonelycomet/2021/11/24/binh-luan-takt-op-destiny-tap-8/</link>
 					<comments>https://meoki.net/alonelycomet/2021/11/24/binh-luan-takt-op-destiny-tap-8/#respond</comments>
@@ -714,293 +1143,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/15/shaft-cau-chuyen-it-nguoi-biet-cuoc-dai-di-tan-2017-2018/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bình luận Mushoku Tensei &#8211; Tập 18</title>
-		<link>https://meoki.net/alonelycomet/2021/11/15/binh-luan-mushoku-tensei-tap-18/</link>
-					<comments>https://meoki.net/alonelycomet/2021/11/15/binh-luan-mushoku-tensei-tap-18/#respond</comments>
-		
-		<dc:creator><![CDATA[v4v]]></dc:creator>
-		<pubDate>Mon, 15 Nov 2021 04:40:00 +0000</pubDate>
-				<category><![CDATA[Fall Anime 2021]]></category>
-		<category><![CDATA[analysis]]></category>
-		<category><![CDATA[anime]]></category>
-		<category><![CDATA[commentary]]></category>
-		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2087</guid>
-
-					<description><![CDATA[Xem chuyển sinh tôi thành fan slice of life lúc nào không hay. . Những tưởng khán giả đã lên đỉnh của cảm xúc sau cuộc hội ngộ giữa Rudy và Paul, thì tập tuần này studio Bind lại tiếp tục chuyển đến người xem một tập cũng mùi mẫn không kém, vẫn với đề tài chủ đạo về gia đình tập trung vào Roxy. Đến hiện tại thì theo mình, Mushoku Tensei vẫn là một trong những tác phẩm có sự xây dựng nhân vật tốt nhất nếu nói đến thể loại isekai / chuyển sinh, chính vì những [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote"><p>Xem chuyển sinh tôi thành fan slice of life lúc nào không hay.</p></blockquote>
-
-
-
-<p>.</p>
-
-
-
-<p>Những tưởng khán giả đã lên đỉnh của cảm xúc sau cuộc hội ngộ giữa Rudy và Paul, thì tập tuần này studio Bind lại tiếp tục chuyển đến người xem một tập cũng mùi mẫn không kém, vẫn với đề tài chủ đạo về gia đình tập trung vào Roxy.</p>
-
-
-
-<p>Đến hiện tại thì theo mình, <strong>Mushoku Tensei</strong> vẫn là một trong những tác phẩm có sự xây dựng nhân vật tốt nhất nếu nói đến thể loại isekai / chuyển sinh, chính vì những tập chậm nhịp, tập trung vào mối quan hệ và sự phát triển giữa các nhân vật. Một ví dụ nhỏ trong tập tuần này là hình ảnh gã mặt ngựa – được phác họa là kẻ xấu xa, chuyên đi lừa bịp những nhà thám hiểm non kinh nghiệm, nhưng hắn lại có thể ngồi cùng bàn, uống ly rượu và trò chuyện thân mật với Roxy – một nhân vật được kính trọng trong tác phẩm. Thậm chí, hắn ta còn đưa ra những lời khuyên từ tận đáy lòng, với mục đích chỉ muốn tốt cho Roxy! Ta biết được hắn đã có vợ con, một gia đình êm ấm và sẵn sàng đánh đổi mọi thứ để bảo vệ họ.</p>
-
-
-
-<p>Bạn có thể nghĩ hắn ta là kẻ xấu, nhưng nếu bạn nghĩ hắn “không xấu như ta đã nghĩ” qua những gì hé lộ từ tập tuần này, thì bạn cũng chẳng sai. Tuy đây chỉ là chi tiết nhỏ, nhưng nó thể hiện cái chất “xám” đầy sự tinh tế trong lối viết truyện và xây dựng nhân vật. Mushoku Tensei là một thế giới được phác họa rất thật với dàn nhân vật đa dạng mang nhiều bản chất khác nhau, không thể nhìn một mặt mà đánh giá hết con người thật của họ.</p>
-
-
-
-<p>Yếu tố mình đánh giá cao trong Mushoku Tensei, mà hẳn đến giờ bạn cũng nhận ra: mọi nhân vật trong tác phẩm đều có khuyết điểm riêng, không ai là hoàn hảo! Chính điều này tạo nên cái chất rất “người”, chân thật và dễ đồng cảm. Họ cũng như chúng ta, dễ bị tổn thương và luôn cố gắng để sửa chữa sai lầm của mình.</p>
-
-
-
-<p>Ngôi làng Migurd được phác họa là một ngôi làng cổ kính đơn sơ, nhưng lại im ắng đến lạ thường. Ở mùa trước, khi Rudy lần đầu đặt chân đến ngôi làng, nếu xem lại bạn sẽ thấy khi Rudy tìm cách bắt chuyện với bất kì ai thì họ cũng tỏ ra im lặng. Chỉ có trưởng làng và gia đình Roxy mới nói được quỷ ngữ. Cái sự im lặng này đã được giải đáp trong tập: người Migurd khi sinh ra đã có thần giao cách cảm, họ giao tiếp được với nhau mà không cần lời nói. Một lần nữa mình phải khen cái sự tâm huyết về chi tiết của đội ngũ thực hiện ở studio Bind. Nhất quán là một đặc tính cần có trong bất kì tác phẩm xuất sắc nào, những gì xảy ra trong Mushoku Tensei không ít thì nhiều đều xuyên suốt và đồng nhất, tuân theo những quy tắc do chính tác phẩm đã xây dựng nên.</p>
-
-
-
-<p>Cái sự nhất quán này cũng giải thích lí do vì sao, Roxy bỏ đi và gia đình của cô lại biết quỷ ngữ. Roxy khi sinh ra đã bị “dị tật” nếu xét đến khả năng của một người Migurd bình thường. Cô không có khả năng thần giao cách cảm, đồng nghĩa với việc cô không thể “nghe và nói” trong một xã hội “bình thường”. Điều này cũng diễn giải vì sao, cả bố và mẹ Roxy phải học quỷ ngữ để giao tiếp với con gái. Và trong một xã hội “bình thường” theo quy chuẩn của tộc người Miguard, Roxy như bị cô lập và kì thị.</p>
-
-
-
-<p>Studio Bind thể hiện khả năng “thần giao cách cảm” một cách không đụng hàng và sáng tạo. Khi ai đó trong tộc Migurd giao tiếp với Roxy bằng khả năng này, ta thấy những gì Roxy nhận được chỉ là đốm lóa sáng như đèn flash kèm theo những âm thanh “lạch cạch”. Cái cảm giác khi có ai đó cầm chiếc đèn pin nháy mở nháy mở lên mặt, cộng thêm những âm thanh chua chát chắc chắn là rất khó chịu, và đấy chính là những gì Roxy đã cảm thấy. Roxy bị cô lập, bị “tẩy chay” trong chính xã hội đã sinh ra mình chỉ vì sự dị tật của bản thân.</p>
-
-
-
-<p>Roxy đã nghĩ, “nếu mình đi mất thì hẳn gia đình sẽ vui hơn”. Cô không có ý định quay về! Khi gặp được Rudy, trong ngôi làng nhỏ bé đó, với Paul, Zenith và mọi người xung quanh, lần đầu tiên Roxy đã tìm được nơi cô “thật sự” thuộc về. Nếu bạn xem lại những tập đầu, lúc Rudy lần đầu tiên trên yên ngựa cùng Roxy bước ra khỏi nhà, cậu đã hoàn toàn ngạc nhiên vì dân làng ai gặp Roxy cũng đều chào hỏi, đều bày tỏ lòng kính trọng và thân thiện. Một sự đối lập, tương phản đầy thú vị với những gì Roxy đã và đang trải qua ở chính ngôi làng của cô, nếu biết được tình cảnh của Roxy, thì ta sẽ cảm kích hơn từng lời chào của mọi người, lẫn khâm phục hơn những chi tiết “nhỏ” mà studio Bind đã tận tâm lồng ghép vào trong các tập. Và nói về chi tiết nhỏ, Rudy 2 năm trước nhìn thấy một cô gái với cái bụng bầu, nay Roxy quay về thì ta thấy cô đã bồng trên tay đứa con, chính những chi tiết như vầy tạo nên sự liên tục trong thời gian, giúp thế giới trở nên chân thật hơn.</p>
-
-
-
-<p>Cũng như Paul, thì bố mẹ của Roxy cũng có những khuyết điểm họ muốn sửa chữa. Ta có thể nhận ra sai lầm của họ là không thành thật, đã bỏ vụt đi cơ hội bày tỏ nỗi lòng để nói với Roxy rằng họ vẫn còn yêu cô lắm. Dù có thế nào thì cô vẫn là đứa con gái bé bỏng của họ. Roxy đã trao cho họ một cơ hội lần thứ hai, và lần này thì họ quyết nắm chặt lấy. Cái vỏ bọc lạnh băng của Roxy cuối cùng cũng bị hơi ấm từ tình gia đình làm tan chảy. Lần đầu tiên, ta thấy hình ảnh Roxy khóc ngon lành, ôm chặt lấy người mẹ và nói những lời xin lỗi. Nhưng cũng như chuyện của Paul và Rudy, không ai có lỗi cả. Roxy đã quá vội vàng, thình lình bỏ đi mà không nói một lời, đã hiểu nhầm về tình yêu thương của gia đình dành cho cô. Một lần nữa tác phẩm phác họa nên khuyết điểm ở mỗi nhân vật, con người sẽ trở nên tốt hơn khi ta tìm cách khắc phục chúng, tạo dựng những cơ hội để vun đắp các mối quan hệ. Tập tuần này cũng cảm động không kém cuộc hội ngộ giữa cha-con trong tập trước, nhất là đoạn Roxy và người mẹ nức nở khóc được hoạt họa tràn đầy cảm xúc.</p>
-
-
-
-<p>Con người ai cũng có những mặt hạn, khuyết điểm riêng để tạo ra sự không hoàn hảo. Và chính sự không hoàn hảo này góp phần tạo nên mỗi con người chúng ta. Mushoku Tensei về tổng thể là câu chuyện về những con người đầy khuyết điểm, không hoàn hảo, trên quá trình sửa chửa những sai lầm để hoàn thiện hơn bản thân. Đây cũng là lí do Mushoku Tensei với mình lại rất chân thật và cuốn hút.</p>
-
-
-
-<p></p>
-
-
-
-<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/269686545172072" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/269686545172072">https://facebook.com/alonelycomet/posts/269686545172072</a></h6>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/15/binh-luan-mushoku-tensei-tap-18/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ノーゲーム・ノーライフ 榎宮祐 Art Works</title>
-		<link>https://meoki.net/alonelycomet/2021/11/14/no-game-no-life-yuu-kamiya-art-works/</link>
-					<comments>https://meoki.net/alonelycomet/2021/11/14/no-game-no-life-yuu-kamiya-art-works/#respond</comments>
-		
-		<dc:creator><![CDATA[Meoki]]></dc:creator>
-		<pubDate>Sun, 14 Nov 2021 14:03:30 +0000</pubDate>
-				<category><![CDATA[Sharing]]></category>
-		<category><![CDATA[sharing]]></category>
-		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2066</guid>
-
-					<description><![CDATA[Ngồi dọn dẹp hang ổ thấy cuốn artbook đỉnh vl đỉnh nên share lại&#8230; Cuốn này từ 2019. Thông tin về nó có thể xem thêm tại đây : https://www.kadokawa.co.jp/product/321812000135 Tên artbook : ノーゲーム・ノーライフ 榎宮祐 Art WorksPhiên dịch : No Game No Life Art WorksTác giả : 榎宮祐 &#8211; Yuu KamiyaNgày xuất bản : 01/04/2019 . ノーゲーム・ノーライフ　榎宮祐 Art Works Mình chỉ trích lại vài art trong bộ này thôi ha]]></description>
-										<content:encoded><![CDATA[
-<p>Ngồi dọn dẹp hang ổ thấy cuốn artbook đỉnh vl đỉnh nên share lại&#8230; Cuốn này từ 2019. Thông tin về nó  có thể xem thêm tại đây : <a href="https://www.kadokawa.co.jp/product/321812000135/" data-type="URL" data-id="https://www.kadokawa.co.jp/product/321812000135/"><strong>https://www.kadokawa.co.jp/product/321812000135</strong></a></p>
-
-
-
-<blockquote class="wp-block-quote"><p><strong>Tên artbook :</strong> ノーゲーム・ノーライフ 榎宮祐 Art Works<br><strong>Phiên dịch</strong> : No Game No Life Art Works<br><strong>Tác giả</strong> :  榎宮祐 &#8211; Yuu Kamiya<br><strong>Ngày xuất bản</strong> : 01/04/2019</p></blockquote>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="923" height="564" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-7.png" alt="" class="wp-image-2073"/></figure>
-
-
-
-<p>.</p>
-
-
-
-<h4 class="has-text-align-center"><strong>ノーゲーム・ノーライフ　榎宮祐 Art Works</strong></h4>
-
-
-
-<p class="has-text-align-center">Mình chỉ trích lại vài art trong bộ này thôi ha</p>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/01.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/02.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/03.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/04.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/06.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/08.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/09.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/10.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/11.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/12.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/13.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/14.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/15.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/16.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/17.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/19.jpg" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/20.jpg" alt=""/></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/14/no-game-no-life-yuu-kamiya-art-works/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Arcane Episode 1-3 &#8211; First Impression</title>
-		<link>https://meoki.net/alonelycomet/2021/11/14/arcane-episode-1-3-first-impression/</link>
-					<comments>https://meoki.net/alonelycomet/2021/11/14/arcane-episode-1-3-first-impression/#respond</comments>
-		
-		<dc:creator><![CDATA[SUBA]]></dc:creator>
-		<pubDate>Sat, 13 Nov 2021 21:00:00 +0000</pubDate>
-				<category><![CDATA[Other Content]]></category>
-		<category><![CDATA[first impression]]></category>
-		<category><![CDATA[other]]></category>
-		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2081</guid>
-
-					<description><![CDATA[Chúng ta chắc hẳn đều biết đến tựa game Liên minh huyền thoại và cái công ty Riot chuyên làm hoạt hình với MV ca nhạc này rồi. Tôi đã từng chơi Liên minh khá nhiều với đám bạn hồi xưa rất là vui nhưng giờ đã bỏ được vài năm. Tôi chắc là sẽ không quan tâm đến LoL nữa nếu mà không theo dõi những giải đấu esport và cả những video cinematic đầy “mát mắt” kia. Do đó tuy là không chơi cái game “củ chuối” này nữa nhưng tôi vẫn quan tâm đến nó và dĩ [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Chúng ta chắc hẳn đều biết đến tựa game Liên minh huyền thoại và cái công ty Riot chuyên làm hoạt hình với MV ca nhạc này rồi. Tôi đã từng chơi Liên minh khá nhiều với đám bạn hồi xưa rất là vui nhưng giờ đã bỏ được vài năm. Tôi chắc là sẽ không quan tâm đến LoL nữa nếu mà không theo dõi những giải đấu esport và cả những video cinematic đầy “mát mắt” kia.</p>
-
-
-
-<p>Do đó tuy là không chơi cái game “củ chuối” này nữa nhưng tôi vẫn quan tâm đến nó và dĩ nhiên khi dự án animation Arcane lần đầu ra mắt thì cũng như nhiều người khác đó là sự hồi hộp mong chờ, liệu rằng Riot có giữ vững danh hiệu là công ty đầu tư làm phim hơn là làm game không? Và sau khi xem hết 3 tập đầu, tôi có thể nói rằng Arcane hoàn toàn đáp ứng, thỏa mãn sự kỳ vọng của khán giả về 1 dự án phim hoạt hình dài tập đầu tiên của vũ trụ Liên minh mà ta đã chờ đợi từ lâu.</p>
-
-
-
-<p>.</p>
-
-
-
-<h5>1. Bối cảnh</h5>
-
-
-
-<p>Đầu tiên ta phải nói đến cách lựa chọn bối cảnh và nhân vật của Riot. Trong thế giới Runeterra rộng lớn có nhiều quốc gia, vùng đất khác nhau cùng với đó là hàng trăm vị tướng với những câu chuyện của riêng mình. Tại sao lại phải chọn Piltover và Zaun cho series phim này? Thứ nhất đó là cái “aesthetic” vẻ đẹp kiểu steampunk của nơi này. Ai mà không thích steampunk cơ chứ? Thứ hai đó là sự đối lập hoàn toàn khác nhau giữa Piltover và Zaun trong cùng 1 thành phố. Ở trên Piltover là vùng đất giàu có, cao sang quyền quý của những tầng lớp thượng lưu, ở bên dưới Zaun là khu ổ chuột hôi hám, đầy khí độc, với những thành phần nghèo hèn, tội phạm, vô tổ chức.</p>
-
-
-
-<p>Việc xây dựng thế giới như trên khiến ta dễ dàng hình dung đến xung đột chính của tác phẩm đó chính là sự đấu tranh của người dân ở Zaun chống lại sự áp đặt của Piltover và sự phân biệt của 2 tầng lớp xã hội hoàn toàn khác nhau. Còn việc lựa chọn nhân vật Jinx (Powder) là nhân vật chính thì cũng dễ hiểu vì cô ta có MV “Get Jinxed” là 1 trong những MV nổi tiếng nhất mà Riot từng sản xuất, nhiêu đó thôi cũng thể hiện được độ nổi tiếng của vị tướng này rồi.</p>
-
-
-
-<p>Sau 3 tập đầu, tác phẩm cũng đã đi theo hướng mà tôi mong đợi đó là thể hiện sự xung đột giữa 2 xã hội Piltover và Zaun, cùng với đó là lối kể chuyện song song về từng thế giới để cho ta một cái nhìn đa chiều đầy toàn cảnh. Ở Zaun đó là 2 luồng tư tưởng đối nghích, mong muốn gìn giữ hòa bình của Vander và sự hiếu chiến, kiểm soát bằng sức mạnh của gã Silco. Còn ở Piltover ta cũng có câu chuyện của Jayce và Viktor thúc đẩy phát minh khoa học Hextech của mình bất chấp mọi sự cấm đoán, hà khắc của những kẻ đứng đầu học viện.</p>
-
-
-
-<p>Từ đó ta thấy được sự đầu tư của Riot vào khoản writing, tạo dựng 1 câu chuyện khá là sâu sắc với nhiều sự xung đột và những tình tiết thú vị.</p>
-
-
-
-<p>.</p>
-
-
-
-<h5>2. Nhân vật</h5>
-
-
-
-<p>Ở câu chuyện quá khứ của Jinx (lúc nhỏ được gọi là Powder), tôi không ngờ lại có những nhân vật (tạm thời) không xuất hiện trong game lại được xây dựng tốt đến vậy &#8211; tiêu biểu là nhân vật phản diện Silco. Ở tập 1 ta nghĩ rằng đây chỉ là 1 nhân vật phản diện độc ác, ham mê sức mạnh điển hình mà thôi, thì ở tập 2 và 3, hắn ta đã thể hiện nhiều mặt thú vị hơn ta tưởng. Đầu tiên đó là lý tưởng của hắn ta không phải chỉ dùng sức mạnh vì bản thân mình và là vì mong muốn xã hội Zaun có thể vùng dậy và lật đổ được Piltover, cũng giống như những cô cậu bé như Vi và Powder mà thôi. Thứ 2 đó là ở mối quan hệ giữa hắn ta và Vander là rất giống với tình cảnh giữa Vi và em gái Powder. Ta cũng hiểu được tại sao gã lại muốn nhận nuôi Powder là vì sự đồng cảm với nhau, thể hiện rằng ông ta cũng có trái tim nhưng đã bị vụn vỡ vì sự thù hằn và việc nghĩ rằng mình bị phản bội và bỏ rơi.</p>
-
-
-
-<p>Còn câu chuyện của Jayce tuy không hấp dẫn bằng nhưng vẫn có sự phát triển mối quan hệ khá tốt như tình bạn giữa anh ta và Viktor hay Caitlyn. Do đó, tôi mong chờ những plot twist kịch tính ở phía trước.</p>
-
-
-
-<p>Tập 1 và 2 có pacing khá chậm với việc tập trung xây dựng thế giới và mối liên hệ giữa các nhân vật khiến tôi lo lắng rằng tập 3 là phần “climax” của arc 1 nếu làm chưa tới có thể trở thành 1 nổi thất vọng vì những công sức đã bỏ ra. Nhưng khi thấy tập 3 rất hay đã khiến khán giả hoàn toàn hài lòng, thì những sự lo lắng trên đã tan biến hết. Có thể nói Riot và đội ngũ studio thực hiện đã vượt trên cả kỳ vọng.</p>
-
-
-
-<p>.</p>
-
-
-
-<h5>3. Phần hình ảnh</h5>
-
-
-
-<p>Studio Fortiche của Pháp là hãng phim hoạt hình đã thực hiện dự án này. Studio này đã thể hiện phần art 3D-CGI mà có sự đổ bóng nhìn như 2D animation nhìn rất là đẹp. Ta cũng có studio anime, Orange làm điều tương tự với Beastars bằng cách sử dụng CGI mà vẫn có độ thân thiện với khán giả đã quen với hoạt họa vẽ tay một cách hoàn toàn tự nhiên.</p>
-
-
-
-<p>Mình nghĩ đây nên là hướng đi cho ngành công nghiệp anime trong tương lai, thà CGI thì làm CGI hết luôn rồi ta có thể đổ bóng cho nhìn đẹp giống 2D. Còn hơn là việc mà nhân vật này vẽ tay còn nhân vật hay sinh vật kia CGI tương tác với nhau nhìn rất là dị.<br>Các khung cảnh giữa 2 thế giới Piltover và Zaun đã được thể hiện rất sống động và chân thực với sự bóng bẩy và tồn tàn, đen tối hoàn toàn đối lập lẫn nhau.</p>
-
-
-
-<p>Nhìn chung thì chất lượng sản xuất cả animation và âm thanh ta đều thấy sự đầu tư đầy rõ ràng và tâm huyết cho dựa án này.</p>
-
-
-
-<p>Với 1 khởi đầu rất hứa hẹn, Arcane chắc chắn là bước khởi đầu để Riot có thể tự tin xây dựng 1 “vũ trụ điện ảnh” của mình trong tương lai. Và tôi cũng hy vọng 1 ngày nào đó ta cũng sẽ có 1 bộ phim hoạt hình về LoL Esport, thứ tôi đã mong mỏi từ lâu, dù có bao lâu tôi cũng sẽ chờ!</p>
-
-
-
-<p></p>
-
-
-
-<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/269203921887001" data-type="URL" data-id="https://facebook.com/alonelycomet/269203921887001">https://facebook.com/alonelycomet/269203921887001</a></h6>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/14/arcane-episode-1-3-first-impression/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

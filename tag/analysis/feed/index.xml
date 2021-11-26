@@ -12,7 +12,7 @@
 	<atom:link href="https://meoki.net/alonelycomet/tag/analysis/feed/" rel="self" type="application/rss+xml" />
 	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
-	<lastBuildDate>Thu, 25 Nov 2021 03:17:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Nov 2021 14:24:02 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,373 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Toán Học Trong Puella Magi Madoka Magica: Rebellion &#8211; Khi Tình Yêu Được Chuyển Thành Những Con Số. (Part 2)</title>
+		<link>https://meoki.net/alonelycomet/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/</link>
+					<comments>https://meoki.net/alonelycomet/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Kirihime]]></dc:creator>
+		<pubDate>Fri, 26 Nov 2021 13:48:14 +0000</pubDate>
+				<category><![CDATA[Anime Review]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[anime]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2171</guid>
+
+					<description><![CDATA[Toán Học là một yếu tố tuy nhỏ nhưng được đầu tư rất kĩ trong series Madoka Magica, và truyền thống này tiếp tục được duy trì ở Movie 3: Rebellion, tập phim có thể nói là kết thúc của phần đầu tiên trong chương truyện của Madoka Magica. Xem lại P1 tại đây: url.meoki.net/RPXLo7 Khác với phần phim ngắn, những phương trình toán học giờ đây không chỉ được giải bởi mỗi Homura nữa, mà chỉ thoáng qua trong những bài giảng trên lớp. Đây có lẽ là vì ở đây, những phương trình lặp lại không thể hiện [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Toán Học là một yếu tố tuy nhỏ nhưng được đầu tư rất kĩ trong series Madoka Magica, và truyền thống này tiếp tục được duy trì ở Movie 3: Rebellion, tập phim có thể nói là kết thúc của phần đầu tiên trong chương truyện của Madoka Magica.</p>
+
+
+
+<h6><strong>Xem lại P1 tại đây: </strong><a href="http://url.meoki.net/RPXLo7">url.meoki.net/RPXLo7</a></h6>
+
+
+
+<p>Khác với phần phim ngắn, những phương trình toán học giờ đây không chỉ được giải bởi mỗi Homura nữa, mà chỉ thoáng qua trong những bài giảng trên lớp. Đây có lẽ là vì ở đây, những phương trình lặp lại không thể hiện quãng thời gian vô tận mà Homura đã tua đi tua lại suốt hằng trăm lần mà nói lên những gì thực sự đang diễn ra ở thế giới đó. Tất nhiên ta cũng biết thế giới mà hiện hữu trong phần lớn thời gian Movie, là thế giới ảo được kiến tạo bởi Kyubei và Homura trong Soul Gem của chính cô. Vậy không ngoa khi nói rằng, ý nghĩa được ẩn giấu trong những phương trình dưới đây nói lên tư tưởng và suy nghĩ của chính Homura.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="934" height="474" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/258188939_276779954462731_2226057633580206811_n.jpg" alt="" class="wp-image-2179"/></figure>
+
+
+
+<p>.</p>
+
+
+
+<h5>Vấn đề 1: Tính ∫arcsin3x/√1−x^2.dx</h5>
+
+
+
+<pre class="wp-block-preformatted">Đầu tiên, ta thay u=arcsinx vào du/dx=1/√1−x^2 sẽ được ∫u3du.<br>Sử dụng công thức tích phân cơ bản ∫xαdx = xα+1/α+1 + C sẽ ra ∫u3du = 1/4u^4 + C.<br>Thay ngược lại arcsinx vào ta được kết quả 1/4arcsin^4x + C.</pre>
+
+
+
+<p>&#8211; Khác hẳn với những phương trình xuất hiện ở 12 tập phim ngắn, những phương trình ở Rebellion không đơn thuần chỉ là những dòng đại số nữa, cơ bản là vì ý nghĩa của nó đã không còn gói gọn trong quá trình cứu Madoka của Homura – một quá trình mà vô cùng khô khan và cứng nhắc. Nó đã chuyển sang tích phân và giải tích, những khái niệm toán học về không gian và trừu tượng hơn rất nhiều, khi mà giờ đây bộ phim khai thác mạnh hơn về tâm lý của Homura.</p>
+
+
+
+<p>&#8211; Arcsin là ngược lại của Sin, cũng như cái cách mà giờ đây Homura chính là đối nghịch của người mà cô yêu hết lòng – Madoka. Nhìn vào biểu thị 2 đường sin và arcsin trên đồ thị, ta có thể thấy rõ 2 đường này chỉ hướng về nhau đúng 1 khắc, sau đó tách xa nhau và đi về vô tận. Một khi đã đối nghịch thì chỉ có thể xa cách, vĩnh viễn không thể lại gần nhau được. Homura có lẽ cũng nhận ra điều này, kết hợp cùng với sự ích kỉ nhỏ nhoi của mình, cô tự hóa thành Ác Quỷ đề có thể được làm đối lập của chính Madoka. Arcsin có lẽ cũng là ám chỉ rằng giờ đây trong Homura đã hình thành nên 1 tam giác tình cảm, kết hợp từ 3 góc Tuyệt Vòng, Hi Vọng và Tình Yêu. Để tính ra được góc Tình Yêu, cô đã phải kinh qua cả 2 Hi Vọng (12 ep đầu) và Tuyệt Vọng (Movie) để hình nên đươc thứ tình cảm vượt xa sức mạnh của vũ trụ &#8211; yêu.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Vấn đề 2: Tính ∫xln(x2+y)dx</h5>
+
+
+
+<p>Để giải ta sẽ phải coi y là một tham số độc lập với giá trị của x và sử dụng lnx để biểu thị lôgarit tự nhiên của x.</p>
+
+
+
+<pre class="wp-block-preformatted">Thay u = x2 + y vào du/dx = 2x ta có 1/2∫lnu d u<br>&gt;1/2∫lnu du = 1/2 (uln u − ∫1du) = 1/2u (lnu − 1)</pre>
+
+
+
+<p>Cuối cùng thay ngược lại u ta được đáp án: 1/2 (x2 + y) (ln (x2 + y) −1) + C</p>
+
+
+
+<p>&#8211; Giải bài này yêu cầu ta phải coi y là một tham số độc lập so với x. Cái này có thể là ngẫu nhiên, nhưng trùng hợp thay nó lại chính là suy nghĩ của Homura trong những phút cuối movie, khi cô tách ý định của bản thân ra khỏi ước muốn trước đó của Madoka. Nên nhớ, khi dòng thời gian bắt đầu, Madoka là người đã xin cô cứu lấy mình, rằng bản thân không muốn phải chịu đựng như thế này thêm một lần nào nữa. Xuyên suốt quá trình ta theo dõi phim, đây đã và vẫn là một trong những ý niệm chính của Homura khi cô quay về quá khứ &#8211; vì điều ước của cô khi lấy Soul Gem là hoàn thành được nguyện vọng của Madoka. Việc cô hành động chiếm lấy một phần sức mạnh và từ đó viết lại 1 thế giới mới, trong đó sử dụng luật lệ của riêng mình là minh chứng cho việc giờ đây cô hành động vì mục tiêu ích kỉ của bản thân chứ không còn phục vụ cho ý muốn của người khác nữa.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Vấn đề 3: Tính ∫x3+2&#215;2+10x/x2−x+1dx.</h5>
+
+
+
+<p>Biến đổi pt thành:</p>
+
+
+
+<pre class="wp-block-preformatted">x3+2x3+10x/x2−x+1=x+3+12x−3/x2−x+1=x+3+62x−1/x2−x+1+3x2−x+1</pre>
+
+
+
+<p>Sau đó sử dụng 2 công thức:</p>
+
+
+
+<pre class="wp-block-preformatted">(+) ∫f′(x)/f(x)dx = ln|f(x)|dx + C<br>(+) ∫dx/a2+x2=1a/arctanx/a + C</pre>
+
+
+
+<p>để ra được kết quả là :</p>
+
+
+
+<pre class="wp-block-preformatted">∫x3 + 2x2 + 10x/x2 − x + 1dx=1/2x2 + 3x + 6ln(x2−x+1) + 2√3 – arctan2x−1/√3 + C</pre>
+
+
+
+<p>-Hàm arctan là một hàm tiếp tuyến ngược, tiếp tuyến lại là một cặp điểm tiếp xúc trên một đường cong bất kì. Cách mình nhìn ý này trong bài là đường cong nối tiếp tuyến (Homura, f(Homura) chính là đường cong mang phương trình y = f(định mệnh). 2 điểm tiếp tuyến mang tên Homura do mình vừa đặt là 2 thời khắc mà cô chọn lặp đi lặp lại trước và cả sau khi biến thành ác quỷ, khoảnh khắc mà cô lần đầu được gặp Madoka và khoảnh khắc mà Madoka lần đầu được gặp cô, sau khi cô viết lại thế giới để tạo ra 1 vũ trụ riêng cho mình. 2 điểm này nối với nhau tạo thành 1 tiếp tuyến cách nhau vô hạn, khi mà giờ đây Homura của điểm cuối đã khác quá xa Homura ở điểm đầu, cả 2 đều chung 1 điểm đó là ích kỉ, chỉ khác nhau ở tư duy và hành động mà thôi.</p>
+
+
+
+<p>&#8211; Việc Homura đứng lên chống lại ước muốn của Madoka và tự hắc hóa bản thân &#8211; lí do mà tên phim được đặt là Rebellion, được mô tả không chỉ được thể hiện từ dạng phù thủy Homulily (cô cho rằng mình phải chế.t để ước nguyện của Madoka được bảo vệ) cho đến trở thành một tạo vật chống lại quy luật vũ trụ đã được đặt sẵn, nó 1 lần nữa lại được miêu tả rất rõ không qua lời mà bằng những con số.</p>
+
+
+
+<p>.</p>
+
+
+
+<p>Tất nhiên, còn rất nhiều lí do tại sao tên phim lại là Rebellion, cũng như tỉ tỉ những chi tiết khác nói về nhiều nhân vật khác thay vì chỉ xoay quanh Homura, nhưng mình có lí do để tin rằng đại đa số những thông tin mà movie này muốn truyền tải chỉ xoay quanh cô bé thời gian và tình yêu của cô với đấng Chúa trời mà thôi.</p>
+
+
+
+<p>Cảm ơn đã đọc bài của mình và mong có thể gặp lại mọi người trong những bài phân tích tiếp theo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Toán Học Trong Puella Magi Madoka Magica – Khi Tình Yêu Được Chuyển Thành Những Con Số (Part 1)</title>
+		<link>https://meoki.net/alonelycomet/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/</link>
+					<comments>https://meoki.net/alonelycomet/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/#respond</comments>
+		
+		<dc:creator><![CDATA[Kirihime]]></dc:creator>
+		<pubDate>Thu, 25 Nov 2021 13:33:00 +0000</pubDate>
+				<category><![CDATA[Anime Review]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[anime]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2158</guid>
+
+					<description><![CDATA[Puella Magi Madoka Magica là một Anime có thể được liệt vào hàng classic, nhất là ở bên Nhật khi độ phủ sóng của bộ phim này rất lớn. Phim sử dụng một hướng tiếp cận khác với chủ đề đã quá đỗi nổi tiếng là Mahou Shoujo (Ma pháp Thiếu nữ), vẫn giữ những gì đặc trưng nhất của dòng phim nhưng lại lồng thêm những yếu tố tâm lý và nặng trừu tượng không dành cho trẻ em. Ngoài ra còn có 1 yếu tố nữa, một yếu tố phụ nhưng được đề cấp đến rất nhiều xuyên [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Puella Magi Madoka Magica là một Anime có thể được liệt vào hàng classic, nhất là ở bên Nhật khi độ phủ sóng của bộ phim này rất lớn. Phim sử dụng một hướng tiếp cận khác với chủ đề đã quá đỗi nổi tiếng là Mahou Shoujo (Ma pháp Thiếu nữ), vẫn giữ những gì đặc trưng nhất của dòng phim nhưng lại lồng thêm những yếu tố tâm lý và nặng trừu tượng không dành cho trẻ em.</p>
+
+
+
+<p>Ngoài ra còn có 1 yếu tố nữa, một yếu tố phụ nhưng được đề cấp đến rất nhiều xuyên suốt cốt truyện – Toán Học. Bài tập đầu tiên ta thấy Homura giải là một bài Đại Số, cách để tìm ra Walpurgisnacht là Số Liệu, và thậm chí cô cũng dùng Toán học để chiến đấu với chính Walpurgisnacht. Lạ kỳ hơn, đó chính là ta chỉ thấy Homura sử dụng Toán trong phim, không có các nhân vật khác. Liệu có thể ngầm hiều rằng những con số trong đây tượng trưng cho chính Homura, thể hiện rõ định mệnh của cô thông qua những con số tưởng chửng như vô hồn? [Hình các bài toán sẽ để dưới phần cmt]</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 1:</h5>
+
+
+
+<h6>Vấn đề 1: Mọi số nguyên chia cho 14 sẽ có dư từ 0 đến 13. Cho biết a có dư là 6 và b có dư là 1 khi chia cho 14, dư của x là bao nhiêu khi chia cho 14, cho x là số nguyên nghiệm x2−2ax + b = 0?</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1074" height="602" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-9.png" alt="" class="wp-image-2160"/></figure>
+
+
+
+<p>Bài toán này có 2 cách giải, cách đầu tiên và cũng là đơn giản nhất đó chính là sư dụng Số học Mô-đun:</p>
+
+
+
+<pre class="wp-block-preformatted">• a≡6 (mod14);<br>• b≡1 (mod14).<br>• x2−2ax+b=0 &gt; x2−12x+1≡0(mod14)<br>• x2+2x+1≡0(mod14) (vì −12≡2(mod14))<br>• (x+1)2 ≡0(mod14)<br>• x+1≡0(mod14) (vì 14 không phải số chính phương)<br>• x≡13(mod14) (vì −1≡13(mod14))</pre>
+
+
+
+<p>Ta có thể dễ dàng chỉ ra rằng nghiệm đó chia cho 14 sẽ dư được 13, tuy nhiên trong phim Homura lại quyết định sử dụng một cách giải thuần số học:</p>
+
+
+
+<pre class="wp-block-preformatted">Giả sử rằng x=14q+r,a=14s+6,b=14t+1.
+Thay vào x2−2ax+b=0 ta được
+
+x2−2ax+b=14c+(r+1)2=0 với c=14q2+2q−28qs−2rs−12q+t−r
+
+14 chia cho 14c và 0 &amp;gt; (r+1)2. Từ đó suy ra r+1 chia được cho 14.
+
+Câu hỏi yêu cầu số dư r nằm giữa 0 và 13, từ đó suy ra r=13.</pre>
+
+
+
+<p>&#8211; Đáp án thì vẫn đúng thôi, mặc dù ngụ ý của tác giả rất rõ. Homura sau hàng trăm lần quay về quá khứ, cô vẫn chọn giải đi giải lại 1 cách duy nhất, thể hiện rõ sự bế tắc khi lặp đi lặp lại 1 dòng thời gian mà không thể ra được kết quả mình cần. Số 13 cũng là một số không hề đẹp, đồng thời cũng ám chỉ rằng bộ phim sẽ được kết thúc ở tập 13 (12 ep ngắn và 1 tập Movie). 2 bộ Movie còn lại là 2 bộ recap lại 12 tập đầu nên mình sẽ không không tính.</p>
+
+
+
+<p>.</p>
+
+
+
+<h6>Vấn đề 2: Giả sử p là số nguyên tố và n là số tự nhiên tùy ý, chứng minh rằng (1 + n) p − np − 1 chia hết cho p.</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1072" height="599" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-10.png" alt="" class="wp-image-2161"/></figure>
+
+
+
+<p>Vấn đề này tương tự vấn đề trên, có 2 cách giải, đầu tiên là sử dụng Định lý nhỏ Fermat:</p>
+
+
+
+<pre class="wp-block-preformatted">ap≡a(modp)<br>Suy ra:<br>(1+n)p−np−1(modp) &gt; (1+n)−n−1(modp) &gt; 0(modp)<br>&gt;Biểu thức tổng thể chia hết cho p.</pre>
+
+
+
+<p>Nhưng một lần nữa, Homura lại chọn cách giải oằng tà bà lằng hơn đó là sử dụng Định lý Nhị thức, hay còn được gọi là Nhị thức Newton:</p>
+
+
+
+<pre class="wp-block-preformatted">Đối với a, b không bằng 0 và số nguyên p không âm, ta có:<br>Đối với a, b không bằng 0 và số nguyên không âm p, ta có:<br>(a + b)p = p∑k = 0 (p/k) ap − kbk<br>Trong đó hệ số nhị thức (p/k) là số nguyên p (p − 1) ⋯ (p − k + 1) / k (k − 1) ⋯ 1 với 0≤k≤p.<br>Suy ra: (1 + n)p = p∑k = 0 (p/k) nk và (1 + n)p – np − 1 = p∑k = 1 − 1 (p/k) nk<br>Vì (p/0) = (p/p) = 1 suy ra (p/1) = p. Vì p là số nguyên tố nên thừa số p trong (p/k) không chia hết cho k, k − 1,…, 2 với 2≤k≤p − 1. Do đó, p chia (p/k) được 1≤k≤p − 1.<br>Vì mỗi tổng và ở vế phải chia hết cho p nên tổng toàn bộ, tức là vế trái cũng chia hết cho p.</pre>
+
+
+
+<p>-Vẫn vậy, Homura lặp đi lặp lại những cách làm y hệt nhau, cũng như cách cô lặp đi lặp lại 1 cách để cứu Madoka – ngăn cô bé trở thành Puella Magi. Kẹt trong 1 vòng lặp vô tận mà không hề có lời giải đáp, Homura gần như bị bế tắc trong một mê cung đường thẳng mà chính cô tạo ra. Cô cứu Madoka một cách vô vọng, cứu nhiều đến mức mà số mệnh đảo ngược, giờ đây cô mới chính là người cần được Madoka cứu.</p>
+
+
+
+<p>.</p>
+
+
+
+<h6>Vấn đề 3: Tìm nghiệm nguyên của phương trình a3 + a2 &#8211; 1 &#8211; ( a &#8211; 1)b = 0</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1060" height="758" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-11.png" alt="" class="wp-image-2162"/></figure>
+
+
+
+<p>Câu này thì là một câu Đại Số đơn giản thôi, tuy nhiên ý nghĩa và ẩn ý của tác giả không nằm ở cách giải như 2 câu trên, mà là ở kết quả:</p>
+
+
+
+<pre class="wp-block-preformatted">(a3 + a3 − 1) − ( a − 1)b
+= ( a3 − 1) + ( a2 − 1) + 1 − ( a−1)b
+=(a−1)( a2 + a + 1) + (a−1)(a + 1) + 1− (a−1)b
+=(a−1)(a2+2a−b+2) + 1 = 0
+Suy ra: (a−1)(a2 + 2a – b + 2) = − 1
+a, b là các số nguyên, do đó các thừa số a − 1 và a2 + 2a − b + 2 cũng là số nguyên. Vì tích là −1 nên một trong các thừa số phải bằng −1, thừa số còn lại bằng 1.
+Nếu a − 1 = −1 thì a = 0 và từ a2 + 2a − b + 2 = 1 ta thu được b = 1.
+Nếu a − 1 = 1 thì a = 2 và a2 + 2a − b + 2 = −1 &gt; b = 11.
+Có hai nghiệm nguyên: (a, b) = (0,1) hoặc (a, b) = (2,11).</pre>
+
+
+
+<p>-Một chi tiết rất hay được ẩn ở trong 2 đáp án của bài. Một chi tiết thú vị được lồng ghép rất khéo, vì tập 2 cũng như tập 11, là 2 điểm mấu chốt cho dòng lặp thời gian vô tận của Homura. Tất cả đều sẽ dẫn về tập 1, khi mà cô không thể xử được tất cả bản thể của Kyubei, hoặc ở tập 11 khi Madoka quyết định trở thành Puella Magi. Nếu cả 2 kế hoạch này đều thất bại, cô sẽ phải reset lại từ đầu và làm lại tất cả. Cô chỉ có đúng 2 cách này để giải cứu Madoka, được thể hiện qua tất cả các bài toán nêu ra đều chỉ có đúng 2 cách làm, và Homura luôn chọn cách dài hơn, khó làm hơn và tất nhiên, đau khổ hơn. Cái bài toán này cũng có 2 cách giải, tuy nhiên mình lười và sẽ không nêu cách 2, nó sử dụng phép chia đa thức thôi.</p>
+
+
+
+<p>.</p>
+
+
+
+<h6>Vấn đề 4: Cho f(x)= (4x &#8211; sqrt(4&#215;2-1))/ (sqrt(2x+1)-sqrt(2x-1)), tính f(1)+f(2)+f(3)+&#8230;.f(60)</h6>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="705" height="573" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-12.png" alt="" class="wp-image-2163"/></figure></div>
+
+
+
+<p>Câu này thì sử dụng HĐT (a−b)(a+b) = a2−b2 là ra, đáp án là 665. Trong Anime, bài giải của Homura trong đó có mắc lỗi sai, số mũ bị đặt sai và thiếu mất 1 dấu cộng.</p>
+
+
+
+<p>Con số 665 được thể hiện ở đáp được rất nhiều người trong cộng đồng cho rằng đó chính là số lần Homura đã tua ngược lại thời gian. Vậy mà trong 665 lần giải đi giải lại 1 bài toán này, Homura vẫn mắc đi mắc lại những lỗi đó, thành ra dòng thời gian mà cô tìm kiếm không bao giờ xảy ra. 665 lần đi qua thời gian, là 665 lần cô mắc lỗi và 665 lần chứng kiến Madoka ch.ết. Tập phim bắt đầu ở 665, tức đây đã là lần tua lại thứ 666. Một con số mà có lẽ rất nhiều người biết – con số của Quỷ. Ở đây, khi mà Madoka đã thoát khỏi vòng luân hồi thiên kiếp – trở thành Chúa trời, thăng hoa thành 1 khái niệm ngang với Đấng sáng tạo, thì Homura lại chìm trong chính Soul Gem của mình, trở thành phù thủy và cuối cùng, kéo ngã Madoka khỏi địa đàng, biến thành một bản thể đối lập với cô – Ác Quỷ.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 8:</h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1231" height="691" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-13.png" alt="" class="wp-image-2164"/></figure>
+
+
+
+<p>-Homura đã dự đoán điểm xuất hiện của Walpurgisnacht bằng cách sử dụng số liệu thống kê. Trong đống tài liệu mà Homura đưa cho Kyoko xem, ta có thể thấy được một hồi quy hình sin, trong đó dữ liệu chuỗi thời gian được giả định tuân theo một đường cong hình sin theo thời gian và các thuộc tính (biên độ, tần số, pha) của sóng hình sin được dự đoán thông qua thống kê. Với mục đích là dự đoán vị trí của Walpurgisnaicht, thống kê được thực hiện bằng cách này sẽ sử dụng tọa độ địa lý (kinh độ và vĩ độ) làm điểm dữ liệu quan sát và để ghép hai sóng hình sin khác nhau với dữ liệu, một cho kinh độ và một cho vĩ độ. Trong phòng của Homura cũng có 1 con lắc lớn, có thể là bằng chứng cho thấy cách giải thích này đúng bởi vì những gì Homura sử dụng là một hồi quy hình sin, tương tự với sự chuyển động cơ học của một con lắc.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 9:</h5>
+
+
+
+<h6>Vấn đề 5:</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="964" height="542" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-14.png" alt="" class="wp-image-2165"/></figure>
+
+
+
+<pre class="wp-block-preformatted">Dãy số {F (n)} có thể được xác định là F (1) = 1, F (2) = 1, F ( n + 2) = F ( n) + F ( n + 1) (trong đó n∈N ) , đây được gọi là dãy Fibonacci, biết :<br>F ( n) = φn - (- 1 / φ) n5 – √<br>φ = 1 + 5 – √2≈1,6180339887…<br>Trả lời các câu hỏi sau bằng cách sử dụng thông tin này nếu cần:<br>Xác định dãy số tự nhiên {X ( n)} (với n là số tự nhiên bất kỳ), trong đó mỗi chữ số là 0 hoặc 1, được đặt theo các quy tắc sau:<br>(i) X (1) = 1<br>(ii) Chúng ta định nghĩa X ( n + 1) là một số tự nhiên, có thể nhận được bằng cách thay các chữ số của X ( n) bằng 1 nếu chữ số là 0 và với 10 nếu chữ số là 1.<br>Ví dụ: X (1) = 1, X (2) = 10, X (3) = 101, X (4) = 10110, X (5) = 10110101,…<br>(1) Tìm A ( n), được xác định là số chữ số của X ( n).<br>(2) Tìm B ( n), được xác định là số lần '01' xuất hiện trong X ( n)? Ví dụ: B (1) = 0, B (2) = 0, B (3) = 1, B (4) = 1, B (5) = 3,…</pre>
+
+
+
+<p>&#8211; Bài toán khó nhất trong toàn bộ phim, một vấn đề số học nâng cao từng được xuất hiện trong đề vào của Đại Học Tokyo. Có lẽ với Homura, đây cũng là bài toán chất chứa nhiều nỗi đau nhất. Đề bài như một lời nhắc, rằng tập tập 10 của phim chính là tập 1 của người xem, tức là khởi đầu dòng thời gian của Homura là bắt đầu từ tập 10, và tập 1 là tập 0. Đó chính 1 tháng mà Homura đã lặp đi lặp lại 666 lần để cứu Madoka, cho đến khi tập 11 và 12, khi chính Madoka là người đã phá vỡ vòng lặp đó để trở thành Chúa.</p>
+
+
+
+<p>&#8211; Đáp án của câu A chính là dãy Fibonacci được đề cập bên trên, một dãy số vô hồn 1,1,2,3,5,8 quen thuộc , nhưng với Homura, nó lại khác hoàn toàn. 666 lần quay lại đó, nỗi đau của cô được nhân lên bao lần, thể hiện bao nhiêu qua dãy số vô tận này? Xin thưa các bạn, đó là một con số không tưởng:</p>
+
+
+
+<pre class="wp-block-preformatted">F(666) = 2^3*17*19*73*149*1999*2221*4441*12653*146521*1121101* 14678641*54018521*124134848933957*1459000305513721* 930507731557590226767593761*44566024170973871368464275116992799</pre>
+
+
+
+<p>&#8211; Đáp án của câu B thì cũng tương tự, nhưng nó giống như đã nhấn mạnh lại ý kiến đã nêu ở trên, rằng vòng lặp của Homura bắt đầu từ tập 10 và nên được xem là tập 1, vì dãy số kết quả được thể hiện nó sẽ nhảy liên tục 1 và 10, 1 và 10, 1 và 10, 1 và 10.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 11:</h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="911" height="494" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-15.png" alt="" class="wp-image-2166"/></figure>
+
+
+
+<p>Qua những mảnh giấy bay đi trước khi cô đánh với Walpurgisnaicht, ta có thể thấy được trên đó là những tính toán được thực hiện bằng tay bởi Homura. Rất có thể, đây là bảng tính đường bay đạn đạo của mấy khẩu bắn tên lửa. Hai cặp X và Y trên mỗi tờ, tổng 4 tờ, tức là sẽ có 8 phát bắn được khai hỏa.</p>
+
+
+
+<p>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Đúng như một người anh của mình đã từng nói, Toán Học chính là loại ngôn ngữ thuần khiết nhât, và mình không thể có ví dụ nào tốt hơn những bài toán trong bộ phim này. Một trong những Anime mình thích nhất, và một trong những Anime đầu tư chất xám nhất mình từng được xem. Mong là mọi người thích bài của mình để mình có thêm động lực viết thêm nhiều bài nữa trong tương lai!</p></blockquote>
+
+
+
+<p></p>
+
+
+
+<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/276129434527783" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/276129434527783">https://facebook.com/alonelycomet/posts/276129434527783</a></h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Bình luận Takt Op. Destiny &#8211; Tập 8</title>
 		<link>https://meoki.net/alonelycomet/2021/11/24/binh-luan-takt-op-destiny-tap-8/</link>
 					<comments>https://meoki.net/alonelycomet/2021/11/24/binh-luan-takt-op-destiny-tap-8/#respond</comments>
@@ -808,261 +1175,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/07/binh-luan-eighty-six-tap-17-2nd-cour/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bình luận Takt Op. Destiny &#8211; Tập 5</title>
-		<link>https://meoki.net/alonelycomet/2021/11/03/binh-luan-takt-op-destiny-tap-5/</link>
-					<comments>https://meoki.net/alonelycomet/2021/11/03/binh-luan-takt-op-destiny-tap-5/#respond</comments>
-		
-		<dc:creator><![CDATA[v4v]]></dc:creator>
-		<pubDate>Wed, 03 Nov 2021 15:51:33 +0000</pubDate>
-				<category><![CDATA[Fall Anime 2021]]></category>
-		<category><![CDATA[analysis]]></category>
-		<category><![CDATA[anime]]></category>
-		<category><![CDATA[commentary]]></category>
-		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1851</guid>
-
-					<description><![CDATA[Đến giờ hẳn bạn cũng nhận ra sự trồi sụt thất thường của tác phẩm theo tuần, những tập chẵn luôn có chất lượng hoạt họa kém nổi bật hơn các tập lẻ, lí do đơn giản thôi, Madhouse đảm nhận lẻ và Mappa chẵn. Mình hơi buồn là đến với dự án lần này, Mappa đã ôm hơn họ có thể giữ, còn đấy là những dự án sắp đến như Jujutsu Kaisen movie, Attack on Titan final, Chainsaw Man, movie của Mari Okada … Nên Takt.Op Destiny như một “đứa con rơi” họ bỏ xó giữa chợ vậy. [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote"><p>Đến giờ hẳn bạn cũng nhận ra sự trồi sụt thất thường của tác phẩm theo tuần, những tập chẵn luôn có chất lượng hoạt họa kém nổi bật hơn các tập lẻ, lí do đơn giản thôi, Madhouse đảm nhận lẻ và Mappa chẵn. Mình hơi buồn là đến với dự án lần này, Mappa đã ôm hơn họ có thể giữ, còn đấy là những dự án sắp đến như Jujutsu Kaisen movie, Attack on Titan final, Chainsaw Man, movie của Mari Okada … Nên Takt.Op Destiny như một “đứa con rơi” họ bỏ xó giữa chợ vậy.</p></blockquote>
-
-
-
-<p>Một ví dụ nhỏ, tập 4 do Mappa thực hiện có sự tham gia của hơn 22 Animation Directors (chỉ đạo hoạt họa – gọi tắt là AD), chưa bao gồm trợ lý và số người còn lại ở studio Massket. Trái ngược với Mappa, Madhouse trong tập 5 chỉ có một AD là Daiki Harashina. Điều này có nghĩa gì? Thông thường, nếu một tập có quá nhiều AD, là quá trình sản xuất của tập đấy đã có vấn đề. Công việc của một AD là kiểm tra lỗi hoạt họa, vẽ lại và chỉnh sửa nét art cho đồng nhất. Việc có quá nhiều AD tham gia một tập, chứng minh rằng, tập có quá nhiều “lỗi” hoạt họa cần được chỉnh sửa, và cũng có nghĩa, trình độ của những người tham gia thực hiện không có sự đồng đều.</p>
-
-
-
-<p>Đây là tình trạng thường hay rất diễn ra đối với những tác phẩm lệ thuộc quá nhiều vào phía nhân sự bên ngoài. Trái ngược lại Mappa, bạn sẽ thấy Takt.Op Destiny được Madhouse nâng niu và chiều chuộng như đứa con cưng. Những tập họ thực hiện chỉ có số lượng từ 1-2 AD và CAD (chief animation director &#8211; trưởng chỉ đạo hoạt họa), điều này chứng tỏ trình độ của dàn nhân sự là rất cao, đều tay, không cần sửa nhiều lỗi. Và tập 5 tuần này, là một minh chứng nữa cho mô hình hoạt động của Madhouse, không phải không có lí do mà rất nhiều tên tuổi key animators (hoạt họa sĩ chủ chốt – KA) trong ngành lại rất thích góp mặt ở những tập có nhãn mác của Madhouse, và trong tập 5 này đấy là những cái tên nổi bật như Toshiyuki Sato, Hiroyuki Tanaka, Shun Kinsei, Hironori Tanaka, Fei Hung … lí giải cho những phân cảnh hành động “bỏng mắt” bạn thường hay thấy ở những tập số lẻ.</p>
-
-
-
-<p>.</p>
-
-
-
-<p>Quay trở lại nội dung tập, tuần này có nhiều thứ để bàn. Trong những giây đầu tiên ta thấy một khối đá phát ra thứ ánh sáng tím tím. Có thể suy đoán khối đá này là một phần được tách rời từ những mảnh thiên thạch đã làm thay đổi thế giới, mang thứ năng lượng hoặc nguồn sức mạnh quý giá. Cũng là lí do bạn thấy cả quân đoàn D2 như bị cuốn hút vào chiếc tàu. Ở đây ta vẫn chưa rõ mục đích của khối đá này là gì, dùng để sản sinh ra những musicart hay thậm chí có thể nắm quyền điều khiển lũ D2?</p>
-
-
-
-<p>Nếu nhớ lại tình tiết trong tập 2, bạn sẽ thấy hình ảnh Hell (musicart của Felix) thoáng qua, ta có thể liên hệ khối đá này ngay lúc đó cũng đã xuất hiện ở sự kiện âm nhạc và thu hút sự chú ý của lũ D2 xông vào tấn công.</p>
-
-
-
-<p>Bên cạnh đó, chân tướng của Felix (trưởng chỉ đạo của tổ chức Symphonica) cũng được hé lộ. Đúng như dự đoán ban đầu của mình, không phải ai trong Symphonica cũng là “người tốt”, cũng vì hòa bình muốn bảo vệ nhân loại. Sức mạnh và quyền lực thường hay làm hư hỏng nhân tính, và Felix không phải ngoại lệ. Tuy Felix hoạt động dưới trướng Zagan, nhưng hắn vẫn có những mưu tính sau lưng, không muốn Zagan biết. Đến hiện tại, ta có thể nhận định rằng Felix đang hăng say với thứ quyền lực hắn sở hữu được, đã độc chiếm được nguồn sức mạnh từ khối đá kể trên và đồng thời đang lăm le để mắt đến Destiny, cũng như là những Musicart có năng lực khác. Felix không xem musicart như những con người, mà chỉ là những món vũ khí vô tri vô giác, dùng xong rồi vứt bỏ như Walküre.</p>
-
-
-
-<p>Tập này cũng ít nhiều thiết lập nên một mối quan hệ “chiến hữu” giữa Takt và Walküre, liệu trong tương lai 2 người có lập khế ước cùng nhau? Walküre là trường hợp đặc biệt chưa có một conductor làm chủ. Một số chi tiết khác đáng để ý, Felix rất tức giận khi Takt từ chối lời mời gia nhập của mình, thì đây sẽ là sự thiết lập cho mối quan hệ tư thù giữa 2 bên, ngày mà chúng ta trông mong những musicart đối đầu nhau đang đến gần. Hiện tại ta có thể thấy, Felix và Hell đang sở hữu thứ sức mạnh áp đảo so với Takt và Destiny, đúng với lời hắn nhận xét thì khả năng của Takt và Destiny cũng chỉ như một conductor/musicart thông thường, trong khi hắn là nắm chức trưởng chỉ huy ở Symphonica.</p>
-
-
-
-<p>Năng lực của Zagan (Grand Maestro, chức vị cao nhất trong Symphonica) vẫn còn là ẩn số. Anna trong tập được hé lộ rằng cô thuộc dòng dõi của gia đình nổi tiếng “Schneider”, ngay cả Felix cũng biết, liệu điều này có vai trò gì trong câu chuyện? Anna cũng là bạn thuở nhỏ với Takt, chi tiết này có ngụ ý về gia thế của Takt và ông bố không? Theo như ta chứng kiến trong tập 2, cái ch.ết của người cha được Zagan sử dụng trong bài diễn văn, và ông là một Maestro. Dựa vào đó ta có thể kết luận được rằng “Asahina” là một cái tên có tiếng, có vị thế quan trọng. Nhưng nếu như người bố của Takt là một “maestro”, thì tại sao ông không có musicart riêng? Liệu ông có từ chối nguồn sức mạnh này vì không muốn sử dụng chúng như thứ vũ khí hủy diệt? Và liệu Takt có “thừa hưởng” nguồn sức mạnh ấy từ người bố, để “biến” Cosette thành Destiny?</p>
-
-
-
-<p>Có quá nhiều câu hỏi được đặt ra cần lời giải đáp. Điều mình hy vọng hiện giờ là tập musicart “choảng nhau” sẽ vào tay Madhouse đảm nhận.</p>
-
-
-
-<p></p>
-
-
-
-<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/261585395982187" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/261585395982187">https://facebook.com/alonelycomet/posts/261585395982187</a></h6>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/03/binh-luan-takt-op-destiny-tap-5/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Takt Op. Destiny &#8211; Music Story [Ep.3] &#8211; TITAN</title>
-		<link>https://meoki.net/alonelycomet/2021/10/24/takt-op-destiny-music-story-ep-3-titan/</link>
-					<comments>https://meoki.net/alonelycomet/2021/10/24/takt-op-destiny-music-story-ep-3-titan/#respond</comments>
-		
-		<dc:creator><![CDATA[vivu]]></dc:creator>
-		<pubDate>Sun, 24 Oct 2021 00:47:00 +0000</pubDate>
-				<category><![CDATA[Fall Anime 2021]]></category>
-		<category><![CDATA[analysis]]></category>
-		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">https://atbs.bk-ninja.com/suga/?p=96</guid>
-
-					<description><![CDATA[&#160; &#8220;Điều quan trọng là không bao giờ để bản thân bị dẫn dắt bởi ý kiến của người đương thời; tiếp tục kiên định trên con đường mình đã chọn mà không để bị đánh gục bởi thất bại hoặc chệch hướng bởi tán dương&#8221; (Gustav Mahler) Mình nghĩ đến câu nói này trong khi đang viết bài và một vài sự việc (có thể bạn đã biết) xảy ra trên page về Takt Op.Destiny. Nhưng do viết (quá) chậm nên sự vụ nào đó cũng trôi qua, thanh giả tự thanh. Mình vẫn tiếp tục vì Titan gây [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>&nbsp;</p>
-
-
-<blockquote class="wp-block-quote"><p>&#8220;Điều quan trọng là không bao giờ để bản thân bị dẫn dắt bởi ý kiến của người đương thời; tiếp tục kiên định trên con đường mình đã chọn mà không để bị đánh gục bởi thất bại hoặc chệch hướng bởi tán dương&#8221; (Gustav Mahler)</p></blockquote>
-
-
-
-<p>Mình nghĩ đến câu nói này trong khi đang viết bài và một vài sự việc (có thể bạn đã biết) xảy ra trên page về Takt Op.Destiny. Nhưng do viết (quá) chậm nên sự vụ nào đó cũng trôi qua, thanh giả tự thanh. Mình vẫn tiếp tục vì Titan gây cho mình sự tò mò và hứng thú khá lớn.</p>
-
-
-
-<p>Khác với cảm hứng từ Giao hưởng số 5 lần trước, câu chuyện âm nhạc của Titan như một trò giải đố vậy. Tập 3 không dùng nhạc cổ điển (thấy khá buồn) nên ngoài cái tên, không có liên hệ trực tiếp nào giữa Titan và nguồn gốc âm nhạc. Tuy thế, manh mối rải rác hóa ra không hề thiếu.</p>
-
-
-
-<p>Takt Op.Destiny mang nhạc cổ điển vào tập này, nhưng không nằm ở giai điệu, mà bằng nhân vật. Sau một Titan dễ thương, nhiều câu chuyện đang chờ được khám phá.</p>
-
-
-
-<p>.</p>
-
-
-
-<h5>1. TÊN GỌI</h5>
-
-
-
-<p>Musicart Titan được giới thiệu là mang nhạc phổ Giao hưởng số 1 của Mahler.</p>
-
-
-
-<p>“Giao hưởng số 1 cung Rê trưởng” là tác phẩm lớn đầu tay của Mahler. Cái tên “Titan” dựa theo tiểu thuyết cùng tên của Jean Paul.</p>
-
-
-
-<p>Tiểu thuyết “Titan” là một “câu chuyện giáo dục” kể về hành trình của một anh hùng trẻ tuổi đầy nhiệt huyết dần trưởng thành, chiếm ngai vàng và lên làm vua tiểu quốc ở Đức.</p>
-
-
-
-<p>“Titan” của Mahler cũng mang hàm ý tương tự, khi ông diễn giải nó “như một cuộc hành trình đời người”. Trải qua nhiều sửa đổi, cuối cùng bản Giao hưởng gồm 4 chương như 4 giai đoạn từ khi sinh ra, lớn lên, va vấp cuộc đời và kết thúc ở cái ch.ết.</p>
-
-
-
-<p>Trong Takt Op.Destiny, “Titan” được giữ nguyên Tiếng Anh mà không được dịch sang Tiếng Nhật (Kyojin) như trường hợp của Unmei (Destiny). Điều này có thể ám chỉ nguồn gốc khác nhau của họ. Việc chọn Titan cho “hành trình trưởng thành” của Unmei là một sự tính toán cốt truyện có mục đích, không chỉ phục vụ cho diễn biến về sau mà còn khiến nội dung trở nên màu sắc hơn.</p>
-
-
-
-<p>.</p>
-
-
-
-<h5>2. TITAN VÀ MAHLER</h5>
-
-
-
-<p>Mahler (1860 – 1911) là một nhà soạn nhạc người Bohemia (Cộng hòa Séc). Ông nổi tiếng trước tiên với vai trò nhạc trưởng tham gia chỉ huy nhiều dàn nhạc danh tiếng, trong đó có dàn nhạc New York (New York Philharmonic). Tuy nhiên với tư cách nhà soạn nhạc, tác phẩm của Mahler ban đầu gặp rất nhiều trắc trở do sự chỉ trích đôi khi gay gắt của người đương thời. Đối diện với công kích, Mahler chỉ để lại câu nói: “Thời của tôi rồi sẽ đến, thế thôi”.</p>
-
-
-
-<p>Về âm nhạc của Mahler, Leonard Bernstein từng nhận xét: “chưa từng có nhà soạn nhạc nào đi xa như thế ở mỗi phương diện, quá buồn và quá vui. Khi Mahler buồn, đó là cực kì buồn, không gì dỗ được, giống như đứa trẻ khóc nhè. Đến khi vui, lại vui như đứa trẻ &#8211; vui tung trời. Và đó là điểm mấu chốt cho câu đố Mahler: ông như một đứa trẻ. [&#8230;] bí mật trong âm nhạc của ông – đó là âm thanh của một đứa trẻ[&#8230;]”</p>
-
-
-
-<p>Cảm hứng từ Mahler ghi dấu ấn khá dễ nhận ra trong Takt Op. Đầu tiên, ta có Titan chính xác là một đứa trẻ, cả về ngoại hình và tính cách. Tiếp đó, sự đối nghịch trong âm nhạc của Mahler dường như ảnh hưởng đến cả thiết kế nhân vật. LAM là họa sĩ vẽ thiết kế gốc cho tất cả các nhân vật của Takt Op.Destiny, tuy thế không ở nhân vật nào, kể cả Unmei, sự đối lập lại rõ ràng như với Titan. Ta thấy được đối lập về chiều dài (tóc và quần áo), trang phục (gile trơn đơn giản kiểu nam và áo sơ mi cổ hoa nữ tính kèm theo nơ lớn) và đặc biệt là màu sắc. Tông cam sáng được chọn làm chủ đạo, kết hợp với điểm nhấn màu xanh dương, chính là cặp màu tương phản mạnh nhất trong phối màu. Sự tương phản này không ngừng được nhắc lại trong bảng màu của Titan : đen – trắng, trắng sọc cam – cam sọc trắng, và mắt xanh da trời – hồng. Tất cả tạo nên một tổng hòa màu sắc rất kịch tính và nổi bật, khiến cho khi nhìn vào Titan tự nhiên sẽ thấy hút mắt.</p>
-
-
-
-<p>.</p>
-
-
-
-<h5>3. LIÊN HỆ VỚI LEONARD “LENNY”</h5>
-
-
-
-<p>Trong tất cả các liên hệ thực tế, đây là rõ ràng nhất. Cái tên Leonard “Lenny” lấy trực tiếp từ Leonard Bernstein và Lenny không khác gì một tấm gương phản chiếu của nguyên mẫu ngoài đời.</p>
-
-
-
-<p>Trong anime, Lenny được mô tả là một Conductor người Mỹ, thuộc New York Symphonica, Musicart là Titan. Ở Lenny cũng tồn tại nhiều điểm đối lập, trong cả phong cách thời trang, cả trong ngoại hình và tính cách. Tuy mình hơi khó chấp nhận gu ăn mặc không liên quan của Lenny nhưng tính cách mềm mỏng dịu dàng và thích nấu ăn lại cho cảm giác khá chân thật. Sự đối lập này thể hiện khuynh hướng giới tính thiếu nhất quán khá rõ (Nhất là khi Lenny nói với Takt “cậu trông ngon”).</p>
-
-
-
-<p>Leonard Bernstein (1918 – 1990) là nhạc trưởng Hoa Kỳ đầu tiên có tiếng tăm trên thế giới, từng chỉ huy New York Philharmonic trong thời gian dài. Đặc biệt trong việc phổ biến âm nhạc Mahler, tuy Bernstein không phải là người đầu tiên nhưng lại là người thấu hiểu Mahler nhất. Bernstein cũng có nhiều bài giảng âm nhạc tuyệt vời với cách truyền đạt lay động mạnh mẽ. Thêm một chuyện bên lề, Bernstein là một người đồng tính, và “ông không có vẻ gì mâu thuẫn với điều đó, ông ấy chỉ đơn giản là gay”.</p>
-
-
-
-<p>Quay trở lại với Takt Op.Destiny, mối quan hệ giữa Lenny và Titan có thể thấy là sự gắn kết và tin tưởng lẫn nhau. Titan không giống như công cụ, mà như một đứa trẻ trong mối quan hệ cha-con.</p>
-
-
-
-<p>Một chi tiết nữa là hình xăm trên cổ Lenny, đó là một dấu khóa Đô (C Clef). Theo phỏng đoán của mình, nó tượng trưng cho “nhạc trưởng”. Nguyên nhân do Khóa Đô là khóa “di chuyển” duy nhất, tức có thể biểu thị cao độ cho nhiều nhạc cụ khác nhau. Khác với nhạc công chỉ chơi 1 loại nhạc cụ, người chỉ huy cần phải nắm được cách đọc bản nhạc của tất cả các nhạc cụ trong dàn nhạc.</p>
-
-
-
-<p>&nbsp;</p>
-
-
-
-<h5>4: KÌA CON BƯỚM VÀNG</h5>
-
-
-
-<p>Tiêu đề có vẻ hơi lạ, nhưng phải nói thật là nếu không có nó, mình chắc không viết bài này. Hãy từ từ để xem vì sao đây là điểm thú vị nhất với mình về âm nhạc trong tập này.</p>
-
-
-
-<p>Trong cảnh Lenny làm bếp và Titan phụ giúp trang trí đồ ăn, có một giai điệu ngắn được Lenny ngâm nga một cách vui vẻ trước khi bị cắt ngang bởi Anna. Nếu tò mò, có thể nghe lại ở khoảng phút thứ 6:30 của tập, bạn sẽ nhận ra nó ngay thôi.</p>
-
-
-
-<p>Chính xác là nhạc “Kìa con bướm vàng”!</p>
-
-
-
-<p>Ban đầu mình còn tưởng bị ảo giác, vì cho rằng Lenny chỉ hát bâng quơ cho vui, càng không nghĩ nhạc thiếu nhi Việt Nam lại xuất hiện trong anime Nhật. Thế nhưng hóa ra nó hữu ý lại có sự liên quan chặt chẽ đến Titan.</p>
-
-
-
-<p>Bài hát tuổi thơ “Kìa con bướm vàng” có một lịch sử thậm chí còn “cổ” hơn cả nhạc cổ điển. Giai điệu này xuất phát từ bài đồng dao Pháp từ khoảng TK 17 mang tên “Frère Jacques”. Nó sau đó phổ biến trên nhiều quốc gia với lời nhạc khác nhau như “Brother John” ở Anh, “Bruder Martin” ở Đức, “Pada śnieg” (Falling snow) ở Ba Lan, “Hai con hổ” (两只老虎) ở Trung Quốc, và hiển nhiên cả “Kìa con bướm vàng” ở Việt Nam.</p>
-
-
-
-<p>Điều quan trọng là nó cũng xuất hiện trong Giao hưởng số 1 “Titan”!</p>
-
-
-
-<p>Trong chương 3 – Hành khúc tang lễ (funeral march), Mahler mô tả một câu chuyện dựa trên ngụ ngôn Áo, khi nhân vật chính đi ngang qua một đám ma. Đây không phải đoàn rước ma bình thường mà là tập hợp những con động vật đưa tiễn quan tài của một người thợ săn. Sự xen lẫn giữa đau buồn và trào phúng kiểu “chuột khóc mèo” này khiến cho không khí của nó “tang thương một cách nực cười”, với buồn thảm giả dối, nước mắt cá sấu và những tiếng khúc khích không nén lại được.</p>
-
-
-
-<p>Mở đầu cho đám tang kì lạ này, giai điệu thiếu nhi “Kìa con bướm vàng” vang lên, nhưng lại bị hạ xuống tông rất trầm chơi bởi contrabass và kéo dài lê thê đúng kiểu “nhạc đám ma”. Kéo theo từng chuỗi giai điệu khi đột ngột vui, khi đột ngột buồn, lúc nhanh lúc chậm, lên xuống nhấp nhô nhưng chuyển nhịp rất mượt mà, giống như một đoàn rước không ngừng đi về trước nhưng lộn xộn và thiếu trang nghiêm. Điệu nhạc sau đó lại xuất hiện ở cuối chương, giống như thể nhấn mạnh lần nữa sự biến tướng đau lòng của niềm tin tuổi trẻ trước khó khăn cuộc đời.</p>
-
-
-
-<p>&nbsp;</p>
-
-
-
-<h5>5: SỰ PHÁT TRIỂN NHÂN VẬT</h5>
-
-
-
-<p>Titan không phải tác phẩm nổi bật nhất của Mahler, thậm chí có thể coi là “đứa con đầu lòng bị chối bỏ”. So với các sáng tác khác, Mahler dành nhiều tâm huyết nhất nhưng cũng thất vọng nhất với Titan. Vậy liệu trong Takt Op.Destiny, điều này có thể ảnh hưởng đến cốt truyện không? Mình cảm thấy một tư liệu đặc sắc như thế sẽ khó lòng bị bỏ qua.</p>
-
-
-
-<p>Hiện tại ta mới chỉ thấy tính cách tươi sáng của Titan, liệu còn điều gì khác có liên quan đến sự đối lập được xây dựng cho nhân vật này hay không?</p>
-
-
-
-<p>Và “Kìa con bướm vàng” khi gắn với Titan lại mang theo một tầng nghĩa khác, không biết còn ẩn ý nào khác, hay là dự báo “nhìn vậy mà không phải vậy” cho sự xuất hiện vốn đã mập mờ của cặp đôi Titan/Lenny trong hành trình của Unmei và Takt hay không?</p>
-
-
-
-<p>Toàn những câu hỏi khó mà chỉ có thể chờ xem tiếp hồi sau mà thôi.</p>
-
-
-
-<p>&nbsp;</p>
-
-
-
-<p>&nbsp;</p>
-
-
-
-<h6><strong>Link bài viết gốc :</strong>&nbsp;<a href="https://www.facebook.com/alonelycomet/posts/255264903280903">https://facebook.com/alonelycomet/posts/255264903280903</a></h6>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/24/takt-op-destiny-music-story-ep-3-titan/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

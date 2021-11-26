@@ -12,7 +12,7 @@
 	<atom:link href="https://meoki.net/alonelycomet/category/review/feed/" rel="self" type="application/rss+xml" />
 	<link>https://meoki.net/alonelycomet</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
-	<lastBuildDate>Sun, 21 Nov 2021 14:17:59 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Nov 2021 14:24:02 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,373 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Toán Học Trong Puella Magi Madoka Magica: Rebellion &#8211; Khi Tình Yêu Được Chuyển Thành Những Con Số. (Part 2)</title>
+		<link>https://meoki.net/alonelycomet/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/</link>
+					<comments>https://meoki.net/alonelycomet/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Kirihime]]></dc:creator>
+		<pubDate>Fri, 26 Nov 2021 13:48:14 +0000</pubDate>
+				<category><![CDATA[Anime Review]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[anime]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2171</guid>
+
+					<description><![CDATA[Toán Học là một yếu tố tuy nhỏ nhưng được đầu tư rất kĩ trong series Madoka Magica, và truyền thống này tiếp tục được duy trì ở Movie 3: Rebellion, tập phim có thể nói là kết thúc của phần đầu tiên trong chương truyện của Madoka Magica. Xem lại P1 tại đây: url.meoki.net/RPXLo7 Khác với phần phim ngắn, những phương trình toán học giờ đây không chỉ được giải bởi mỗi Homura nữa, mà chỉ thoáng qua trong những bài giảng trên lớp. Đây có lẽ là vì ở đây, những phương trình lặp lại không thể hiện [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Toán Học là một yếu tố tuy nhỏ nhưng được đầu tư rất kĩ trong series Madoka Magica, và truyền thống này tiếp tục được duy trì ở Movie 3: Rebellion, tập phim có thể nói là kết thúc của phần đầu tiên trong chương truyện của Madoka Magica.</p>
+
+
+
+<h6><strong>Xem lại P1 tại đây: </strong><a href="http://url.meoki.net/RPXLo7">url.meoki.net/RPXLo7</a></h6>
+
+
+
+<p>Khác với phần phim ngắn, những phương trình toán học giờ đây không chỉ được giải bởi mỗi Homura nữa, mà chỉ thoáng qua trong những bài giảng trên lớp. Đây có lẽ là vì ở đây, những phương trình lặp lại không thể hiện quãng thời gian vô tận mà Homura đã tua đi tua lại suốt hằng trăm lần mà nói lên những gì thực sự đang diễn ra ở thế giới đó. Tất nhiên ta cũng biết thế giới mà hiện hữu trong phần lớn thời gian Movie, là thế giới ảo được kiến tạo bởi Kyubei và Homura trong Soul Gem của chính cô. Vậy không ngoa khi nói rằng, ý nghĩa được ẩn giấu trong những phương trình dưới đây nói lên tư tưởng và suy nghĩ của chính Homura.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="934" height="474" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/258188939_276779954462731_2226057633580206811_n.jpg" alt="" class="wp-image-2179"/></figure>
+
+
+
+<p>.</p>
+
+
+
+<h5>Vấn đề 1: Tính ∫arcsin3x/√1−x^2.dx</h5>
+
+
+
+<pre class="wp-block-preformatted">Đầu tiên, ta thay u=arcsinx vào du/dx=1/√1−x^2 sẽ được ∫u3du.<br>Sử dụng công thức tích phân cơ bản ∫xαdx = xα+1/α+1 + C sẽ ra ∫u3du = 1/4u^4 + C.<br>Thay ngược lại arcsinx vào ta được kết quả 1/4arcsin^4x + C.</pre>
+
+
+
+<p>&#8211; Khác hẳn với những phương trình xuất hiện ở 12 tập phim ngắn, những phương trình ở Rebellion không đơn thuần chỉ là những dòng đại số nữa, cơ bản là vì ý nghĩa của nó đã không còn gói gọn trong quá trình cứu Madoka của Homura – một quá trình mà vô cùng khô khan và cứng nhắc. Nó đã chuyển sang tích phân và giải tích, những khái niệm toán học về không gian và trừu tượng hơn rất nhiều, khi mà giờ đây bộ phim khai thác mạnh hơn về tâm lý của Homura.</p>
+
+
+
+<p>&#8211; Arcsin là ngược lại của Sin, cũng như cái cách mà giờ đây Homura chính là đối nghịch của người mà cô yêu hết lòng – Madoka. Nhìn vào biểu thị 2 đường sin và arcsin trên đồ thị, ta có thể thấy rõ 2 đường này chỉ hướng về nhau đúng 1 khắc, sau đó tách xa nhau và đi về vô tận. Một khi đã đối nghịch thì chỉ có thể xa cách, vĩnh viễn không thể lại gần nhau được. Homura có lẽ cũng nhận ra điều này, kết hợp cùng với sự ích kỉ nhỏ nhoi của mình, cô tự hóa thành Ác Quỷ đề có thể được làm đối lập của chính Madoka. Arcsin có lẽ cũng là ám chỉ rằng giờ đây trong Homura đã hình thành nên 1 tam giác tình cảm, kết hợp từ 3 góc Tuyệt Vòng, Hi Vọng và Tình Yêu. Để tính ra được góc Tình Yêu, cô đã phải kinh qua cả 2 Hi Vọng (12 ep đầu) và Tuyệt Vọng (Movie) để hình nên đươc thứ tình cảm vượt xa sức mạnh của vũ trụ &#8211; yêu.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Vấn đề 2: Tính ∫xln(x2+y)dx</h5>
+
+
+
+<p>Để giải ta sẽ phải coi y là một tham số độc lập với giá trị của x và sử dụng lnx để biểu thị lôgarit tự nhiên của x.</p>
+
+
+
+<pre class="wp-block-preformatted">Thay u = x2 + y vào du/dx = 2x ta có 1/2∫lnu d u<br>&gt;1/2∫lnu du = 1/2 (uln u − ∫1du) = 1/2u (lnu − 1)</pre>
+
+
+
+<p>Cuối cùng thay ngược lại u ta được đáp án: 1/2 (x2 + y) (ln (x2 + y) −1) + C</p>
+
+
+
+<p>&#8211; Giải bài này yêu cầu ta phải coi y là một tham số độc lập so với x. Cái này có thể là ngẫu nhiên, nhưng trùng hợp thay nó lại chính là suy nghĩ của Homura trong những phút cuối movie, khi cô tách ý định của bản thân ra khỏi ước muốn trước đó của Madoka. Nên nhớ, khi dòng thời gian bắt đầu, Madoka là người đã xin cô cứu lấy mình, rằng bản thân không muốn phải chịu đựng như thế này thêm một lần nào nữa. Xuyên suốt quá trình ta theo dõi phim, đây đã và vẫn là một trong những ý niệm chính của Homura khi cô quay về quá khứ &#8211; vì điều ước của cô khi lấy Soul Gem là hoàn thành được nguyện vọng của Madoka. Việc cô hành động chiếm lấy một phần sức mạnh và từ đó viết lại 1 thế giới mới, trong đó sử dụng luật lệ của riêng mình là minh chứng cho việc giờ đây cô hành động vì mục tiêu ích kỉ của bản thân chứ không còn phục vụ cho ý muốn của người khác nữa.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Vấn đề 3: Tính ∫x3+2&#215;2+10x/x2−x+1dx.</h5>
+
+
+
+<p>Biến đổi pt thành:</p>
+
+
+
+<pre class="wp-block-preformatted">x3+2x3+10x/x2−x+1=x+3+12x−3/x2−x+1=x+3+62x−1/x2−x+1+3x2−x+1</pre>
+
+
+
+<p>Sau đó sử dụng 2 công thức:</p>
+
+
+
+<pre class="wp-block-preformatted">(+) ∫f′(x)/f(x)dx = ln|f(x)|dx + C<br>(+) ∫dx/a2+x2=1a/arctanx/a + C</pre>
+
+
+
+<p>để ra được kết quả là :</p>
+
+
+
+<pre class="wp-block-preformatted">∫x3 + 2x2 + 10x/x2 − x + 1dx=1/2x2 + 3x + 6ln(x2−x+1) + 2√3 – arctan2x−1/√3 + C</pre>
+
+
+
+<p>-Hàm arctan là một hàm tiếp tuyến ngược, tiếp tuyến lại là một cặp điểm tiếp xúc trên một đường cong bất kì. Cách mình nhìn ý này trong bài là đường cong nối tiếp tuyến (Homura, f(Homura) chính là đường cong mang phương trình y = f(định mệnh). 2 điểm tiếp tuyến mang tên Homura do mình vừa đặt là 2 thời khắc mà cô chọn lặp đi lặp lại trước và cả sau khi biến thành ác quỷ, khoảnh khắc mà cô lần đầu được gặp Madoka và khoảnh khắc mà Madoka lần đầu được gặp cô, sau khi cô viết lại thế giới để tạo ra 1 vũ trụ riêng cho mình. 2 điểm này nối với nhau tạo thành 1 tiếp tuyến cách nhau vô hạn, khi mà giờ đây Homura của điểm cuối đã khác quá xa Homura ở điểm đầu, cả 2 đều chung 1 điểm đó là ích kỉ, chỉ khác nhau ở tư duy và hành động mà thôi.</p>
+
+
+
+<p>&#8211; Việc Homura đứng lên chống lại ước muốn của Madoka và tự hắc hóa bản thân &#8211; lí do mà tên phim được đặt là Rebellion, được mô tả không chỉ được thể hiện từ dạng phù thủy Homulily (cô cho rằng mình phải chế.t để ước nguyện của Madoka được bảo vệ) cho đến trở thành một tạo vật chống lại quy luật vũ trụ đã được đặt sẵn, nó 1 lần nữa lại được miêu tả rất rõ không qua lời mà bằng những con số.</p>
+
+
+
+<p>.</p>
+
+
+
+<p>Tất nhiên, còn rất nhiều lí do tại sao tên phim lại là Rebellion, cũng như tỉ tỉ những chi tiết khác nói về nhiều nhân vật khác thay vì chỉ xoay quanh Homura, nhưng mình có lí do để tin rằng đại đa số những thông tin mà movie này muốn truyền tải chỉ xoay quanh cô bé thời gian và tình yêu của cô với đấng Chúa trời mà thôi.</p>
+
+
+
+<p>Cảm ơn đã đọc bài của mình và mong có thể gặp lại mọi người trong những bài phân tích tiếp theo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Toán Học Trong Puella Magi Madoka Magica – Khi Tình Yêu Được Chuyển Thành Những Con Số (Part 1)</title>
+		<link>https://meoki.net/alonelycomet/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/</link>
+					<comments>https://meoki.net/alonelycomet/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/#respond</comments>
+		
+		<dc:creator><![CDATA[Kirihime]]></dc:creator>
+		<pubDate>Thu, 25 Nov 2021 13:33:00 +0000</pubDate>
+				<category><![CDATA[Anime Review]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[anime]]></category>
+		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=2158</guid>
+
+					<description><![CDATA[Puella Magi Madoka Magica là một Anime có thể được liệt vào hàng classic, nhất là ở bên Nhật khi độ phủ sóng của bộ phim này rất lớn. Phim sử dụng một hướng tiếp cận khác với chủ đề đã quá đỗi nổi tiếng là Mahou Shoujo (Ma pháp Thiếu nữ), vẫn giữ những gì đặc trưng nhất của dòng phim nhưng lại lồng thêm những yếu tố tâm lý và nặng trừu tượng không dành cho trẻ em. Ngoài ra còn có 1 yếu tố nữa, một yếu tố phụ nhưng được đề cấp đến rất nhiều xuyên [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Puella Magi Madoka Magica là một Anime có thể được liệt vào hàng classic, nhất là ở bên Nhật khi độ phủ sóng của bộ phim này rất lớn. Phim sử dụng một hướng tiếp cận khác với chủ đề đã quá đỗi nổi tiếng là Mahou Shoujo (Ma pháp Thiếu nữ), vẫn giữ những gì đặc trưng nhất của dòng phim nhưng lại lồng thêm những yếu tố tâm lý và nặng trừu tượng không dành cho trẻ em.</p>
+
+
+
+<p>Ngoài ra còn có 1 yếu tố nữa, một yếu tố phụ nhưng được đề cấp đến rất nhiều xuyên suốt cốt truyện – Toán Học. Bài tập đầu tiên ta thấy Homura giải là một bài Đại Số, cách để tìm ra Walpurgisnacht là Số Liệu, và thậm chí cô cũng dùng Toán học để chiến đấu với chính Walpurgisnacht. Lạ kỳ hơn, đó chính là ta chỉ thấy Homura sử dụng Toán trong phim, không có các nhân vật khác. Liệu có thể ngầm hiều rằng những con số trong đây tượng trưng cho chính Homura, thể hiện rõ định mệnh của cô thông qua những con số tưởng chửng như vô hồn? [Hình các bài toán sẽ để dưới phần cmt]</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 1:</h5>
+
+
+
+<h6>Vấn đề 1: Mọi số nguyên chia cho 14 sẽ có dư từ 0 đến 13. Cho biết a có dư là 6 và b có dư là 1 khi chia cho 14, dư của x là bao nhiêu khi chia cho 14, cho x là số nguyên nghiệm x2−2ax + b = 0?</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1074" height="602" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-9.png" alt="" class="wp-image-2160"/></figure>
+
+
+
+<p>Bài toán này có 2 cách giải, cách đầu tiên và cũng là đơn giản nhất đó chính là sư dụng Số học Mô-đun:</p>
+
+
+
+<pre class="wp-block-preformatted">• a≡6 (mod14);<br>• b≡1 (mod14).<br>• x2−2ax+b=0 &gt; x2−12x+1≡0(mod14)<br>• x2+2x+1≡0(mod14) (vì −12≡2(mod14))<br>• (x+1)2 ≡0(mod14)<br>• x+1≡0(mod14) (vì 14 không phải số chính phương)<br>• x≡13(mod14) (vì −1≡13(mod14))</pre>
+
+
+
+<p>Ta có thể dễ dàng chỉ ra rằng nghiệm đó chia cho 14 sẽ dư được 13, tuy nhiên trong phim Homura lại quyết định sử dụng một cách giải thuần số học:</p>
+
+
+
+<pre class="wp-block-preformatted">Giả sử rằng x=14q+r,a=14s+6,b=14t+1.
+Thay vào x2−2ax+b=0 ta được
+
+x2−2ax+b=14c+(r+1)2=0 với c=14q2+2q−28qs−2rs−12q+t−r
+
+14 chia cho 14c và 0 &amp;gt; (r+1)2. Từ đó suy ra r+1 chia được cho 14.
+
+Câu hỏi yêu cầu số dư r nằm giữa 0 và 13, từ đó suy ra r=13.</pre>
+
+
+
+<p>&#8211; Đáp án thì vẫn đúng thôi, mặc dù ngụ ý của tác giả rất rõ. Homura sau hàng trăm lần quay về quá khứ, cô vẫn chọn giải đi giải lại 1 cách duy nhất, thể hiện rõ sự bế tắc khi lặp đi lặp lại 1 dòng thời gian mà không thể ra được kết quả mình cần. Số 13 cũng là một số không hề đẹp, đồng thời cũng ám chỉ rằng bộ phim sẽ được kết thúc ở tập 13 (12 ep ngắn và 1 tập Movie). 2 bộ Movie còn lại là 2 bộ recap lại 12 tập đầu nên mình sẽ không không tính.</p>
+
+
+
+<p>.</p>
+
+
+
+<h6>Vấn đề 2: Giả sử p là số nguyên tố và n là số tự nhiên tùy ý, chứng minh rằng (1 + n) p − np − 1 chia hết cho p.</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1072" height="599" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-10.png" alt="" class="wp-image-2161"/></figure>
+
+
+
+<p>Vấn đề này tương tự vấn đề trên, có 2 cách giải, đầu tiên là sử dụng Định lý nhỏ Fermat:</p>
+
+
+
+<pre class="wp-block-preformatted">ap≡a(modp)<br>Suy ra:<br>(1+n)p−np−1(modp) &gt; (1+n)−n−1(modp) &gt; 0(modp)<br>&gt;Biểu thức tổng thể chia hết cho p.</pre>
+
+
+
+<p>Nhưng một lần nữa, Homura lại chọn cách giải oằng tà bà lằng hơn đó là sử dụng Định lý Nhị thức, hay còn được gọi là Nhị thức Newton:</p>
+
+
+
+<pre class="wp-block-preformatted">Đối với a, b không bằng 0 và số nguyên p không âm, ta có:<br>Đối với a, b không bằng 0 và số nguyên không âm p, ta có:<br>(a + b)p = p∑k = 0 (p/k) ap − kbk<br>Trong đó hệ số nhị thức (p/k) là số nguyên p (p − 1) ⋯ (p − k + 1) / k (k − 1) ⋯ 1 với 0≤k≤p.<br>Suy ra: (1 + n)p = p∑k = 0 (p/k) nk và (1 + n)p – np − 1 = p∑k = 1 − 1 (p/k) nk<br>Vì (p/0) = (p/p) = 1 suy ra (p/1) = p. Vì p là số nguyên tố nên thừa số p trong (p/k) không chia hết cho k, k − 1,…, 2 với 2≤k≤p − 1. Do đó, p chia (p/k) được 1≤k≤p − 1.<br>Vì mỗi tổng và ở vế phải chia hết cho p nên tổng toàn bộ, tức là vế trái cũng chia hết cho p.</pre>
+
+
+
+<p>-Vẫn vậy, Homura lặp đi lặp lại những cách làm y hệt nhau, cũng như cách cô lặp đi lặp lại 1 cách để cứu Madoka – ngăn cô bé trở thành Puella Magi. Kẹt trong 1 vòng lặp vô tận mà không hề có lời giải đáp, Homura gần như bị bế tắc trong một mê cung đường thẳng mà chính cô tạo ra. Cô cứu Madoka một cách vô vọng, cứu nhiều đến mức mà số mệnh đảo ngược, giờ đây cô mới chính là người cần được Madoka cứu.</p>
+
+
+
+<p>.</p>
+
+
+
+<h6>Vấn đề 3: Tìm nghiệm nguyên của phương trình a3 + a2 &#8211; 1 &#8211; ( a &#8211; 1)b = 0</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1060" height="758" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-11.png" alt="" class="wp-image-2162"/></figure>
+
+
+
+<p>Câu này thì là một câu Đại Số đơn giản thôi, tuy nhiên ý nghĩa và ẩn ý của tác giả không nằm ở cách giải như 2 câu trên, mà là ở kết quả:</p>
+
+
+
+<pre class="wp-block-preformatted">(a3 + a3 − 1) − ( a − 1)b
+= ( a3 − 1) + ( a2 − 1) + 1 − ( a−1)b
+=(a−1)( a2 + a + 1) + (a−1)(a + 1) + 1− (a−1)b
+=(a−1)(a2+2a−b+2) + 1 = 0
+Suy ra: (a−1)(a2 + 2a – b + 2) = − 1
+a, b là các số nguyên, do đó các thừa số a − 1 và a2 + 2a − b + 2 cũng là số nguyên. Vì tích là −1 nên một trong các thừa số phải bằng −1, thừa số còn lại bằng 1.
+Nếu a − 1 = −1 thì a = 0 và từ a2 + 2a − b + 2 = 1 ta thu được b = 1.
+Nếu a − 1 = 1 thì a = 2 và a2 + 2a − b + 2 = −1 &gt; b = 11.
+Có hai nghiệm nguyên: (a, b) = (0,1) hoặc (a, b) = (2,11).</pre>
+
+
+
+<p>-Một chi tiết rất hay được ẩn ở trong 2 đáp án của bài. Một chi tiết thú vị được lồng ghép rất khéo, vì tập 2 cũng như tập 11, là 2 điểm mấu chốt cho dòng lặp thời gian vô tận của Homura. Tất cả đều sẽ dẫn về tập 1, khi mà cô không thể xử được tất cả bản thể của Kyubei, hoặc ở tập 11 khi Madoka quyết định trở thành Puella Magi. Nếu cả 2 kế hoạch này đều thất bại, cô sẽ phải reset lại từ đầu và làm lại tất cả. Cô chỉ có đúng 2 cách này để giải cứu Madoka, được thể hiện qua tất cả các bài toán nêu ra đều chỉ có đúng 2 cách làm, và Homura luôn chọn cách dài hơn, khó làm hơn và tất nhiên, đau khổ hơn. Cái bài toán này cũng có 2 cách giải, tuy nhiên mình lười và sẽ không nêu cách 2, nó sử dụng phép chia đa thức thôi.</p>
+
+
+
+<p>.</p>
+
+
+
+<h6>Vấn đề 4: Cho f(x)= (4x &#8211; sqrt(4&#215;2-1))/ (sqrt(2x+1)-sqrt(2x-1)), tính f(1)+f(2)+f(3)+&#8230;.f(60)</h6>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="705" height="573" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-12.png" alt="" class="wp-image-2163"/></figure></div>
+
+
+
+<p>Câu này thì sử dụng HĐT (a−b)(a+b) = a2−b2 là ra, đáp án là 665. Trong Anime, bài giải của Homura trong đó có mắc lỗi sai, số mũ bị đặt sai và thiếu mất 1 dấu cộng.</p>
+
+
+
+<p>Con số 665 được thể hiện ở đáp được rất nhiều người trong cộng đồng cho rằng đó chính là số lần Homura đã tua ngược lại thời gian. Vậy mà trong 665 lần giải đi giải lại 1 bài toán này, Homura vẫn mắc đi mắc lại những lỗi đó, thành ra dòng thời gian mà cô tìm kiếm không bao giờ xảy ra. 665 lần đi qua thời gian, là 665 lần cô mắc lỗi và 665 lần chứng kiến Madoka ch.ết. Tập phim bắt đầu ở 665, tức đây đã là lần tua lại thứ 666. Một con số mà có lẽ rất nhiều người biết – con số của Quỷ. Ở đây, khi mà Madoka đã thoát khỏi vòng luân hồi thiên kiếp – trở thành Chúa trời, thăng hoa thành 1 khái niệm ngang với Đấng sáng tạo, thì Homura lại chìm trong chính Soul Gem của mình, trở thành phù thủy và cuối cùng, kéo ngã Madoka khỏi địa đàng, biến thành một bản thể đối lập với cô – Ác Quỷ.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 8:</h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1231" height="691" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-13.png" alt="" class="wp-image-2164"/></figure>
+
+
+
+<p>-Homura đã dự đoán điểm xuất hiện của Walpurgisnacht bằng cách sử dụng số liệu thống kê. Trong đống tài liệu mà Homura đưa cho Kyoko xem, ta có thể thấy được một hồi quy hình sin, trong đó dữ liệu chuỗi thời gian được giả định tuân theo một đường cong hình sin theo thời gian và các thuộc tính (biên độ, tần số, pha) của sóng hình sin được dự đoán thông qua thống kê. Với mục đích là dự đoán vị trí của Walpurgisnaicht, thống kê được thực hiện bằng cách này sẽ sử dụng tọa độ địa lý (kinh độ và vĩ độ) làm điểm dữ liệu quan sát và để ghép hai sóng hình sin khác nhau với dữ liệu, một cho kinh độ và một cho vĩ độ. Trong phòng của Homura cũng có 1 con lắc lớn, có thể là bằng chứng cho thấy cách giải thích này đúng bởi vì những gì Homura sử dụng là một hồi quy hình sin, tương tự với sự chuyển động cơ học của một con lắc.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 9:</h5>
+
+
+
+<h6>Vấn đề 5:</h6>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="964" height="542" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-14.png" alt="" class="wp-image-2165"/></figure>
+
+
+
+<pre class="wp-block-preformatted">Dãy số {F (n)} có thể được xác định là F (1) = 1, F (2) = 1, F ( n + 2) = F ( n) + F ( n + 1) (trong đó n∈N ) , đây được gọi là dãy Fibonacci, biết :<br>F ( n) = φn - (- 1 / φ) n5 – √<br>φ = 1 + 5 – √2≈1,6180339887…<br>Trả lời các câu hỏi sau bằng cách sử dụng thông tin này nếu cần:<br>Xác định dãy số tự nhiên {X ( n)} (với n là số tự nhiên bất kỳ), trong đó mỗi chữ số là 0 hoặc 1, được đặt theo các quy tắc sau:<br>(i) X (1) = 1<br>(ii) Chúng ta định nghĩa X ( n + 1) là một số tự nhiên, có thể nhận được bằng cách thay các chữ số của X ( n) bằng 1 nếu chữ số là 0 và với 10 nếu chữ số là 1.<br>Ví dụ: X (1) = 1, X (2) = 10, X (3) = 101, X (4) = 10110, X (5) = 10110101,…<br>(1) Tìm A ( n), được xác định là số chữ số của X ( n).<br>(2) Tìm B ( n), được xác định là số lần '01' xuất hiện trong X ( n)? Ví dụ: B (1) = 0, B (2) = 0, B (3) = 1, B (4) = 1, B (5) = 3,…</pre>
+
+
+
+<p>&#8211; Bài toán khó nhất trong toàn bộ phim, một vấn đề số học nâng cao từng được xuất hiện trong đề vào của Đại Học Tokyo. Có lẽ với Homura, đây cũng là bài toán chất chứa nhiều nỗi đau nhất. Đề bài như một lời nhắc, rằng tập tập 10 của phim chính là tập 1 của người xem, tức là khởi đầu dòng thời gian của Homura là bắt đầu từ tập 10, và tập 1 là tập 0. Đó chính 1 tháng mà Homura đã lặp đi lặp lại 666 lần để cứu Madoka, cho đến khi tập 11 và 12, khi chính Madoka là người đã phá vỡ vòng lặp đó để trở thành Chúa.</p>
+
+
+
+<p>&#8211; Đáp án của câu A chính là dãy Fibonacci được đề cập bên trên, một dãy số vô hồn 1,1,2,3,5,8 quen thuộc , nhưng với Homura, nó lại khác hoàn toàn. 666 lần quay lại đó, nỗi đau của cô được nhân lên bao lần, thể hiện bao nhiêu qua dãy số vô tận này? Xin thưa các bạn, đó là một con số không tưởng:</p>
+
+
+
+<pre class="wp-block-preformatted">F(666) = 2^3*17*19*73*149*1999*2221*4441*12653*146521*1121101* 14678641*54018521*124134848933957*1459000305513721* 930507731557590226767593761*44566024170973871368464275116992799</pre>
+
+
+
+<p>&#8211; Đáp án của câu B thì cũng tương tự, nhưng nó giống như đã nhấn mạnh lại ý kiến đã nêu ở trên, rằng vòng lặp của Homura bắt đầu từ tập 10 và nên được xem là tập 1, vì dãy số kết quả được thể hiện nó sẽ nhảy liên tục 1 và 10, 1 và 10, 1 và 10, 1 và 10.</p>
+
+
+
+<p>.</p>
+
+
+
+<h5>Tập 11:</h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="911" height="494" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/11/image-15.png" alt="" class="wp-image-2166"/></figure>
+
+
+
+<p>Qua những mảnh giấy bay đi trước khi cô đánh với Walpurgisnaicht, ta có thể thấy được trên đó là những tính toán được thực hiện bằng tay bởi Homura. Rất có thể, đây là bảng tính đường bay đạn đạo của mấy khẩu bắn tên lửa. Hai cặp X và Y trên mỗi tờ, tổng 4 tờ, tức là sẽ có 8 phát bắn được khai hỏa.</p>
+
+
+
+<p>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Đúng như một người anh của mình đã từng nói, Toán Học chính là loại ngôn ngữ thuần khiết nhât, và mình không thể có ví dụ nào tốt hơn những bài toán trong bộ phim này. Một trong những Anime mình thích nhất, và một trong những Anime đầu tư chất xám nhất mình từng được xem. Mong là mọi người thích bài của mình để mình có thêm động lực viết thêm nhiều bài nữa trong tương lai!</p></blockquote>
+
+
+
+<p></p>
+
+
+
+<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/276129434527783" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/276129434527783">https://facebook.com/alonelycomet/posts/276129434527783</a></h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://meoki.net/alonelycomet/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Mushoku Tensei &#8211; Làm sao để thích một nhân vật &#8220;Đáng Ghét&#8221;? Rudeus Greyrat &#038; Sự đa dạng trong xây dựng nhân vật.</title>
 		<link>https://meoki.net/alonelycomet/2021/11/21/mushoku-tensei-lam-the-nao-de-thich-mot-nhan-vat-dang-ghet-rudeus-greyrat-su-da-dang-trong-xay-dung-nhan-vat/</link>
 					<comments>https://meoki.net/alonelycomet/2021/11/21/mushoku-tensei-lam-the-nao-de-thich-mot-nhan-vat-dang-ghet-rudeus-greyrat-su-da-dang-trong-xay-dung-nhan-vat/#respond</comments>
@@ -869,305 +1236,6 @@ Vấn đề của nhiều bộ plot-driven đó là khi có twist xảy ra nhưn
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://meoki.net/alonelycomet/2021/10/11/cac-yeu-to-cau-thanh-nhan-vat-xuat-sac/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Kobayashi-san Chi no Maidragon S – Hoa Anh Đào &#038; Lời Tri Ân Đến Cố Đạo Diễn Yasuhiro Takemoto</title>
-		<link>https://meoki.net/alonelycomet/2021/09/27/kobayashi-san-chi-no-maidragon-s-hoa-anh-dao-loi-tri-an-den-co-dao-dien-yasuhiro-takemoto/</link>
-					<comments>https://meoki.net/alonelycomet/2021/09/27/kobayashi-san-chi-no-maidragon-s-hoa-anh-dao-loi-tri-an-den-co-dao-dien-yasuhiro-takemoto/#respond</comments>
-		
-		<dc:creator><![CDATA[v4v]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 20:26:00 +0000</pubDate>
-				<category><![CDATA[Anime Review]]></category>
-		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">https://atbs.bk-ninja.com/suga/?p=51</guid>
-
-					<description><![CDATA[Việc KyoAni lựa chọn không gian đầy hình ảnh hoa anh đào trên phông nền để kết thúc tác phẩm có thể nói là sự lựa chọn không thể nào hợp hơn. Hình ảnh hoa anh đào luôn gắn liền với đất nước và con người Nhật, đây là loài hoa biểu tượng cho nét văn hóa, cho “Mono no aware” bởi tính chất đẹp đẽ nhưng ngắn ngủi của chúng. Chỉ trong một tuần chúng lại rơi rụng đi. Khoảnh khắc hoa anh đào rơi, là khoảnh khắc đẹp đẽ nhất theo quan niệm “mono no aware”, vì khoảnh [&#8230;]]]></description>
-										<content:encoded><![CDATA[<blockquote><p>Việc KyoAni lựa chọn không gian đầy hình ảnh hoa anh đào trên phông nền để kết thúc tác phẩm có thể nói là sự lựa chọn không thể nào hợp hơn.</p></blockquote>
-<p>Hình ảnh hoa anh đào luôn gắn liền với đất nước và con người Nhật, đây là loài hoa biểu tượng cho nét văn hóa, cho “Mono no aware” bởi tính chất đẹp đẽ nhưng ngắn ngủi của chúng. Chỉ trong một tuần chúng lại rơi rụng đi. Khoảnh khắc hoa anh đào rơi, là khoảnh khắc đẹp đẽ nhất theo quan niệm “mono no aware”, vì khoảnh khắc này phác họa nên vẻ đẹp mỏng manh của từng cánh hoa đào ngả trắng, hồng, một vẻ đẹp đượm chút buồn nhẹ khi bị những cơn gió thoảng qua cuốn đi, làm tan biến, phai dần.</p>
-<p>Nhưng cứ mỗi khi Xuân về, hoa anh đào lại nở rộ, trổ bông khoe sắc hồng, báo hiệu sự khởi đầu mới!</p>
-<p>.</p>
-<p>Nếu bạn vẫn còn nhớ, đã từng có một tác phẩm KyoAni thực hiện mà kết thúc cũng đầy hình ảnh hoa anh đào thế này! Hẳn không khó để đoán ra bộ mình đang nói chính là Hyouka!</p>
-<p>Oreki và Eru cũng cùng nhau, dạo bước trên con đường trải dài những cánh hoa anh đào hồng thắm! Hoa anh đào báo hiệu một mùa Xuân đang đến, một cuộc sống mới chờ đón hai người. Oreki đã không còn phải đón bao cái Xuân một mình, mà cạnh anh giờ đây đã có Eru song hành, nhất là khi hai người họ đã mở lòng với nhau!</p>
-<p>Và trong Maidragon S, tác phẩm kết thúc cũng bằng hình ảnh Kobayashi bị cả “gia đình” rượt theo, với nụ cười mỉm trên môi. Đây không phải là kết thúc, mà là sự khởi đầu mới, một mối quan hệ mới, tiến triển mạnh mẽ hơn, sau khi Kobayashi đã tự tin vào bản thân mà chấp nhận thứ tình yêu “nồng nàn” của Tohru dành cho cô, cũng như làm bền chặt hơn mối quan hệ khăn khít với Kanna và Ilulu. Câu chuyện của họ vẫn còn tiếp diễn và tiếp tục, bên cạnh nhau.</p>
-<p>.</p>
-<p>¤ Sự tương quan giữa các shot và hoàn cảnh giữa Eru – Oreki / Tohru – Kobayashi cũng tạo nên đôi nét thú vị.</p>
-<p>Eru là cô gái bị trách nhiệm dòng tộc đè nặng lên vai, bị trói buộc bởi sự cũ kĩ của lề lối truyền thống, đối lập với hình ảnh Oreki là anh chàng mang trong mình tự do của thế hệ hiện đại đầy sự năng nổ và đổi mới. Nói một cách khác, Oreki chính là chiếc “chìa khóa” để giải thoát Eru. Và có lẽ bạn cũng nhận ra sự tương đồng khi nói về cặp đôi Tohru – Kobayashi.</p>
-<p>Tohru đã lang thang trong nhiều thiên niên kỉ, đã quá quen thuộc với xã hội của rồng, của loài người cổ đại đầy toan tính và mưu mô, “sẽ không thể có hòa bình giữa người và giống loài khác” như lối suy nghĩ cũ kĩ xích chặt tâm trí Tohru, cho đến khi cô gặp Kobayashi. Kobayashi là con người của lý trí và logic (cũng như Oreki), tốt bụng và thật thà, Kobayashi đã cho Tohru thấy được hình ảnh của một xã hội hiện đại, không có sự dị nghị giữa giống loài, nơi loài rồng vẫn có thể sinh sống bình thường với mọi người, nơi ai cũng có thể yêu thương và sưởi ấm con tim của nhau. Tohru đã nhiều lần đánh mất niềm tin, hoài nghi bản thân và lạc lối, nhưng Kobayashi luôn ở cạnh bên, làm ngọn hải đăng dẫn dắt Tohru.</p>
-<p>Phân cảnh cuối có khá nhiều shot (góc quay) tương đồng, như shot cận cảnh khuôn mặt Eru/Tohru với phông nền là những cánh hoa anh đào bay lơ lửng, như minh chứng rõ nét cho sự xuất hiện của những “nhân tố mới” làm khuấy đảo cuộc sống của cả Oreki và Kobayashi. Cả hai cũng lưỡng lự và ngập ngừng trước màn tấn công của “đối phương”. Oreki chỉ thổ lộ trong tâm tư suy nghĩ, Kobayashi thì hét lên: ”Đồ ngốc!” rồi ôm giò bỏ chạy, nhưng cả hai người họ đều mỉm cười hạnh phúc, đều thỏa mãn và trân trọng với những điều trước mắt. Câu chuyện của họ vẫn sẽ được tiếp tục, đấy chưa phải là hồi kết.</p>
-<p>.</p>
-<p>&#8221; 生生流転 &#8211; Sinh sinh lưu chuyển &#8221; &#8211; Cũng là tựa đề của tập cuối.</p>
-<p>¤ Hình ảnh hoa anh đào còn tượng trưng cho sự luân hồi của vạn vật trong tự nhiên. Hoa trổ bông, rồi rụng, cũng như cuộc đời một con người, không ai có thể thoát khỏi cái vòng sinh lão bệnh tử.</p>
-<p>Nếu như bạn chưa biết, thì Hyouka là tác phẩm được thực hiện bởi cố đạo diễn Yasuhiro Takemoto. Kobayashi-san Chi no Maid Dragon mùa 1 cũng do chính bàn tay ông thực hiện nên. Có thể xem như hình ảnh hoa anh đào được Ishihara sử dụng để khép lại Maidragon S, cũng tương đồng với hình ảnh hoa anh đào Takemoto sử dụng trong kết thúc của Hyouka – đây là lời tri ân cảm kích mà đạo diễn Tatsuya Ishihara đã dành cho người bạn thân thương của mình sau khi ông thay Takemoto tiếp tục đảm nhận tác phẩm này, cũng như là để tiếp nối “tinh thần” KyoAni của “những người ở lại”.</p>
-<p>Dù những người bạn thân thương đã mất, đã ra đi, nhưng những ký ức, những kỉ niệm đẹp sẽ sống mãi trong con tim chúng ta. Và cũng đừng buồn vì chúng kết thúc, mà hãy hạnh phúc vì chúng đã tồn tại, là một phần trong con tim và ký ức của những người ở lại.</p>
-<p>.</p>
-<p>“遠まわりする雛 &#8211; Little birds can remember”<br />
-“Những chú chim nhỏ sẽ còn nhớ”</p>
-<p>.</p>
-<p>Trên nền đất giá buốt của mùa Đông lạnh lẽo, một mùa Xuân tươi đẹp tràn đầy hơi ấm sẽ luôn quay trở về.</p>
-<p>.</p>
-<p>Đến đây thì cũng chính thức chấm dứt luôn loạt bài về Maidragon S của mình. 3 tháng vừa rồi có lẽ là khoảng thời gian hạnh phúc nhất mà mình đã trải qua (kể từ sau cái ngày định mệnh) khi chứng kiến hình ảnh một KyoAni vững vàng quay trở lại sóng truyền hình với lối hoạt họa tỉ mỉ và kì công đã luôn làm mình yêu thích say đắm. Tác phẩm đồng thời cũng tạo nên một dấu ấn sâu đậm, rất cá nhân và riêng tư, như món quà từ người bạn cũ đã bao năm không gặp.</p>
-<p>Câu chuyện của KyoAni vẫn sẽ tiếp tục, hệt như câu chuyện của Kobayashi và Tohru, hay Oreki và Eru vậy. Hẹn gặp lại mọi người vào một ngày không xa!</p>
-<h6>Link bài viết gốc: <a href="https://www.facebook.com/alonelycomet/posts/237187095088684">https://facebook.com/alonelycomet/posts/237187095088684</a></h6>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/27/kobayashi-san-chi-no-maidragon-s-hoa-anh-dao-loi-tri-an-den-co-dao-dien-yasuhiro-takemoto/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Summer Anime 2021 &#8211; Final Ranking</title>
-		<link>https://meoki.net/alonelycomet/2021/09/21/summer-anime-2021-final-ranking/</link>
-					<comments>https://meoki.net/alonelycomet/2021/09/21/summer-anime-2021-final-ranking/#respond</comments>
-		
-		<dc:creator><![CDATA[v4v]]></dc:creator>
-		<pubDate>Tue, 21 Sep 2021 04:55:00 +0000</pubDate>
-				<category><![CDATA[Anime Review]]></category>
-		<category><![CDATA[anime]]></category>
-		<category><![CDATA[ranking]]></category>
-		<guid isPermaLink="false">https://meoki.net/alonelycomet/?p=1547</guid>
-
-					<description><![CDATA[Còn một tuần nữa là kết thúc mùa Summer Anime 2021 nên đây là dịp tốt để mình làm luôn list tổng kết các anime trong mùa này. List mang tính chủ quan khá cao, đánh giá của mình cũng sẽ không thay đổi gì nhiều so với những gì các bộ đã thể hiện (nếu như còn 1-2 tập nữa mới kết thúc hẳn). Nhìn chung thì mùa Summer Anime 2021 tương đối “ổn”, có nhiều sự lựa chọn cho khán giả theo dõi. • Xanh lá cây: Đáng xem.• Xanh dương: Xem tốt, có thể bạn sẽ thích.• [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote"><p>Còn một tuần nữa là kết thúc mùa Summer Anime 2021 nên đây là dịp tốt để mình làm luôn list tổng kết các anime trong mùa này.</p></blockquote>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="1400" height="1497" src="https://meoki.net/alonelycomet/wp-content/uploads/2021/10/summer-ranking.jpg" alt="" class="wp-image-1549"/></figure>
-
-
-
-<p>List mang tính chủ quan khá cao, đánh giá của mình cũng sẽ không thay đổi gì nhiều so với những gì các bộ đã thể hiện (nếu như còn 1-2 tập nữa mới kết thúc hẳn). Nhìn chung thì mùa Summer Anime 2021 tương đối “ổn”, có nhiều sự lựa chọn cho khán giả theo dõi.</p>
-
-
-
-<p>•<em> Xanh lá cây: Đáng xem.</em><br>•<em> Xanh dương: Xem tốt, có thể bạn sẽ thích.<br>• Cam: Trung bình.<br>• Đỏ: Tệ.</em></p>
-
-
-
-<p>.</p>
-
-
-
-<h6>1/ Kobayashi-san Chi no Maidragon S</h6>
-
-
-
-<p>Mở đầu với AotS của mình, Dragon Maid S đánh dấu sự trở lại đầy ngoạn mục từ KyoAni sau 2 năm vắng bóng trên sóng truyền hình. Tác phẩm vẫn giữ được cái “chất” vốn có của studio mà mình luôn yêu thích, đó là sự tinh chạm và mài giũa về mặt hình ảnh, dù có là cho những chi tiết đời thường bình dị nhất. Dragon Maid S mùa 2 cũng mang đến những câu chuyện nhỏ phác họa một phần sự khác nhau trong xã hội hiện đại giữa con người và loài rồng. Tuy nhiên, những mẩu drama này không quá nặng nề mà chỉ giúp đào sâu thêm phần nội tâm của những nhân vật trong câu chuyện, đan xen với những khoảnh khắc sâu lắng nhưng cũng không kém phần hài hước về cuộc sống đời thường xoay quanh “gia đình” Kobayashi. Dragon Maid S với mình như một tách trà đậm vị, càng nhâm nhi, càng ngon.<br>Đánh giá: 8.5/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>2/ Shiroi Suna no Aquatope</h6>
-
-
-
-<p>Hai cô gái, hai mảnh đời, nhưng số phận đã dẫn dắt họ lại với nhau. P.A Works lần này đã quay trở lại thế mạnh của họ: SoL, drama đời thường và coming of age ở những con người trẻ tuổi. Bên cạnh đó dấu ấn “thương hiệu” của họ thể hiện khá rõ – so với những bộ cùng thể loại &#8211; khi tác phẩm ít nhiều tập trung vào yếu tố công việc để qua đó làm bàn đạp xây dựng nên nhân vật (Hanasaku Iroha với mình vẫn là tác phẩm SoL, drama kèm công việc hay nhất mà P.A từng thực hiện). Đạo diễn và người viết kịch bản từng có cơ hội làm cùng Mari Okada nên ta có thể thấy sự khéo léo trong phát triển nhân vật qua từng tình tiết, mẩu chuyện nhỏ xuyên suốt tác phẩm, rất tự nhiên và không gượng gạo! Tác phẩm còn chứa đựng nhiều thông điệp ý nghĩa như nhắc nhở chúng ta nên chấp nhận mất mát để tiến lên phía trước. Về phần hình ảnh, P.A Works trước giờ hiếm khi làm mình thất vọng, cùng với Ufotable, I.G và KyoAni thì họ là số hiếm những studio vận dụng tốt kỹ thuật CGI vào cảnh nền, tạo nên những phong cảnh làm người xem trầm trồ. Tuy có độ dài 2-cour nhưng với một người yêu thích SoL và drama như mình thì Aquatope chắc chắn là bộ mình sẽ mạnh tay rec nếu bạn yêu thích hai thể loại trên.<br>Đánh giá: 8.3/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>3/ Heion Sedai no Idaten-tachi</h6>
-
-
-
-<p>Một bộ lạc khỏi radar của nhiều người dù có chiếc nhãn to đùng của MAPPA. Câu chuyện xoay quanh chủng người Idaten (sức mạnh ngang hàng thần) trong cuộc đối đầu với loài quỷ dữ. Một tác phẩm thuần hành động, xen lẫn nhiều chủ đề “tăm tối” xoay quanh con người và “chuẩn mực” đạo đức, vd như cả Idaten và loài quỷ chỉ xem con người như thứ “công cụ” để đạt được mục đích, đơn giản vì họ là thực thể cấp bậc cao hơn. Cốt truyện không rối rắm hay quá phức tạp, những gì bạn mong đợi sẽ là những gì bạn xem thấy, đôi khi để thư giãn đầu óc thì bạn chỉ cần như thế! Tác phẩm không ngại dành nhiều thời gian để thiết lập sự việc – sẽ diễn ra – từ cả hai phía, tạo nên cán cân quyền lực thú vị nghiêng hẳn về phía chủng tộc Idaten, nhưng không vì vậy mà lấy đi sự hấp dẫn của loài quỷ dữ, chúng vẫn có những thủ đoạn khiến bạn phải kinh tởm. Tác phẩm có khá nhiều pha hành động hấp dẫn, thể hiện độ chịu chơi của MAPPA và đội ngũ thực hiện, một bộ hành động đơn giản nhưng đầy “chất” riêng.<br>Đánh giá: 8.2/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>4/ Kaizoku Oujo</h6>
-
-
-
-<p>Lịch công chiếu hơi dị của Kaizoku Oujo có lẽ là lí do chính khiến nhiều người chưa nghe qua tác phẩm. Câu chuyện xoay quanh Fena và những người bạn trong chuyến hành trình tìm kiếm bí ẩn đằng sau manh mối “Eden”. Cốt truyện rành mạch và rõ ràng, tuy không mới lạ nhưng vẫn đủ sức giữ được nét thú vị, nhất là khi về sau, quá khứ Fena được hé lộ tạo nên nút thắt lớn về thân thế của nhân vật phản diện trong tác phẩm. Tuy vậy, thế mạnh của bộ mình đánh giá cao là ở các yếu tố phiêu lưu và sự kì công của Production I.G trong việc xây dựng thế giới. Từng tòa thành, ngôi nhà, con đường đều mang đậm dấu ấn kiến trúc của thời kì phục hưng, và cả trong chi tiết của các dãy hành lang, hay vật dụng nhỏ trong từng căn phòng. Bên cạnh đó, theo chân Fena, ta đi đến nhiều vùng miền mới lạ, có thể là góc khuất của khu cảng sầm uất, hay là không gian chật hẹp dưới khu mỏ bỏ hoang chứa đầy những câu đố, cạm bẫy … tạo nên cảm giác phiêu lưu ly kì (nếu không có production mạnh như I.G thì cũng khó khắc họa tốt được vậy). Tác phẩm còn rất mạnh về kĩ thuật dựng phim (cinematography), với một đứa ghiền phim ảnh như mình thì ngoài Dragon Maid S, Kaizoku Oujo cũng là bộ mình phải xem kĩ từng đoạn cảnh để chiêm ngưỡng công sức I.G dồn vào bố cục từng cảnh quay (frame composition).<br>Đánh giá: 8.0/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>5/ Love Live! Superstar!!</h6>
-
-
-
-<p>Với mình thì đây là series Love Live hay nhất trong toàn thể franchise. Điều khiến Superstar tách biệt với các Love Live khác là những trắc trở của các cô gái khá gần gũi với “đời thường” khiến người xem dễ đồng cảm. Lấy vd như Kanon, giọng ca chính của nhóm, ban đầu đã không thể hát được trước đám đông vì lo sợ và thiếu tự tin – điều mà bạn sẽ không thấy ở Honoka hay Chika. Bên cạnh đó thì số lượng nhân vật trong Superstar cũng ít hơn so với các series khác cùng franchise, điều này tạo nên tính chất cá nhân rõ nét hơn ở từng nhân vật vì ai cũng được dành đủ đất diễn. Điểm mình ưng nhất ở Superstar là những pha tương tác tấu hài giữa các thành viên trong nhóm, như cặp bài trùng Keke – Sumire, tạo nên sự hài hước và sinh động, vốn là điều cả franchise Love Live đang còn thiếu. Ngoài ra thì phần hoạt họa của Superstar cũng được Sunrise đầu tư mạnh tay hơn, bạn sẽ thấy sự năng động của nhân vật qua từng frame, từng shot, chuyển động mượt, giàu biểu cảm và ngôn ngữ hình thể. Superstar là series Love Live thích hợp dành cho người mới bước chân vào franchise, cũng như là hâm nóng lại ngọn lửa dành cho những ai đã yêu thích Love Live từ lâu.<br>Đánh giá: 8.0/10</p>
-
-
-
-<p>.</p>
-
-
-
-<p>Danh dự: Heike Monogatari</p>
-
-
-
-<p>Tuy chỉ mới ra tập 1 (vài ngày nữa sẽ chiếu tập 2) nhưng với mình thì Heike lại có một vị trí quan trọng trong con tim: tác phẩm là ngã rẻ đánh dấu chặng đường mới sau khi rời Kyoto Animation, một hướng đi mới trên con đường nghệ thuật của nữ đạo diễn tên tuổi nhất hiện nay trong ngành CN anime: Naoko Yamada. Theo chân cô gái trẻ Biwa, ta sẽ chứng kiến thời khắc huy hoàng trong lịch sử, cũng như sự suy tàn của tộc Taira dưới thời Heian. Một tác phẩm đậm tính nhân sinh về xã hội cổ xưa, khi người dân phải sống cuộc đời khổ cực dưới gọng kìm sắt của tầng lớp cai trị. Heike có lồng ghép khá nhiều chi tiết ẩn dụ thú vị trong mặt hình ảnh (như hình ảnh xoáy nước gắn liền với tộc Taira vì kinh tế của họ lệ thuộc vào hàng hải, hay các chi tiết về loài hoa, etc), với các shot tinh tế mang đậm dấu ấn riêng, tất cả được thể hiện hết sức tuyệt vời qua đôi tay nhào nặn tài tình của nữ đạo diễn Yamada.<br>Đánh giá: 8.5/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>6/ Kageki Shoujo!!</h6>
-
-
-
-<p>Tác phẩm lấy bối cảnh ở ngôi trường Âm Nhạc và Nghệ Thuật Sân Khấu Kouka. Kageki Shoujo sở hữu dàng nhân vật đa dạng, ai cũng có giấc mơ riêng và những nỗi bất trắc lẫn ám ảnh trong quá khứ họ cần vượt qua. Điều mình đánh giá cao là tác phẩm không ngại phơi bày ra sự trần trụi của nhiều vấn đề nóng bỏng trong xã hội đã theo đuổi các cô gái trẻ bấy lâu, như nạn bạo hành gia đình, và chính điều này làm tăng mức độ chân thật trong việc thiết lập, lẫn xây dựng và phát triển nhân vật về sau. Vd như Ai ghét cay đắng đàn ông – không phải vì cô theo một nguyên mẫu đã được dựng sẵn – mà vì lí do khác sâu xa hơn gắn liền với đề tài xã hội kể trên. Ngoài việc giải quyết vấn đề cá nhân, họ còn phải tỉ thí với nhau để dành từng vai diễn mà dấn thân vào sự nghiệp nghệ thuật, tạo nên các mối quan hệ đa sắc màu (đến chị em song sinh mà cũng chơi bẩn vì ghen ghét, hay đơn giản hơn là sự nể phục từ “kình địch” của một nhân vật). Một tác phẩm hấp dẫn đặt nhân vật làm trọng tâm, có thể bạn sẽ thích.<br>Đánh giá: 7.8/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>7/ Sonny Boy</h6>
-
-
-
-<p>Một nguyên tác (original work) từ Shingo Natsume và Madhouse, nhưng cá nhân mình thì không thật sự ấn tượng lắm với những gì Sonny Boy đã thể hiện. Tất nhiên mình vẫn khâm phục đạo diễn Natsume vì tâm huyết và tầm nhìn ông đổ vào tác phẩm, từ sự thiết lập nên một xã hội thu nhỏ (năng lực nhân vật cũng rất hợp với khát vọng của họ), cho đến chủ đề “cô lập” tái xuất xuyên suốt tác phẩm – các nhân vật không ít thì nhiều đều trải qua cảm giác cô đơn, lạc lõng dù họ sinh sống cùng nhau – bất kể họ có tài năng xuất chúng như Asakaze hay chỉ là nhân vật nền sống thu mình trong góc khuất của thế giới. Chất hình ảnh trong Sonny Boy cũng khá đặc biệt, một số cảnh trông như tranh sơn dầu với linearts bị xóa nhòa đi, tạo nên sự thú vị về mặt thị giác. Nhưng mà, vấn đề cốt lõi ở Sonny Boy là cho đến hiện giờ, mình vẫn chưa cảm nhận được bất kì yếu tố nào tạo nên sự gắn kết sâu đậm trong tác phẩm để làm mình “muốn” tìm hiểu thêm, để diễn giải thêm được cái chất “trừu tượng” trong từng frame hình mà Natsume dày công phối cảnh. Có thể bạn sẽ thấy Sonny Boy hấp dẫn hơn mình.<br>Đánh giá: 7.5/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>8/ Tensei Shitara Slime Datta Ken 2nd Season (2nd cour)</h6>
-
-
-
-<p>Phần nối tiếp của Slime, số ít những bộ isekai giữ được cái chất “simp city” xuyên suốt và “vui” để xem. Phần này thì tác phẩm dành không ít thời lượng để sắp đặt kế hoạch lật tẩy Clayman của Rimuru, đến lúc “gặt hái thành quả” thì cũng làm mình thỏa mãn phần nào. Nói chung là xem ổn để chờ mùa sau của Mushoku Tensei.<br>Đánh giá: 7.4/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>9/ Bokutachi no Remake</h6>
-
-
-
-<p></p>
-
-
-
-<p>Đầu mùa mình có đánh giá cao BokuRe, một phần cũng vì studio feel vốn luôn ổn định và chắc tay khi chuyển thể những tác phẩm có yếu tố drama/romance. Nhưng cho đến hiện tại, mình có hơi thất vọng. BokuRe không tệ, nhưng cốt truyện và các twist lại không có gì quá đặc biệt để đủ sức tạo điểm nhấn. Tình tiết thì dễ đoán khi Kyouya luôn là người tìm ra mọi giải pháp và giải quyết được mọi vấn đề. Ít nhất là tác phẩm vẫn tạo được một số tình tiết khiến cái sự “hoàn hảo” của Kyouya “phản tác dụng”, nhưng có lẽ là vẫn chưa đủ. Chi tiết khiến mình khó chịu nhất là sau quả timeleap (nhảy cóc thời gian), Kyouya như người dưng nước lã sống cùng với ShinoAki dù cả hai cưới nhau và đã có con rồi, ít nhất cũng nên thể hiện một tí tình cảm sống chung với nhau đi chứ.<br>Đánh giá: 7.3/10</p>
-
-
-
-<h6>10/ Vanitas no Carte</h6>
-
-
-
-<p>Một bộ “split-cour”, vừa kết thúc thì đã thông báo ss2. Vanitas có lẽ là dự án Bones sẽ dốc sức theo đuổi sau thành công của Bungo Stray Dogs, Vanitas cũng mang không ít phong cách và chịu sự ảnh hưởng từ Bungo, nhất là ở chất art (art director – chỉ đạo thẩm mỹ của Vanitas &#8211; cũng đã từng tham gia vào Bungo). Cũng không thể trách họ được vì Bungou đã quá thành công, điều mình tiếc là chất art của tác giả Mochizuki (đồng tác giả với Pandora Hearts) đủ sức tạo sự riêng biệt, nhưng khi Bones đem lên màn ảnh thì lại chả khác gì nhân bản Bungo. Cốt truyện Vanitas đến hiện tại cũng không có gì đặc sắc, đám nhân vật phản diện tỏ ra nguy hiểm cũng chỉ xuất hiện chút chút, có thể Vanitas vẫn đang trong giai đoạn xây dựng cuộc đối đầu lớn giữa hai bên nên ta vẫn cần trông chờ vào diễn biến của phần tiếp theo. Hoạt họa hành động ở Vanitas cũng chỉ ở mức trung bình so với tiêu chuẩn “mong chờ” ở Bones. Điều duy nhất hiện giờ làm mình tò mò theo tiếp Vanitas là đạo diễn Itamura (ex-director của Shaft) sẽ ẩn những chiêu bài gì để cải thiện Vanitas ở mùa thứ 2.<br>Đánh giá: 7.2/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>11/ Shinigami Bocchan to Kuro Maid</h6>
-
-
-
-<p>Một bộ ngọt như đường của J.C Staff. Tuy thực hiện bằng full CGI đấy nhưng lại tương đối mượt, xem tạm chứ không cứng đờ (tất nhiên so với tiêu chuẩn của Orange với Houseki thì vẫn còn kém nhiều bậc). Thiết nghĩ nếu Kuro Maid được hoạt họa bằng lối 2d truyền thống thì tác phẩm sẽ có cơ hội lôi kéo khán giả nhiều hơn vì không phải ai cũng dễ tính chấp nhận xem thử một bộ thuần CGI để đưa ra nhận định riêng.<br>Đánh giá: 7.0/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>12/ Jahy-sama wa Kujikenai!</h6>
-
-
-
-<p>Một bộ giải khuây ổn từ Silver Link, nhưng mình không đánh giá cao được Jahy-sama vì khoảng hài có phần hơi trùng lặp và gượng, dàn cast cũng nhỏ, đa phần quá phụ thuộc vào màn độc thoại của Jahy. Hit or miss.<br>Đánh giá: 7.0/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>13/ Kanojo mo kanojo</h6>
-
-
-
-<p>So với hồi thực hiện bún ss1 thì Tezuka Productions đã có cải thiện khá nhiều về mảng hình ảnh. Nhìn chung KnK cũng thuộc dạng “tắt não” giải trí tốt, nếu bạn không thấy khó chịu với cái thiết lập ban đầu (một anh thật thà đi bắt cá 2 tay).<br>Đánh giá: 7.0/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>14/ Magia Record: Mahou Shoujo Madoka☆Magica Gaiden</h6>
-
-
-
-<p>Mùa cuối của Magia Record có phần cốt truyện hơi mông lung, villain tất nhiên là không thể đặc sắc bằng series gốc dưới ngòi bút của Gen Butcher. Thứ cứu cánh duy nhất trong Magia Record là những đoạn xuất hiện của dàn nhân vật cũ (nhóm 5 người Madoka, Homura, Sayaka, Kyouko, Mami) và số ít các pha sakuga hành động hiếm hoi có chất lượng vượt trội. Có một sự thật mà ai cũng nên chấp nhận là Shaft hiện nay đã quá khác so với quá khứ khi phần lớn tài năng đều rời bỏ studio, điều này cũng phần nào ảnh hưởng lên khâu sản xuất và chất lượng tác phẩm, rõ nhất là sự trồi sụt thất thường về mặt hình ảnh và khâu dàn xếp nội dung ngay trong Magia Record, có những tập tình tiết hấp dẫn, nhưng lại có những tập khá chán với nhịp độ tứ tung. Có thể là bộ phận nhân sự tay nghề cao (còn sót lại) đang dồn lực để thực hiện movie cuối cùng của series Madoka gốc, thời gian sẽ trả lời vậy.<br>Đánh giá: 6.7/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6>15/ Tantei wa mou, Shindeiru.</h6>
-
-
-
-<p>Ngay đầu mùa thì Tantei là bộ khá nổi do được Kadokawa quảng cáo tưng bừng, nhưng đến giờ thì Tantei cũng hết lực để giữ sóng vì giao vào tay đội ngũ thiếu kinh nghiệm để chuyển thể. Đội ngũ thực hiện non tay nghề, dễ thấy nhất là qua phối cảnh, dàn trải nội dung không hợp lý, lời thoại thì gượng gạo – nhất là mấy pha đá nhau giữa Kimi với Siesta nghe cringe kinh khủng (không biết có phải lỗi xếp thoại của kịch bản, hay là do nguyên tác nó vậy rồi). Thôi thì cũng xem như đây là dự án giúp ENGI có chút ít kinh nghiệm đi vậy.<br>Đánh giá: 6.0/10</p>
-
-
-
-<p>.</p>
-
-
-
-<h6><strong>16/ Genjitsu Shugi Yuusha no Oukoku Saikenki</strong></h6>
-
-
-
-<p>Một bộ mình thấy có khả năng cạnh tranh với Slime, nhưng rất tiếc, J.C Staff không phải là studio có thể đảm bảo chất lượng cho một tác phẩm bất kì. Manga chuyển thể tốt từ LN với chất art đủ tạo điểm nhấn riêng, nội dung phân đoạn hợp lý với nhiều nút thắt được tiết lộ bài bản (nhất là vụ làm phản của Georg). Sang anime thì tất cả mọi thứ đều quá chung chung, từ cái art như của 10 năm trước cho đến model lính lác trong những trận chiến lớn khiến người xem đau mắt. Đây không phải là một bộ tệ, nhưng J.C Staff chuyển thể dở quá. Tốt nhất là nên đọc manga nếu bạn tò mò.<br>Đánh giá: 5.5/10</p>
-
-
-
-<p>.</p>
-
-
-
-<p>Viết mỗi thứ chút chút, chợt nhận ra chưa gì đã mấy trang words rồi, nên thôi ngưng vậy. Những bộ còn lại thì mình cũng không có gì nhiều để nói ngoài trừ phê bình, các bộ không có trong list thì đã drop hoặc do chưa xem. Vậy nên nếu bạn thấy bộ nào chưa có trong list và muốn rec thì hãy cmt lại. Anw, sắp tới mình sẽ làm anime list dự tính xem dành cho mùa sau.</p>
-
-
-
-<p></p>
-
-
-
-<h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/233324028808324">https://facebook.com/alonelycomet/posts/233324028808324</a></h6>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://meoki.net/alonelycomet/2021/09/21/summer-anime-2021-final-ranking/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
