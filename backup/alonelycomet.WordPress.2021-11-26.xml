@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.2" created="2021-11-25 03:43" -->
+	<!-- generator="WordPress/5.8.2" created="2021-11-26 13:00" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>A Lonely Comet</title>
 	<link>http://localhost/blog</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
-	<pubDate>Thu, 25 Nov 2021 03:43:46 +0000</pubDate>
+	<pubDate>Fri, 26 Nov 2021 13:00:00 +0000</pubDate>
 	<language>vi</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/blog</wp:base_site_url>
@@ -7515,7 +7515,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -7683,7 +7683,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -9645,7 +9645,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9930,7 +9930,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10243,7 +10243,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10495,7 +10495,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -10747,7 +10747,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11044,7 +11044,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11325,7 +11325,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11975,7 +11975,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12283,7 +12283,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12556,7 +12556,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12824,7 +12824,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13084,7 +13084,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13336,7 +13336,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -13592,7 +13592,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13844,7 +13844,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14108,7 +14108,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14368,7 +14368,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14761,7 +14761,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -15021,7 +15021,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15261,7 +15261,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -15513,7 +15513,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15749,7 +15749,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -16122,7 +16122,7 @@ Nói như thế không có nghĩa tác phẩm không tì vết, vẫn còn một
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -17332,7 +17332,7 @@ https://www.youtube.com/embed/xZzsRGKvVIA
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		<wp:meta_value><![CDATA[33]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -17631,7 +17631,7 @@ https://www.youtube.com/embed/xZzsRGKvVIA
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -17938,7 +17938,7 @@ https://www.youtube.com/embed/xZzsRGKvVIA
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -18299,7 +18299,7 @@ https://www.youtube.com/embed/xZzsRGKvVIA
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -18510,7 +18510,7 @@ Tất nhiên, tương lai không nói trước được gì, mình vẫn hy vọ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -18678,7 +18678,7 @@ Tất nhiên, tương lai không nói trước được gì, mình vẫn hy vọ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -18937,7 +18937,7 @@ Và đây là kỹ thuật mới của WIT studio đã phát triển từ năm 2
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -19105,7 +19105,7 @@ Và đây là kỹ thuật mới của WIT studio đã phát triển từ năm 2
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -19429,7 +19429,7 @@ Có lẽ Miyazaki cảm thấy ông đã mất dần đi sự kết nối với 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
+		<wp:meta_value><![CDATA[58]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -19597,7 +19597,7 @@ Có lẽ Miyazaki cảm thấy ông đã mất dần đi sự kết nối với 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
+		<wp:meta_value><![CDATA[58]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -19898,7 +19898,7 @@ Nhìn chung, Tenki no Ko là một tác phẩm đặc sắc của Shinkai, thể
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[63]]></wp:meta_value>
+		<wp:meta_value><![CDATA[65]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -20066,7 +20066,7 @@ Nhìn chung, Tenki no Ko là một tác phẩm đặc sắc của Shinkai, thể
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[63]]></wp:meta_value>
+		<wp:meta_value><![CDATA[65]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -20357,7 +20357,7 @@ Tuy nhiên, đầu tư original cũng như góp mặt vào ủy ban sản xuất
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -20525,7 +20525,7 @@ Tuy nhiên, đầu tư original cũng như góp mặt vào ủy ban sản xuất
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -20815,7 +20815,7 @@ Tuy nhiên, đầu tư original cũng như góp mặt vào ủy ban sản xuất
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -20983,7 +20983,7 @@ Tuy nhiên, đầu tư original cũng như góp mặt vào ủy ban sản xuất
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -21330,7 +21330,7 @@ Mưa giờ đây đã không còn là điều lệ, là khế ước cần thi�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -21498,7 +21498,7 @@ Mưa giờ đây đã không còn là điều lệ, là khế ước cần thi�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -21876,7 +21876,7 @@ Chất lượng về mặt nghệ thuật và tình người luôn là phương 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -22044,7 +22044,7 @@ Chất lượng về mặt nghệ thuật và tình người luôn là phương 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -22314,7 +22314,7 @@ Một mẩu truyện oneshot thể hiện được hết tinh hoa của Fujimoto
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -22482,7 +22482,7 @@ Một mẩu truyện oneshot thể hiện được hết tinh hoa của Fujimoto
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post-120-reaction-item-1]]></wp:meta_key>
@@ -22826,7 +22826,7 @@ Bài viết có sử dụng tư liệu tham khảo từ tsukikan, ANN, wiki, cũ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[52]]></wp:meta_value>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -22994,7 +22994,7 @@ Bài viết có sử dụng tư liệu tham khảo từ tsukikan, ANN, wiki, cũ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[52]]></wp:meta_value>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post-146-reaction-item-1]]></wp:meta_key>
@@ -23252,7 +23252,7 @@ Bên cạnh đó, họ luôn tôn trọng sức khỏe của đội ngũ nhân s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_box_title]]></wp:meta_key>
@@ -23452,7 +23452,7 @@ Bên cạnh đó, họ luôn tôn trọng sức khỏe của đội ngũ nhân s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_box_title]]></wp:meta_key>
@@ -23864,7 +23864,7 @@ Bên cạnh đó, họ luôn tôn trọng sức khỏe của đội ngũ nhân s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -24182,7 +24182,7 @@ Bên cạnh đó, họ luôn tôn trọng sức khỏe của đội ngũ nhân s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -24511,7 +24511,7 @@ Bên cạnh đó, họ luôn tôn trọng sức khỏe của đội ngũ nhân s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -24875,7 +24875,7 @@ Bên cạnh đó, họ luôn tôn trọng sức khỏe của đội ngũ nhân s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -25204,7 +25204,7 @@ Bên cạnh đó, họ luôn tôn trọng sức khỏe của đội ngũ nhân s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -25508,7 +25508,7 @@ Bên cạnh đó, họ luôn tôn trọng sức khỏe của đội ngũ nhân s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -25780,7 +25780,7 @@ Bên cạnh đó, họ luôn tôn trọng sức khỏe của đội ngũ nhân s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -26088,7 +26088,7 @@ Bên cạnh đó, họ luôn tôn trọng sức khỏe của đội ngũ nhân s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -26387,7 +26387,7 @@ Bên cạnh đó, họ luôn tôn trọng sức khỏe của đội ngũ nhân s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -26625,7 +26625,7 @@ Mở đầu bằng cái chết và kết thúc cũng bằng cái chết của 1 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -26793,7 +26793,7 @@ Mở đầu bằng cái chết và kết thúc cũng bằng cái chết của 1 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -27107,7 +27107,7 @@ Lấy thời tiết để miêu tả thứ vô hình như tình yêu, vừa đơ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[54]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -27275,7 +27275,7 @@ Lấy thời tiết để miêu tả thứ vô hình như tình yêu, vừa đơ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[54]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -27554,7 +27554,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -27726,7 +27726,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post-130-reaction-item-1]]></wp:meta_key>
@@ -28086,7 +28086,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -28434,7 +28434,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -28723,7 +28723,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -28996,7 +28996,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -29281,7 +29281,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -29577,7 +29577,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -29913,7 +29913,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		<wp:meta_value><![CDATA[33]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -30173,7 +30173,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -30497,7 +30497,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -30782,7 +30782,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -31070,7 +31070,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -31358,7 +31358,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -31670,7 +31670,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -31942,7 +31942,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -32214,7 +32214,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -32494,7 +32494,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -32793,7 +32793,7 @@ Sự giản dị, chân phương trong từng câu chữ của cuốn “Hành t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -33038,7 +33038,7 @@ Câu chuyện của KyoAni vẫn sẽ tiếp tục, hệt như câu chuyện c�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
+		<wp:meta_value><![CDATA[58]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -33206,7 +33206,7 @@ Câu chuyện của KyoAni vẫn sẽ tiếp tục, hệt như câu chuyện c�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
+		<wp:meta_value><![CDATA[58]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -33512,7 +33512,7 @@ Thế nhưng dù bao gồm tất cả những điều trên thì không một ai
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[52]]></wp:meta_value>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -33680,7 +33680,7 @@ Thế nhưng dù bao gồm tất cả những điều trên thì không một ai
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[52]]></wp:meta_value>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post-99-reaction-item-1]]></wp:meta_key>
@@ -33991,7 +33991,7 @@ https://www.youtube.com/watch?v=vg2XbIbZ6h4
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -34159,7 +34159,7 @@ https://www.youtube.com/watch?v=vg2XbIbZ6h4
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -34434,7 +34434,7 @@ Cho nên tóm lại có 1 vài sự khác biệt giữa shounen và seinen ví d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -34602,7 +34602,7 @@ Cho nên tóm lại có 1 vài sự khác biệt giữa shounen và seinen ví d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -34857,7 +34857,7 @@ Cuối cùng kết lại, nếu bạn là một người bận rộn, hay đang 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[58]]></wp:meta_value>
+		<wp:meta_value><![CDATA[59]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -35025,7 +35025,7 @@ Cuối cùng kết lại, nếu bạn là một người bận rộn, hay đang 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[58]]></wp:meta_value>
+		<wp:meta_value><![CDATA[59]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post-138-reaction-item-1]]></wp:meta_key>
@@ -35499,7 +35499,7 @@ Cuối cùng, dù bạn là người thích xem những CGDCT show hay là Idol 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post-142-reaction-item-1]]></wp:meta_key>
@@ -35755,7 +35755,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -35923,7 +35923,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post-148-reaction-item-1]]></wp:meta_key>
@@ -36420,7 +36420,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[35]]></wp:meta_value>
+		<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -36740,7 +36740,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -37108,7 +37108,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -37431,7 +37431,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -37716,7 +37716,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -37997,7 +37997,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -38257,7 +38257,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -38518,7 +38518,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -38907,7 +38907,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -39188,7 +39188,7 @@ Nói chung thì, bài hôm nay mình viết ngắn gọn thôi, cốt để nêu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -39500,7 +39500,7 @@ https://www.youtube.com/watch?v=NpvFns4Ro6s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		<wp:meta_value><![CDATA[22]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -39752,7 +39752,7 @@ https://www.youtube.com/watch?v=5tkSDAV4QxY
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		<wp:meta_value><![CDATA[23]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -40051,7 +40051,7 @@ https://www.youtube.com/watch?v=5tkSDAV4QxY
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -40265,7 +40265,7 @@ Nhìn chung thì, nếu đào sâu về mặt ý tưởng và nội dung thì t�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[52]]></wp:meta_value>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -40433,7 +40433,7 @@ Nhìn chung thì, nếu đào sâu về mặt ý tưởng và nội dung thì t�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[52]]></wp:meta_value>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -40761,7 +40761,7 @@ Với sự xuất hiện của Giao hưởng số 5, nhất là khi nó được
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -40933,7 +40933,7 @@ Với sự xuất hiện của Giao hưởng số 5, nhất là khi nó được
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -41216,7 +41216,7 @@ Komi-san là một tác phẩm rom-com xuất sắc trong mùa, chứa đầy s�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -41384,7 +41384,7 @@ Komi-san là một tác phẩm rom-com xuất sắc trong mùa, chứa đầy s�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post-144-reaction-item-1]]></wp:meta_key>
@@ -41686,7 +41686,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		<wp:meta_value><![CDATA[79]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -41854,7 +41854,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		<wp:meta_value><![CDATA[79]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -42266,7 +42266,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[36]]></wp:meta_value>
+		<wp:meta_value><![CDATA[37]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -42546,7 +42546,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -42822,7 +42822,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -43070,7 +43070,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -43319,7 +43319,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -43576,7 +43576,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -43821,7 +43821,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -44070,7 +44070,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[27]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -44339,7 +44339,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -44560,7 +44560,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -45107,7 +45107,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -45340,7 +45340,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[27]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -45577,7 +45577,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -45823,7 +45823,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[27]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -46068,7 +46068,7 @@ Cả tác phẩm Chainsaw-man đầy máu me, bạo lực và những cuộc tr�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -46332,7 +46332,7 @@ https://www.youtube.com/watch?v=Z3iciR4VjAk
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		<wp:meta_value><![CDATA[22]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -46593,7 +46593,7 @@ GIỜ.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		<wp:meta_value><![CDATA[51]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -46761,7 +46761,7 @@ GIỜ.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		<wp:meta_value><![CDATA[51]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -47016,7 +47016,7 @@ Một tập rất mạnh từ WIT, và mình cũng tò mò rằng liệu "ngôi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -47184,7 +47184,7 @@ Một tập rất mạnh từ WIT, và mình cũng tò mò rằng liệu "ngôi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -47460,7 +47460,7 @@ Và với những tình tiết sắp sửa diễn ra, cũng dễ hiểu là vì 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -47628,7 +47628,7 @@ Và với những tình tiết sắp sửa diễn ra, cũng dễ hiểu là vì 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -47926,7 +47926,7 @@ Nhìn chung, Rumble Garanndoll là tác phẩm mình nghĩ sẽ kén khán giả
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[54]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -48094,7 +48094,7 @@ Nhìn chung, Rumble Garanndoll là tác phẩm mình nghĩ sẽ kén khán giả
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[54]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -48529,7 +48529,7 @@ Nhìn chung, Rumble Garanndoll là tác phẩm mình nghĩ sẽ kén khán giả
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -48697,7 +48697,7 @@ Nhìn chung, Rumble Garanndoll là tác phẩm mình nghĩ sẽ kén khán giả
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -48992,7 +48992,7 @@ Do đó, tụ chung lại thì story-driven hay char-driven cũng chỉ là hư�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[55]]></wp:meta_value>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -49160,7 +49160,7 @@ Do đó, tụ chung lại thì story-driven hay char-driven cũng chỉ là hư�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[55]]></wp:meta_value>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_video_media_link]]></wp:meta_key>
@@ -49458,7 +49458,7 @@ Chìa khóa là sự phù hợp! Mức độ phức tạp của nhân vật nên
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[58]]></wp:meta_value>
+		<wp:meta_value><![CDATA[59]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -49626,7 +49626,7 @@ Chìa khóa là sự phù hợp! Mức độ phức tạp của nhân vật nên
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[58]]></wp:meta_value>
+		<wp:meta_value><![CDATA[59]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post-132-reaction-item-1]]></wp:meta_key>
@@ -50348,7 +50348,7 @@ https://flickr.com/photos/meokisama/albums/72157720118471486
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[59]]></wp:meta_value>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_video_media_link]]></wp:meta_key>
@@ -50520,7 +50520,7 @@ https://flickr.com/photos/meokisama/albums/72157720118471486
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[59]]></wp:meta_value>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_video_media_link]]></wp:meta_key>
@@ -51344,7 +51344,7 @@ Vậy nha !
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[62]]></wp:meta_value>
+		<wp:meta_value><![CDATA[63]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_video_media_link]]></wp:meta_key>
@@ -51520,7 +51520,7 @@ Vậy nha !
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[62]]></wp:meta_value>
+		<wp:meta_value><![CDATA[63]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_video_media_link]]></wp:meta_key>
@@ -51807,7 +51807,7 @@ Tóm gọn lại, ta có thể quy ra 3 yếu tố chính khiến WIT không th�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[59]]></wp:meta_value>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_post_layout_standard]]></wp:meta_key>
@@ -51975,7 +51975,7 @@ Tóm gọn lại, ta có thể quy ra 3 yếu tố chính khiến WIT không th�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[59]]></wp:meta_value>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post-150-reaction-item-1]]></wp:meta_key>
@@ -52312,7 +52312,7 @@ Tóm gọn lại, ta có thể quy ra 3 yếu tố chính khiến WIT không th�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -52581,7 +52581,7 @@ Tóm gọn lại, ta có thể quy ra 3 yếu tố chính khiến WIT không th�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -53010,7 +53010,7 @@ Tóm gọn lại, ta có thể quy ra 3 yếu tố chính khiến WIT không th�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -53287,7 +53287,7 @@ Tóm gọn lại, ta có thể quy ra 3 yếu tố chính khiến WIT không th�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -53556,7 +53556,7 @@ Tóm gọn lại, ta có thể quy ra 3 yếu tố chính khiến WIT không th�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[36]]></wp:meta_value>
+		<wp:meta_value><![CDATA[37]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -53920,7 +53920,7 @@ Tóm gọn lại, ta có thể quy ra 3 yếu tố chính khiến WIT không th�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		<wp:meta_value><![CDATA[34]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -55051,7 +55051,7 @@ Tóm gọn lại, ta có thể quy ra 3 yếu tố chính khiến WIT không th�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		<wp:meta_value><![CDATA[33]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -55317,7 +55317,7 @@ Tóm gọn lại, ta có thể quy ra 3 yếu tố chính khiến WIT không th�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -55638,7 +55638,7 @@ Tóm gọn lại, ta có thể quy ra 3 yếu tố chính khiến WIT không th�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -56141,7 +56141,7 @@ Bit depth                   : 8 bits
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		<wp:meta_value><![CDATA[24]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -56517,7 +56517,7 @@ This e-mail was sent from a contact form on Ceris (https://allthebestsofts.com/c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		<wp:meta_value><![CDATA[33]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -56767,7 +56767,7 @@ This e-mail was sent from a contact form on Ceris (https://allthebestsofts.com/c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[27]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -57068,7 +57068,7 @@ https://www.youtube.com/watch?v=2rjyDSrecnU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		<wp:meta_value><![CDATA[26]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_5e074805c5cb31e4689b5f6e0502dc3a]]></wp:meta_key>
@@ -57346,7 +57346,7 @@ https://www.youtube.com/watch?v=2rjyDSrecnU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		<wp:meta_value><![CDATA[24]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -57619,7 +57619,7 @@ https://www.youtube.com/watch?v=2rjyDSrecnU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		<wp:meta_value><![CDATA[22]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -57901,7 +57901,7 @@ https://www.youtube.com/watch?v=2rjyDSrecnU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		<wp:meta_value><![CDATA[23]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -58155,7 +58155,7 @@ https://www.youtube.com/watch?v=2rjyDSrecnU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -58448,7 +58448,7 @@ https://www.youtube.com/watch?v=2rjyDSrecnU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -58746,7 +58746,7 @@ https://www.youtube.com/watch?v=2rjyDSrecnU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		<wp:meta_value><![CDATA[23]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -59051,7 +59051,7 @@ https://www.youtube.com/watch?v=2rjyDSrecnU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -59336,7 +59336,7 @@ https://www.youtube.com/watch?v=2rjyDSrecnU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -59629,7 +59629,7 @@ https://www.youtube.com/watch?v=2rjyDSrecnU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59719,7 +59719,7 @@ https://www.youtube.com/watch?v=2rjyDSrecnU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -60111,7 +60111,7 @@ https://youtu.be/jOavh8dc8ig
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_815b792b5042b8e7c4f8beed5f2791f3]]></wp:meta_key>
@@ -60412,7 +60412,7 @@ https://youtu.be/jOavh8dc8ig
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -60694,7 +60694,7 @@ https://youtu.be/jOavh8dc8ig
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61011,7 +61011,7 @@ https://youtu.be/jOavh8dc8ig
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -61308,7 +61308,7 @@ https://youtu.be/jOavh8dc8ig
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[bk_review_product_img]]></wp:meta_key>
@@ -61546,7 +61546,7 @@ https://youtu.be/jOavh8dc8ig
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
