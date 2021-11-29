@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="vi" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Đăng nhập &lsaquo; A Lonely Comet &#8212; WordPress</title>
@@ -113,7 +113,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/blog\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://meoki.net/alonelycomet/wp-includes/js/wp-util.min.js?ver=5.8.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"ed79ac9438"};
+var userProfileL10n = {"user_id":"0","nonce":"2b6d65e3c2"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
