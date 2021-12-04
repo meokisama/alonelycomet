@@ -1,7 +1,0 @@
-
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="A Lonely Comet - An Anime Blog | Empire of Dreamers">
-    <meta property="og:url" content="https://alonelycomet.meoki.net">
-    <meta property="og:image" content="https://raw.githubusercontent.com/meokisama/alonelycomet/master/logo/og3.jpg">
-    <meta property="og:description" content="Đế chế của những kẻ mộng mơ, chúng tôi viết về mọi thứ trong ngành công nghiệp 2D này... Empire of some wibus come from the fairy tales...">
-    
