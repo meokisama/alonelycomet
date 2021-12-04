@@ -1,0 +1,136 @@
+//
+// background.scss
+// Extended from Bootstrap
+//
+
+.bg-black {background-color:#000 !important}
+
+// Grays colors
+@each $color, $value in $grays {
+  @include bg-grays-variant(".bg-gray-#{$color}", $value);
+}
+
+// Soft colors
+@each $color, $value in $theme-colors {
+  @include bg-soft-variant(".bg-soft-#{$color}", $value);
+}
+
+// Gradients - horizontal
+.bg-gradient-h-primary-transparent {
+  background: linear-gradient(to right, rgba($primary, 1) 0%, rgba($primary, 0) 100%);
+}
+
+.bg-gradient-h-indigo-transparent {
+  background: linear-gradient(to right, rgba($indigo, 1) 0%, rgba($indigo, 0) 100%);
+}
+
+.bg-gradient-h-dark-transparent {
+  background: linear-gradient(to right, rgba($dark, 1) 0%, rgba($dark, 0) 100%);
+}
+
+.bg-gradient-h-white-transparent {
+  background: linear-gradient(to right, rgba($white, 1) 0%, rgba($white, 0) 100%);
+}
+
+.bg-gradient-h-black-transparent {
+  background: linear-gradient(to right, rgba($black, 1) 0%, rgba($black, 0) 100%);
+}
+
+.bg-gradient-h-transparent-primary {
+  background: linear-gradient(to right, rgba($primary, 0) 0%, rgba($primary, 1) 100%);
+}
+
+.bg-gradient-h-transparent-indigo {
+  background: linear-gradient(to right, rgba($indigo, 0) 0%, rgba($indigo, 1) 100%);
+}
+
+.bg-gradient-h-transparent-dark {
+  background: linear-gradient(to right, rgba($dark, 0) 0%, rgba($dark, 1) 100%);
+}
+
+.bg-gradient-h-transparent-white {
+  background: linear-gradient(to right, rgba($white, 0) 0%, rgba($white, 1) 100%);
+}
+
+.bg-gradient-h-transparent-black {
+  background: linear-gradient(to right, rgba($black, 0) 0%, rgba($black, 1) 100%);
+}
+
+// Gradients - vertical
+.bg-gradient-v-primary-transparent {
+  background: linear-gradient(to bottom, rgba($primary, 1) 0%, rgba($primary, 0) 100%);
+}
+
+.bg-gradient-v-indigo-transparent {
+  background: linear-gradient(to bottom, rgba($indigo, 1) 0%, rgba($indigo, 0) 100%);
+}
+
+.bg-gradient-v-dark-transparent {
+  background: linear-gradient(to bottom, rgba($dark, 1) 0%, rgba($dark, 0) 100%);
+}
+
+.bg-gradient-v-white-transparent {
+  background: linear-gradient(to bottom, rgba($white, 1) 0%, rgba($white, 0) 100%);
+}
+
+.bg-gradient-v-black-transparent {
+  background: linear-gradient(to bottom, rgba($black, 1) 0%, rgba($black, 0) 100%);
+}
+
+.bg-gradient-v-transparent-primary {
+  background: linear-gradient(to bottom, rgba($primary, 0) 0%, rgba($primary, 1) 100%);
+}
+
+.bg-gradient-v-transparent-indigo {
+  background: linear-gradient(to bottom, rgba($indigo, 0) 0%, rgba($indigo, 1) 100%);
+}
+
+.bg-gradient-v-transparent-dark {
+  background: linear-gradient(to bottom, rgba($dark, 0) 0%, rgba($dark, 1) 100%);
+}
+
+.bg-gradient-v-transparent-white {
+  background: linear-gradient(to bottom, rgba($white, 0) 0%, rgba($white, 1) 100%);
+}
+
+.bg-gradient-v-transparent-black {
+  background: linear-gradient(to bottom, rgba($black, 0) 0%, rgba($black, 1) 100%);
+}
+
+// Background size
+.bg-cover {background-size:cover}
+.bg-contain {background-size:contain}
+.bg-cover,.bg-contain {background-repeat:no-repeat;background-position:center}
+
+// Background position
+.bg-top-left {background-position:top left}
+.bg-top-center {background-position:top center}
+.bg-top-right {background-position:top right}
+.bg-center-left {background-position:center left}
+.bg-center {background-position:center}
+.bg-center-right {background-position:center right}
+.bg-bottom-left {background-position:bottom left}
+.bg-bottom-center {background-position:bottom center}
+.bg-bottom-right {background-position:bottom right}
+
+// Background repeat
+.bg-repeat {background-repeat:repeat}
+.bg-repeat-x {background-repeat:repeat-x}
+.bg-repeat-y {background-repeat:repeat-y}
+.bg-norepeat {background-repeat:no-repeat}
+
+// Image object resize
+.img-fit-cover {object-fit:cover}
+.img-fit-contain {object-fit:contain}
+.img-fit-scale-down {object-fit:scale-down}
+
+// Image object position
+.img-top-left {object-position:top left}
+.img-top-center {object-position:top center}
+.img-top-right {object-position:top right}
+.img-center-left {object-position:center left}
+.img-center {object-position:center}
+.img-center-right {object-position:center right}
+.img-bottom-left {object-position:bottom left}
+.img-bottom-center {object-position:bottom center}
+.img-bottom-right {object-position:bottom right}

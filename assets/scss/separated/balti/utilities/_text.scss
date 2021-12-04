@@ -1,0 +1,36 @@
+//
+// text.scss
+// Extended from Bootstrap
+//
+
+// Font size
+.fs-14 {font-size: .875rem}
+
+// Text decoration
+.text-underline {text-decoration:underline}
+.text-none {text-decoration: none}
+.text-none:hover {text-decoration: none}
+
+// Letter spacing
+.text-space-1 {letter-spacing: 1px}
+
+// Contextual colors
+@each $color, $value in $grays {
+  @include text-emphasis-variant(".text-gray-#{$color}", $value, true);
+}
+
+.text-white-70 {
+  color: fade-out($white, .3) !important;
+}
+
+.text-white-80 {
+  color: fade-out($white, .2) !important;
+}
+
+.text-black-70 {
+  color: fade-out($black, .3) !important;
+}
+
+.text-black-80 {
+  color: fade-out($black, .2) !important;
+}

@@ -1,0 +1,11 @@
+// Theme functions
+//
+// Utility functions for evaluating source code across our variables, maps, and mixins.
+
+// Function for converting a px based font-size to rem.
+@function calculatePxToRem($size) {
+	//Default font size on html element is 100%, equivalent to 16px;
+	$remSize: $size / 16px;
+
+	@return $remSize;
+}

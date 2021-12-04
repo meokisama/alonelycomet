@@ -1,0 +1,19 @@
+// Bootstrap setup
+@import "../../vendor/bootstrap/scss/functions";
+@import "../../vendor/bootstrap/scss/mixins";
+@import "../../vendor/bootstrap/scss/variables";
+
+// Theme functions
+@import "balti/functions";
+
+// Theme setup
+@import "balti/variables";
+
+// Custom setup
+@import "user-variables";
+
+// Theme core
+@import "balti/core";
+
+// User
+@import "user";

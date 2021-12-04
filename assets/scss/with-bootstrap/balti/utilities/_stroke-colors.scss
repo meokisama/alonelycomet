@@ -1,0 +1,13 @@
+// Stroke Colors
+
+@each $color, $value in $theme-colors {
+  .stroke-#{$color} {
+    stroke: $value !important;
+  }
+}
+
+@each $color, $value in $grays {
+  .stroke-gray-#{$color} {
+    stroke: $value !important;
+  }
+}

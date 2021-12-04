@@ -1,0 +1,104 @@
+//
+// forms.scss
+// Extended from Bootstrap
+//
+
+.contact-form-result,
+.contact-form-result {
+  display: none;
+  margin-top: 1rem;
+}
+
+// Soft Light
+.form-control-soft-light {
+  color: $input-soft-light-color;
+  background-color: $input-soft-light-bg;
+  border: $input-border-width solid $input-soft-light-border-color;
+
+  @include box-shadow($input-soft-light-box-shadow);
+
+  &:-moz-focusring {
+    text-shadow: 0 0 0 $input-soft-light-color;
+  }
+
+  &::placeholder {
+    color: $input-soft-light-placeholder-color;
+  }
+
+  &:focus {
+    color: $input-soft-light-focus-color;
+    background-color: $input-soft-light-focus-bg;
+    border-color: $input-soft-light-focus-border-color;
+    @if $enable-shadows {
+      box-shadow: $input-soft-light-box-shadow, $input-soft-light-focus-box-shadow;
+    } @else {
+      box-shadow: $input-soft-light-focus-box-shadow;
+    }
+  }
+
+  &:disabled,
+  &[readonly] {
+    background-color: $input-soft-light-disabled-bg;
+  }
+
+  &.form-control-plaintext {
+    color: $input-soft-light-plaintext-color;
+    background-color: transparent;
+    border: solid transparent;
+    border-width: $input-border-width 0;
+  }
+}
+
+select.form-control.form-control-soft-light {
+  &:focus::-ms-value {
+    color: $input-soft-light-color;
+    background-color: $input-soft-light-bg;
+  }
+}
+
+// Soft Dark
+.form-control-soft-dark {
+  color: $input-soft-dark-color;
+  background-color: $input-soft-dark-bg;
+  border: $input-border-width solid $input-soft-dark-border-color;
+
+  @include box-shadow($input-soft-dark-box-shadow);
+
+  &:-moz-focusring {
+    text-shadow: 0 0 0 $input-soft-dark-color;
+  }
+
+  &::placeholder {
+    color: $input-soft-dark-placeholder-color;
+  }
+
+  &:focus {
+    color: $input-soft-dark-focus-color;
+    background-color: $input-soft-dark-focus-bg;
+    border-color: $input-soft-dark-focus-border-color;
+    @if $enable-shadows {
+      box-shadow: $input-soft-dark-box-shadow, $input-soft-dark-focus-box-shadow;
+    } @else {
+      box-shadow: $input-soft-dark-focus-box-shadow;
+    }
+  }
+
+  &:disabled,
+  &[readonly] {
+    background-color: $input-soft-dark-disabled-bg;
+  }
+
+  &.form-control-plaintext {
+    color: $input-soft-light-plaintext-color;
+    background-color: transparent;
+    border: solid transparent;
+    border-width: $input-border-width 0;
+  }
+}
+
+select.form-control.form-control-soft-dark {
+  &:focus::-ms-value {
+    color: $input-soft-dark-color;
+    background-color: $input-soft-dark-bg;
+  }
+}

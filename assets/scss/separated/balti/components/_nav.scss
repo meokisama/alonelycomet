@@ -1,0 +1,55 @@
+//
+// nav.scss
+// Extended from Bootstrap
+//
+
+//
+// Pills modern
+//
+
+.nav-pills-modern {
+  background-color: $nav-pills-modern-bg;
+
+  .nav-link {
+    flex-grow: 1;
+    min-width: $nav-pills-modern-link-min-width;
+    margin-bottom: 0;
+    text-align: center;
+    color: $nav-pills-modern-link-color;
+    @include border-radius($nav-pills-modern-border-radius);
+  }
+
+  .nav-link.active,
+  .show > .nav-link {
+    color: $nav-pills-modern-link-active-color;
+    background-color: $nav-pills-modern-link-active-bg;
+  }
+}
+
+.nav-pills-modern-soft-light {
+  background-color: $nav-pills-modern-soft-light-bg;
+
+  .nav-link {
+    color: $nav-pills-modern-soft-light-link-color;
+  }
+
+  .nav-link.active,
+  .show > .nav-link {
+    color: $nav-pills-modern-soft-light-link-active-color;
+    background-color: $nav-pills-modern-soft-light-link-active-bg;
+  }
+}
+
+.nav-pills-modern-soft-dark {
+  background-color: $nav-pills-modern-soft-dark-bg;
+
+  .nav-link {
+    color: $nav-pills-modern-soft-dark-link-color;
+  }
+
+  .nav-link.active,
+  .show > .nav-link {
+    color: $nav-pills-modern-soft-dark-link-active-color;
+    background-color: $nav-pills-modern-soft-dark-link-active-bg;
+  }
+}

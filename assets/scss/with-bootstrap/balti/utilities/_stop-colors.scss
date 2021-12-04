@@ -1,0 +1,7 @@
+// Stop Colors
+
+@each $color, $value in $theme-colors {
+  .stop-color-#{$color} {
+    stop-color: $value !important;
+  }
+}

@@ -1,0 +1,31 @@
+//
+// badge.scss
+// Extended from Bootstrap
+//
+
+[class*="badge-"] {
+  z-index: $badge-z-index;
+}
+
+// Sizing
+
+.badge-sm {
+  padding: $badge-padding-y-sm $badge-padding-x-sm;
+  font-size: 65%;
+}
+
+.badge-md {
+  padding: $badge-padding-y-md $badge-padding-x-md;
+}
+
+.badge-lg {
+  padding: $badge-padding-y-lg $badge-padding-x-lg;
+}
+
+// Soft variants
+
+@each $color, $value in $theme-colors {
+  .badge-soft-#{$color} {
+    @include badge-variant-soft($value, $badge-soft-bg-opacity);
+  }
+}

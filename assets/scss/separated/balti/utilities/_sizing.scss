@@ -1,0 +1,101 @@
+//
+// sizing.scss
+// Extended from Bootstrap
+//
+
+@each $size, $sizeValue in $sizes {
+
+  // Percentage
+
+  // Fix - Use only available css sizes and stop default Bootstrap duplicates
+  @if( $sizeValue != auto and $size != 100 ){
+    .mw-#{$size} {
+      max-width: $sizeValue !important;
+    }
+  }
+
+  // Viewport additional helpers
+
+  // Fix - Use only available css sizes and stop default Bootstrap duplicates
+  @if( $sizeValue != auto and $size != 100 ){
+    .min-vw-#{$size} {
+      min-width: #{$size}vw !important;
+    }
+
+    .vw-#{$size} {
+      width: #{$size}vw !important;
+    }
+
+    .min-vh-#{$size} {
+      min-height: #{$size}vh !important;
+    }
+
+    .vh-#{$size} {
+      height: #{$size}vh !important;
+    }
+  }
+
+}
+
+// Responsive
+
+@each $width, $widthValue in $container-max-widths {
+  @include media-breakpoint-up($width) {
+    @each $size, $sizeValue in $sizes {
+
+      // Percentage
+
+      .w-#{$width}-#{$size} {
+        width: $sizeValue !important;
+      }
+
+      .h-#{$width}-#{$size} {
+        height: $sizeValue !important;
+      }
+
+      @if( $sizeValue != auto ){
+        .mw-#{$width}-#{$size} {
+          max-width: $sizeValue !important;
+        }
+      }
+
+      // Viewport additional helpers
+
+      @if( $sizeValue != auto ){
+        .min-vw-#{$width}-#{$size} {
+          min-width: #{$size}vw;
+        }
+
+        .vw-#{$width}-#{$size} {
+          width: #{$size}vw !important;
+        }
+
+        .min-vh-#{$width}-#{$size} {
+          min-height: #{$size}vh;
+        }
+
+        .vh-#{$width}-#{$size} {
+          height: #{$size}vh !important;
+        }
+      }
+
+    }
+  }
+}
+
+// Additional sizing - Width and height
+
+@each $breakpoint in map-keys($grid-breakpoints) {
+  @include media-breakpoint-up($breakpoint) {
+    $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+
+    .w-#{$infix}-px { width: 1px !important; }
+    .h-#{$infix}-px { height: 1px !important; }
+
+    @each $prop, $abbrev in (width: w, height: h) {
+      @each $additional-size, $length in $additional-sizes {
+        .#{$abbrev}-#{$infix}-#{$additional-size} { #{$prop}: $length !important; }
+      }
+    }
+  }
+}

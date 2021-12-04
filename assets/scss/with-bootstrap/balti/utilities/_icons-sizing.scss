@@ -1,0 +1,35 @@
+// Icons
+.icon {
+  flex-shrink: 0;
+
+  &.icon-boxed {
+    display: inline-flex;
+	align-items: center;
+	justify-content: center;
+  }
+
+  > svg {
+    height: auto;
+  }
+}
+
+@each $icon-size, $sizeValue in $icon-sizes {
+  .icon-#{$icon-size}x > i {
+    font-size: $sizeValue;
+  }
+}
+
+@each $icon-size, $sizeValue in $icon-sizes {
+  .icon-#{$icon-size}x > svg {
+    width: $sizeValue;
+  }
+}
+
+.icon-boxed {
+  @each $icon-size, $sizeValue in $icon-sizes {
+    &.icon-#{$icon-size}x {
+      width: $sizeValue * $icon-boxed-ratio;
+      height: $sizeValue * $icon-boxed-ratio;
+    }
+  }
+}

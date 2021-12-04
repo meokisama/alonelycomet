@@ -1,0 +1,18 @@
+//
+// alert.scss
+// Extended from Bootstrap
+//
+
+.alert {
+  .alert-inner--icon {
+    display: inline-block;
+    font-size: 1.25rem;
+    margin-right: 1.25rem;
+    vertical-align: middle;
+  }
+
+  .alert-inner--text {
+    display: inline-block;
+    vertical-align: middle;
+  }
+}

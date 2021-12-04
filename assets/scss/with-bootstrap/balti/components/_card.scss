@@ -1,0 +1,126 @@
+//
+// card.scss
+// Extended from Bootstrap
+//
+
+.card-body {
+  position: relative;
+  display: block;
+  flex-grow: 0;
+}
+
+.card-zoom {
+  overflow: hidden!important;
+  border-radius: inherit;
+}
+
+.card-zoom > [class*=card-img] {
+  transition: all .3s ease-in-out;
+  transform-origin: center center;
+  will-change: transform;
+}
+
+.card:hover > .card-zoom > [class*=card-img] {
+  transform: scale(1.1);
+}
+
+.card-img-overlay {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+
+  .card-body {
+    margin: -2rem;
+    margin-top: auto;
+    border-bottom-right-radius: calc(.375rem - 2px);
+    border-bottom-left-radius: calc(.375rem - 2px);
+  }
+}
+
+.card-img-overlay-hover {
+  overflow: hidden;
+
+  .card-body {
+    transform: translateY(110%);
+    transition: all .3s ease;
+  }
+
+  &:hover .card-body {
+    transform: translateY(0);
+  }
+}
+
+.card {
+  > *:not(.card-img-overlay):not(.card-body):not(.card-footer):not(.card-img-top):not(.card-img) {
+    border-radius: inherit;
+  }
+}
+
+//
+// Accordion
+//
+
+.accordion-separated {
+  > .card {
+    overflow: hidden;
+
+    > .card-header {
+      @include border-radius(0);
+      margin-bottom: -$card-border-width;
+    }
+  }
+}
+
+.card {
+  &-collapse {
+    padding: 0;
+    transition: $card-collapse-transition;
+    background-color: $card-collapse-bg-color;
+
+    &:hover {
+      background-color: $card-collapse-hover-bg-color;
+    }
+  }
+
+  &-btn {
+    color: $card-btn-color;
+    text-align: left;
+    white-space: inherit;
+
+    &-arrow {
+      display: inline-block;
+      color: $card-btn-arrow-color;
+      margin-left: 1rem;
+      transition: $card-btn-arrow-transition;
+
+      .collapsed & {
+        transform: $card-btn-arrow-collapsed-rotation;
+      }
+    }
+  }
+}
+
+.accordion-alternative {
+  .card {
+    border-width: 0 0 1px 0;
+
+    &-collapse {
+
+      &:hover {
+        background-color: transparent;
+      }
+    }
+  }
+
+  .card:last-child {
+    border-width: 0;
+  }
+
+  .card-header {
+    border-bottom: 0;
+  }
+
+  .card-header:first-child {
+    border-radius: 0;
+  }
+}

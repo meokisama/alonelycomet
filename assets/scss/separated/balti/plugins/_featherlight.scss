@@ -1,0 +1,109 @@
+.featherlight-lightbox {
+  display: none;
+}
+
+div.featherlight,
+div.featherlight:last-of-type {
+  background: rgba(3,5,7,.9);
+}
+
+div.featherlight .featherlight-content {
+  padding: 0;
+    border-bottom: 0;
+  box-shadow: 0 0 27px rgba(0,0,0,.27);
+}
+
+div.featherlight .featherlight-inner > *:not(.overlay) {
+  position: relative;
+}
+
+div.featherlight .featherlight-close-icon {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  width: auto;
+  background: transparent;
+  font-size: 24px;
+  line-height: 1;
+  color: #fff;
+}
+
+div.featherlight.featherlight-popup .featherlight-close-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 32px;
+  background: #fff;
+  background: rgba(255,255,255,.3);
+  font-size: 18px;
+  line-height: 32px;
+  color: #000;
+}
+
+div.featherlight .featherlight-next,
+div.featherlight .featherlight-previous {
+  position: fixed;
+  z-index: 99999;
+  top: 0;
+  bottom: 0;
+  height: 80px;
+  margin: auto 0;
+  padding: 0 15px;
+  background: transparent;
+  transition: all .3s ease-out;
+}
+
+div.featherlight .featherlight-next {
+  left: auto;
+  right: 0;
+}
+
+div.featherlight .featherlight-previous {
+  left: 0;
+  right: auto;
+}
+
+div.featherlight .featherlight-next span,
+div.featherlight .featherlight-previous span {
+  display: block;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  font-size: 32px;
+  line-height: 80px;
+  text-shadow: none;
+}
+
+div.featherlight .featherlight-next:hover,
+div.featherlight .featherlight-previous:hover {
+  opacity: .8;
+}
+
+.featherlight-content .caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  background: rgba(3,5,7,.8);
+}
+
+.featherlight-content .caption .title-gallery,
+.featherlight-content .caption .text-gallery {
+  width: 100%;
+  max-width: 600px;
+  color: #fff;
+}
+
+div.featherlight-iframe .featherlight-content .caption {
+  position: fixed;
+}
+
+div.featherlight-iframe .featherlight-content {
+  max-width: 90%;
+}

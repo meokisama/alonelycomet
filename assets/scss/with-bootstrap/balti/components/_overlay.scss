@@ -1,0 +1,170 @@
+//
+// overlay.scss
+// Theme component
+//
+
+.bg-image-holder img {
+  display: none !important;
+}
+
+.overlay:not(.overlay-global):not(.overlay-advanced) {
+  position: relative;
+  z-index: 1;
+}
+
+.overlay {
+  &.overlay-global,
+  &.overlay-advanced {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    backface-visibility: hidden;
+    user-select: none;
+  }
+
+  &.overlay-global {
+    position: fixed;
+  }
+
+  &.overlay-advanced {
+    position: absolute;
+    border-radius: inherit;
+
+    &.vegas-container {
+      height: auto !important;
+    }
+  }
+
+  .overlay-inner {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    &.vegas-container {
+      height: auto !important;
+    }
+  }
+
+  .overlay-video {
+
+    video {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: auto;
+      min-width: 100%;
+      max-width: none;
+      height: auto;
+      min-height: 100%;
+      transform: translateX(-50%) translateY(-50%);
+    }
+  }
+  
+  canvas {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  &[class*="overlay-"]:not(.overlay-advanced):before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: inherit;
+    z-index: -1;
+  }
+
+  @each $color, $value in $theme-colors {
+    &-#{$color}:before {
+      background-color: $value;
+    }
+  }
+
+  @for $i from 1 through 9 {
+    $opacity: ($i / 10);
+    &-#{($i*10)}:before {
+      opacity: $opacity;
+    }
+  }
+}
+
+.hover-parent {
+
+  [class*=hover-opacity-] {
+    transition: opacity .3s ease-in-out;
+  }
+
+  [class*=hover-bg-] {
+    transition: background-color .3s ease-in-out;
+  }
+
+  .hover-zoom {
+    transition: transform .3s ease-in-out;
+    transform-origin: center center;
+    will-change: transform;
+  }
+
+  [class*=hover-][class*=hover-] {
+    transition: all .3s ease-in-out;
+  }
+
+  @for $i from 0 through 10 {
+    $opacity: ($i / 10);
+    &:hover .hover-opacity-#{($i*10)} {
+      opacity: $opacity;
+    }
+  }
+
+  @each $color, $value in $theme-colors {
+    &:hover .hover-bg-#{$color} {
+      background-color: $value !important;
+    }
+  }
+
+  &:hover .hover-zoom {
+    transform: scale3d(1.1, 1.1, 1);
+  }
+}
+
+/* Skew */
+.skew-left,
+.skew-right {
+  position: relative;
+  flex-shrink: 0;
+  height: 100%;
+  width: 100%;
+}
+
+@media (min-width: 1200px) {
+  .skew-left,
+  .skew-right {
+    width: 2000px;
+    transform: skew(-27deg, 0)
+  }
+
+  .skew-left {
+    margin-left: -1000px;
+  }
+}
+
+@media (min-width: 1500px) {
+  .skew-left,
+  .skew-right {
+    width: 2400px;
+  }
+
+  .skew-left {
+    margin-left: -1200px;
+  }
+}

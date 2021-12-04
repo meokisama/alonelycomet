@@ -1,0 +1,19 @@
+//
+// divider.scss
+// Theme component
+//
+
+.divider {
+	margin: 1.5rem 0;
+	width: $divider-width;
+	height: $divider-height;
+	background-color: $divider-bg;
+
+	&.divider-sm {
+		width: $divider-width-sm;
+	}
+
+	&.divider-lg {
+		width: $divider-width-lg;
+	}
+}
