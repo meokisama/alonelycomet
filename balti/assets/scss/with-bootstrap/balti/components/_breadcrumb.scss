@@ -1,0 +1,54 @@
+//
+// breadcrumb.scss
+// Extended from Bootstrap
+//
+
+.breadcrumb-dark {
+
+  .breadcrumb-item {
+    color: $breadcrumb-dark-item-color;
+
+    + .breadcrumb-item::before {
+      color: $breadcrumb-dark-divider-color;
+    }
+
+    a {
+      color: $breadcrumb-dark-link-color;
+    }
+
+    a:hover {
+      color: $breadcrumb-dark-link-hover-color;
+    }
+
+    &.active {
+      color: $breadcrumb-dark-active-color;
+    }
+  }
+}
+
+.breadcrumb-light {
+
+  .breadcrumb-item {
+    color: $breadcrumb-light-item-color;
+
+    + .breadcrumb-item::before {
+      color: $breadcrumb-light-divider-color;
+    }
+
+    a {
+      color: $breadcrumb-light-link-color;
+    }
+
+    a:hover {
+      color: $breadcrumb-light-link-hover-color;
+    }
+
+    &.active {
+      color: $breadcrumb-light-active-color;
+    }
+  }
+}
+
+.breadcrumb-no-gutter {
+  padding: 0;
+}

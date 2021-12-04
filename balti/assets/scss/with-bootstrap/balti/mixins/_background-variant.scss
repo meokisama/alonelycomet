@@ -1,0 +1,11 @@
+@mixin bg-soft-variant($parent, $color) {
+  #{$parent} {
+	background-color: rgba($color, $btn-soft-bg-opacity) !important;
+  }
+}
+
+@mixin bg-grays-variant($parent, $color) {
+  #{$parent} {
+    background-color: $color !important;
+  }
+}

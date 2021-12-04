@@ -1,0 +1,62 @@
+//
+// list-group.scss
+// Extended from Bootstrap
+//
+
+.list-group-flush {
+
+  .list-group-item {
+    padding-left: 0;
+    padding-right: 0;
+
+    &:first-child {
+      padding-top: 0;
+      border-top: 0;
+    }
+
+    &:last-child {
+      padding-bottom: 0;
+      border-bottom: 0;
+    }
+  }
+}
+
+.list-group-rounded-0 {
+
+  .list-group-item {
+
+    &:first-child {
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+	}
+
+    &:last-child {
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+  }
+}
+
+.list-group-border-0 {
+
+  .list-group-item {
+    border: none;
+  }
+}
+
+.list-group-striped {
+
+  .list-group-item {
+    &:nth-child(even) {
+      background-color: $list-striped-bg-color;
+    }
+  }
+}
+
+.list-group-transparent {
+
+  .list-group-item {
+    border-color: transparent;
+    background-color: transparent;
+  }
+}

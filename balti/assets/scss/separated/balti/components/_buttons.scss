@@ -1,0 +1,108 @@
+//
+// buttons.scss
+// Extended from Bootstrap
+//
+
+.btn.focus, .btn:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+// Pill
+.btn-pill {
+  @include border-radius($rounded-pill);
+}
+
+// Icon
+.btn-icon {
+  position: relative;
+  line-height: 0;
+  font-size: $btn-icon-font-size;
+  width: $btn-icon-width;
+  height: $btn-icon-height;
+  padding: 0;
+
+  &-inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+    &-bottom-minus {
+      top: 80%;
+    }
+  }
+}
+
+.btn-icon {
+  &.btn-sm {
+    font-size: $btn-icon-font-size-sm;
+    width: $btn-icon-width-sm;
+    height: $btn-icon-height-sm;
+  }
+
+  &.btn-lg {
+    font-size: $btn-icon-font-size-lg;
+    width: $btn-icon-width-lg;
+    height: $btn-icon-height-lg;
+  }
+}
+
+// Color Styles
+@each $color, $value in $theme-colors {
+  .btn-#{$color} {
+    background-color: $value;
+  }
+}
+
+// Outline Styles
+@each $color, $value in $theme-colors {
+  .btn-outline-#{$color} {
+    border-color: $value;
+  }
+}
+
+// Soft Styles
+@each $color, $value in $theme-colors {
+  .btn-soft-#{$color} {
+    @include button-soft($value, $value, $value, $value, $value);
+  }
+}
+
+// Text Styles
+@each $color, $value in $theme-colors {
+  .btn-text-#{$color} {
+    @if $color == "white" {
+      @include button-text($value, $btn-text-white-hover-color);
+    } @else {
+      @include button-text($value, darken($value, $btn-text-hover-darken-percentage));
+    }
+  }
+}
+
+// Back to top
+.btn-back-to-top {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: $zindex-fixed;
+  animation-name: fadeInUpBig;
+  animation-duration: .5s;
+  animation-fill-mode: forwards;
+}
+
+.btn-back-to-top:not(.show) {
+  animation-name: fadeOutDownBig;
+}
+
+// Close
+.btn-close {
+  animation-name: fadeInDownBig;
+  animation-duration: .5s;
+  animation-fill-mode: forwards;
+}
+
+.btn-close:not(.show) {
+  animation-name: fadeOutUpBig;
+}

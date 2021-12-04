@@ -1,0 +1,58 @@
+//
+// pagination.scss
+// Extended from Bootstrap
+//
+
+.page-link {
+  cursor: pointer;
+  text-align: center;
+  min-width: $pagination-min-width;
+  margin-left: 0;
+}
+
+.page-item {
+  margin-left: $pagination-margin-x;
+  margin-right: $pagination-margin-x;
+
+  .page-link {
+    @include border-radius($border-radius);
+  }
+}
+
+.pagination {
+  .page-item:first-child {
+    margin-left: 0;
+  }
+
+  .page-item:last-child {
+    margin-right: 0;
+  }
+}
+
+.pagination-lg {
+  .page-link {
+    min-width: $pagination-min-width-lg;
+  }
+}
+
+.pagination-sm {
+  .page-link {
+    min-width: $pagination-min-width-sm;
+  }
+}
+
+.pagination-pill {
+  .page-item {
+    .page-link {
+      border-radius: 50rem;
+    }
+  }
+
+  &.pagination-lg {
+    @include pagination-size($pagination-padding-y-lg, $pagination-padding-x-lg, $font-size-lg, $line-height-lg, 50rem);
+  }
+
+  &.pagination-sm {
+    @include pagination-size($pagination-padding-y-sm, $pagination-padding-x-sm, $font-size-sm, $line-height-sm, 50rem);
+  }
+}

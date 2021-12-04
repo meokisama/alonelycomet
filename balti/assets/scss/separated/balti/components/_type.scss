@@ -1,0 +1,135 @@
+//
+// type.scss
+// Extended from Bootstrap
+//
+
+// Headings
+
+h1, .h1 {
+  font-weight: $h1-font-weight;
+  line-height: $h1-line-height;
+
+  @include media-breakpoint-down(md) {
+    font-size: $h1-font-size-md;
+  }
+}
+
+h2, .h2 {
+  font-weight: $h2-font-weight;
+  line-height: $h2-line-height;
+
+  @include media-breakpoint-down(md) {
+    font-size: $h2-font-size-md;
+  }
+}
+
+h3, .h3 {
+  font-weight: $h3-font-weight;
+  line-height: $h3-line-height;
+
+  @include media-breakpoint-down(md) {
+    font-size: $h3-font-size-md;
+  }
+}
+
+h4, .h4 {
+  font-weight: $h4-font-weight;
+  line-height: $h4-line-height;
+
+  @include media-breakpoint-down(md) {
+    font-size: $h4-font-size-md;
+  }
+}
+
+h5, .h5 {
+  font-weight: $h5-font-weight;
+  line-height: $h5-line-height;
+}
+
+h6, .h6 {
+  font-weight: $h6-font-weight;
+  line-height: $h6-line-height;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  letter-spacing: $headings-letter-spacing;
+
+  > a {
+    color: $headings-link-color;
+
+    &:hover {
+      color: $link-hover-color;
+    }
+  }
+
+  &.text-white > a {
+    color: $headings-white-link-color;
+  }
+}
+
+// Display
+.display-1 {
+
+  @include media-breakpoint-down(md) {
+    font-size: $display1-size-md;
+  }
+}
+
+.display-2 {
+
+  @include media-breakpoint-down(md) {
+    font-size: $display2-size-md;
+  }
+}
+
+.display-3 {
+
+  @include media-breakpoint-down(md) {
+    font-size: $display3-size-md;
+  }
+}
+
+.display-4 {
+
+  @include media-breakpoint-down(md) {
+    font-size: $display4-size-md;
+  }
+}
+
+// Lead
+
+.lead {
+
+  @include media-breakpoint-down(md) {
+    font-size: $lead-font-size-md;
+  }
+}
+
+// Paragraph
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+// Selection
+
+::-moz-selection {
+	color: $white;
+	background-color: $primary;
+}
+
+::selection {
+	color: $white;
+	background-color: $primary;
+}
+
+.bg-primary ::-moz-selection {
+	color: $primary;
+	background-color: $white;
+}
+
+.bg-primary ::selection {
+	color: $primary;
+	background-color: $white;
+}

@@ -1,0 +1,127 @@
+//
+// dropdown.scss
+// Extended from Bootstrap
+//
+
+// Menu
+
+.dropdown-menu {
+  padding-left: $dropdown-padding-x;
+  padding-right: $dropdown-padding-x;
+}
+
+// Item
+
+.dropdown-item {
+  width: auto;
+  min-width: 100%;
+  margin-left: -$dropdown-padding-x;
+  margin-right: -$dropdown-padding-x;
+
+  @include hover-focus {
+    outline: none;
+  }
+
+  &+.dropdown-item {
+    margin-top: .5rem;
+  }
+
+  +.dropdown-divider {
+    margin-top: 1rem;
+  }
+
+  +.dropdown-item-text {
+    margin-top: .5rem;
+  }
+
+  &+.dropdown-header {
+    margin-top: .5rem;
+  }
+
+  &+.dropdown-header:not(:first-child) {
+    margin-top: 1.25rem;
+  }
+}
+
+// Link
+
+.dropdown-link {
+  color: inherit;
+
+  @include hover {
+    text-decoration: inherit;
+  }
+
+  @include hover-focus {
+    outline: none;
+  }
+}
+
+
+// Divider
+
+.dropdown-divider {
+
+  &+.dropdown-item {
+    margin-top: 1rem;
+  }
+
+  &+.dropdown-header {
+    margin-top: 1rem;
+  }
+}
+
+
+// Text
+
+.dropdown-item-text {
+  margin-left: -$dropdown-padding-x;
+  margin-right: -$dropdown-padding-x;
+
+  &+.dropdown-item {
+    margin-top: .5rem;
+  }
+}
+
+
+// Header
+
+.dropdown-header {
+  margin-bottom: $headings-margin-bottom;
+  margin-left: -$dropdown-padding-x;
+  margin-right: -$dropdown-padding-x;
+  padding-top: 0;
+  padding-bottom: 0;
+
+  &+.dropdown-item {
+    margin-top: .5rem;
+  }
+}
+
+
+// Sizing
+
+.dropdown-menu-md {
+  min-width: $dropdown-min-width-md;
+}
+
+.dropdown-menu-lg {
+  min-width: $dropdown-min-width-lg;
+}
+
+.dropdown-menu-xl {
+  min-width: $dropdown-min-width-xl;
+}
+
+.dropdown-menu-lg,
+.dropdown-menu-xl {
+  padding: $dropdown-padding-y-lg $dropdown-padding-x-lg;
+
+  .dropdown-item,
+  .dropdown-header {
+    margin-left: -$dropdown-padding-x-lg;
+    margin-right: -$dropdown-padding-x-lg;
+    padding-left: $dropdown-item-padding-x-lg;
+    padding-right: $dropdown-item-padding-x-lg;
+  }
+}

@@ -1,0 +1,17 @@
+// Fill Colors
+
+.fill-none {
+  fill: none !important;
+}
+
+@each $color, $value in $theme-colors {
+  .fill-#{$color} {
+    fill: $value !important;
+  }
+}
+
+@each $color, $value in $grays {
+  .fill-gray-#{$color} {
+    fill: $value !important;
+  }
+}

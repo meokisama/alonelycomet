@@ -1,0 +1,110 @@
+//
+// slick
+//
+
+.slick-slide {
+  outline: none;
+}
+
+// Arrows
+.slick-prev,
+.slick-next {
+  font-size: $slick-arrow-font-size;
+  line-height: 1;
+  position: absolute;
+  top: 50%;
+  display: block;
+  width: $slick-arrow-width;
+  height: $slick-arrow-height;
+  padding: 0;
+  transform: translate(0, -50%);
+  cursor: pointer;
+  border: none;
+  border-radius: $slick-arrow-border-radius;
+  outline: none;
+  background: $slick-arrow-bg;
+  color: $slick-arrow-color;
+  z-index: 100;
+  transition: all .3s ease-out;
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+  color: $slick-arrow-hover-color;
+  outline: none;
+  background: $slick-arrow-hover-bg;
+}
+
+.slick-prev:focus,
+.slick-next:focus {
+  outline: none;
+}
+
+.slick-prev {
+  left: 1rem;
+}
+
+.slick-next {
+  right: 1rem;
+}
+
+// Dots
+.slick-dots {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  margin-top: 1.5rem;
+  list-style: none;
+  text-align: center;
+}
+
+.slick-dotted.slick-slider.dots-inside .slick-dots {
+  position: absolute;
+  bottom: 1rem;
+  margin: 0;
+}
+
+.slick-dots li {
+  position: relative;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+  padding: 0;
+  cursor: pointer;
+}
+
+.slick-dots li button {
+  font-size: 0;
+  line-height: 0;
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: 5px;
+  cursor: pointer;
+  color: transparent;
+  border: 0;
+  border-radius: .125rem;
+  outline: none;
+  padding: 0;
+  background: $slick-dots-bg;
+}
+
+.slick-dots li.slick-active button {
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  border-radius: .25rem;
+  background: $slick-dots-active-bg;
+}
+
+.slick-dots li button:hover,
+.slick-dots li button:focus {
+  outline: none;
+}
+
+.slick-dotted.slick-slider.dots-light .slick-dots li button {
+  background: $white;
+}

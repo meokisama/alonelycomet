@@ -1,0 +1,132 @@
+//
+// avatar.scss
+// Theme component
+//
+
+// General
+
+.avatar {
+  position: relative;
+  display: inline-block;
+  width: $avatar-size-base;
+  height: $avatar-size-base;
+  font-size: $avatar-size-base / 3;
+}
+
+.avatar-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.avatar-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: $avatar-title-bg;
+  color: $avatar-title-color;
+}
+
+// Border
+
+.avatar {
+  .avatar-bordered {
+    border: 2px solid #fff;
+  }
+}
+
+.avatar-lg,
+.avatar-xl,
+.avatar-xxl {
+  .avatar-bordered {
+    border: 5px solid #fff;
+  }
+}
+
+// Sizing
+
+.avatar-xs {
+  width: $avatar-size-xs;
+  height: $avatar-size-xs;
+  font-size: $avatar-size-xs / 3;
+}
+
+.avatar-sm {
+  width: $avatar-size-sm;
+  height: $avatar-size-sm;
+  font-size: $avatar-size-sm / 3;
+}
+
+.avatar-lg {
+  width: $avatar-size-lg;
+  height: $avatar-size-lg;
+  font-size: $avatar-size-lg / 3;
+}
+
+.avatar-xl {
+  width: $avatar-size-xl;
+  height: $avatar-size-xl;
+  font-size: $avatar-size-xl / 3;
+}
+
+.avatar-xxl {
+  width: $avatar-size-xl;
+  height: $avatar-size-xl;
+  font-size: $avatar-size-xl / 3;
+
+  @include media-breakpoint-up(md) {
+    width: $avatar-size-xxl;
+    height: $avatar-size-xxl;
+    font-size: $avatar-size-xxl / 3;
+  }
+}
+
+// Group
+
+.avatar-group {
+  display: inline-flex;
+
+  .avatar + .avatar {
+    margin-left: -$avatar-size-base / 4;
+  }
+
+  .avatar-xs + .avatar-xs {
+    margin-left: -$avatar-size-xs / 4;
+  }
+
+  .avatar-sm + .avatar-sm {
+    margin-left: -$avatar-size-sm / 4;
+  }
+
+  .avatar-lg + .avatar-lg {
+    margin-left: -$avatar-size-lg / 4;
+  }
+
+  .avatar-xl + .avatar-xl {
+    margin-left: -$avatar-size-xl / 4;
+  }
+
+  .avatar-xxl + .avatar-xxl {
+    margin-left: -$avatar-size-xxl / 4;
+  }
+}
+
+// Shape
+
+.avatar-shape {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  right: 0;
+  background-color: $white;
+  z-index: -1;
+
+  &.avatar-shape-rounded {
+    border-top-right-radius: 100rem;
+    border-bottom-right-radius: 100rem;
+  }
+}
+

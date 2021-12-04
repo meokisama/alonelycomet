@@ -1,0 +1,68 @@
+//
+// borders.scss
+// Extended from Bootstrap
+//
+
+.border-black {
+  border-color: #000 !important;
+}
+
+// Responsive widths
+
+@each $width, $widthValue in $container-max-widths {
+
+  @include media-breakpoint-up($width) {
+    
+    // Additive 
+
+    .border-#{$width} {
+      border: $border-width solid $border-color !important;
+    }
+
+    .border-top-#{$width} {
+      border-top: $border-width solid $border-color !important;
+    }
+
+    .border-right-#{$width} {
+      border-right: $border-width solid $border-color !important;
+    }
+
+    .border-bottom-#{$width} {
+      border-bottom: $border-width solid $border-color !important;
+    }
+
+    .border-left-#{$width} {
+      border-left: $border-width solid $border-color !important;
+    }
+
+    // Substractive
+
+    .border-#{$width}-0 {
+      border: 0 !important;
+    }
+
+    .border-top-#{$width}-0 {
+      border-top: 0 !important;
+    }
+
+    .border-right-#{$width}-0 {
+      border-right: 0 !important;
+    }
+
+    .border-bottom-#{$width}-0 {
+      border-bottom: 0 !important;
+    }
+
+    .border-left-#{$width}-0 {
+      border-left: 0 !important;
+    }
+  }
+}
+
+// Border radius
+
+.rounded-1x {border-radius: .25rem}
+.rounded-2x {border-radius: .5rem}
+.rounded-3x {border-radius: 1rem}
+.rounded-4x {border-radius: 1.5rem}
+.rounded-5x {border-radius: 2rem}

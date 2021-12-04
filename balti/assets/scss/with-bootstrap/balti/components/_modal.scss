@@ -1,0 +1,15 @@
+//
+// modal.scss
+// Extended from Bootstrap
+//
+
+.modal-content {
+
+  > .overlay.overlay-advanced {
+    border-radius: subtract( $modal-content-border-radius, 1px );
+  }
+}
+
+body.modal-open.side-layout {
+  padding-right: 0 !important;
+}

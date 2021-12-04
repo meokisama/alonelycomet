@@ -1,0 +1,153 @@
+//
+// navbar.scss
+// Extended from Bootstrap
+//
+
+.site-logo {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  min-height: $site-logo-min-height;
+  padding: $site-logo-padding-y $site-logo-padding-x;
+  background-color: $site-logo-background-color;
+  border-radius: $site-logo-border-radius;
+  z-index: $zindex-fixed;
+  font-size: 1.5rem;
+  font-weight: 700;
+  transition: all .3s ease 0s;
+  backface-visibility: hidden;
+}
+
+.site-logo img {
+  display: block;
+}
+
+.site-logo-light {
+  .site-logo-img-dark {
+    display: none;
+  }
+}
+
+.site-logo-dark {
+  .site-logo-text,
+  .site-logo-img:not(.site-logo-img-light):not(.site-logo-img-dark) {
+    filter: brightness(0) invert(1);
+  }
+
+  .site-logo-img-light {
+    display: none;
+  }
+}
+
+.site-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: $zindex-fixed;
+  backface-visibility: hidden;
+  transition: all .3s ease 0s;
+
+  .menu-toggler {
+    
+  }
+}
+
+.site-menu-body {
+  background: $white;
+  border-radius: .25rem;
+  box-shadow: $box-shadow-dark-lg;
+  padding: 1rem;
+  min-width: 10rem;
+
+  transition: all .3s ease-in-out;
+  transition-property: opacity, visibility, transform;
+  transform-origin: top center;
+  transform: translate3d(0,10px,0);
+  display: block!important;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.site-menu-body.show {
+  transform: translate3d(0,0,0);
+  visibility: visible;
+  opacity: 1;
+}
+
+
+// Toggler
+.menu-toggler-icon {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+.menu-toggler-icon > span {
+  position: relative;
+  width: 26px;
+  margin: 0 auto;
+  background-color: currentColor;
+  transition: background-color .35s .0s ease-out;
+}
+
+.menu-toggler-icon > span,
+.menu-toggler-icon > span:before,
+.menu-toggler-icon > span:after {
+  display: block;
+  height: 2px;
+  background-clip: padding-box;
+}
+
+.menu-toggler-icon > span:before,
+.menu-toggler-icon > span:after {
+  position: absolute;
+  content: '';
+  width: 13px;
+  background-color: currentColor;
+  transform-origin: 50% 50%;
+  transition: background-color .35s .0s ease-out, top .2s .4s ease-out, left .2s .2s ease-out, right .2s .2s ease-out, width .2s .2s ease-out, transform .2s ease-out;
+}
+
+.menu-toggler-icon > span:before {
+  top: 8px;
+  left: 13px;
+}
+
+.menu-toggler-icon > span:after {
+  top: -8px;
+  right: 13px;
+}
+
+.menu-toggler.open .menu-toggler-icon > span {
+  background-color: transparent !important;
+  transition: background-color .35s 0s ease-out;
+}
+
+.menu-toggler.open .menu-toggler-icon > span:before,
+.menu-toggler.open .menu-toggler-icon > span:after {
+  top: 0;
+  width: 26px;
+  transition: top .2s ease-out, left .2s .2s ease-out, right .2s .2s ease-out, width .2s .2s ease-out, transform .2s .4s ease-out;
+}
+
+.menu-toggler.open .menu-toggler-icon > span:before {
+  left: 0;
+  transform: rotate3d(0, 0, 1, 45deg);
+}
+
+.menu-toggler.open .menu-toggler-icon > span:after {
+  right: 0;
+  transform: rotate3d(0, 0, 1, -45deg);
+}
